@@ -10,9 +10,9 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Collection of hills in the Philippines known for their chocolate color, and shape, during the dry season.
 * *Fingal's Cave*  
 A sea cave on an uninhabited island in Scotland known for it's natural acoustics.
-* *Tianzi Mountains*
+* *Tianzi Mountains*  
 Mountain range in China known by its vertical columns
-* *Plitvice Lakes*
+* *Plitvice Lakes*  
 A collection of waterfalls, caves, and lakes in Croatia
 
 
