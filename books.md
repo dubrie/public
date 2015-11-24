@@ -2,6 +2,7 @@
 
 - [Currently Reading](#currently-reading)
 - [Queued Up Next](#queued-up-next)
+- [Suggested Books](#suggested-books)
 - [Finished Books](#finished-books)
 - [Top 5](#top-5)
 
@@ -30,6 +31,11 @@
 - Being Mortal
 - Switch: How To Change Things When Change Is Hard
 - Flash Boys
+
+### Suggested Books
+
+Submit a pull request with any suggested books you think I should read as additions to this list
+- [Add book suggestion here]
 
 ### Finished Books
 
