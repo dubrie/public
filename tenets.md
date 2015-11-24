@@ -5,7 +5,9 @@
 - [Recent Changes](#recent-changes)
 
 
+
 ### Philosophies
+Something I have whole-heartedly bought into and is a driving influence in all of my decision making.
 
 - Measure, Compare, Adjust
 Create feedback loops everywhere I can including my own Philosophies, Beliefs, Lifehacks, etc. Write things down as a commitment to them, measure progress, compare changes, adjust to maximize benefits and minimize negatives.
@@ -28,6 +30,7 @@ Drinking in moderation has shown to produce certain health benefits. Having a dr
 Inspiration: [Harvard School of Public Health Study](http://www.hsph.harvard.edu/nutritionsource/alcohol-full-story/)
 
 ### Lifehacks
+Little changes to a regimented routine in an attempt to get more out of what I'm already doing.
 
 - Filters emails by "unsubscribe" to another folder
 Helps to reduce the noise of my inbox and allows me to address them as necessary.
@@ -46,6 +49,7 @@ Unless I am leading a meeting or directly addressed, I refrain from talking for 
 Inspiration: [Amazon Meeting Policies](http://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/)
 
 ### Recent Changes
+Trying something new to see what the results are.
 
 - No Pop At Work
 I enjoy the occassional pop but when it is free and readily available through work it becomes too easy to pass up. For my caffeine needs I have substituted chai tea lattes and lemon herbal tea during work hours.
