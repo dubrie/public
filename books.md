@@ -49,6 +49,14 @@
 - Three and Out by John U. Bacon
 - Startup Life by Brad Feld, Amy Batchelor
 - REWORK by Jason Fried, David Heinemeier Hansson
+- The Art Of The Start by Guy Kawasaki
+- The Design Of Everyday Things by Donald A. Norman
+- The Return Of The King by J. R. R. Tolkien
+- The Two Towers by J. R. R. Tolkien
+- The Fellowship Of The Ring by J. R. R. Tolkien
+- Crossing The Chasm by Geoffery A. Moore
+- Gump & Co. by Winston Groom
+- A Prayer For Owen Meany by John Irving
 
 ### Top 5
 
