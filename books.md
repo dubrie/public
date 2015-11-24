@@ -8,7 +8,6 @@
 ### Active Books
 
 - Venture Deals by Brad Feld, Jason Medelson
-- REWORK by Jason Fried, David Heinemeier Hansson
 - Ghost In The Wires by Kevin Mitnick
 - Startup Growth Engines by Sean Ellis, Morgan Brown
 - Proof: The Science of Booze by Adam Rogers
@@ -18,6 +17,7 @@
 - My Man Jeeves
 - Nudge 
 - The First 20 Hours
+- 500 Days
 - The Organized Mind
 - Unweaving The Rainbow
 - So Good They Can't Ignore You
@@ -46,7 +46,9 @@
 - Hatching Twitter by Nick Bilton
 - Present Shock by Douglas Rushkoff
 - The Signal And The Noise by Nate Silver
+- Three and Out by John U. Bacon
 - Startup Life by Brad Feld, Amy Batchelor
+- REWORK by Jason Fried, David Heinemeier Hansson
 
 ### Top 5
 
