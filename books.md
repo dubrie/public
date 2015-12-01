@@ -19,11 +19,14 @@
 - Nudge 
 - The First 20 Hours
 - 500 Days
+- Getting Things Done
 - The Organized Mind
 - Unweaving The Rainbow
 - So Good They Can't Ignore You
 - Grumption
 - Drive
+- Predictably Irrational
+- Career Renegade
 - Turn The Ship Around 
 - Turing's Cathedral
 - The Devil In The White City
