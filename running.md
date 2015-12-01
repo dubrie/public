@@ -33,7 +33,7 @@
 
 ### 10ks
 
-- 2015 Austin Cap 10k
+- [2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21
 
 ### 5ks
 
