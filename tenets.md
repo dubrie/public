@@ -1,3 +1,5 @@
+<< [Home](https://github.com/dubrie/public)
+
 ## Table of Contents
 
 - [Philosophies](#philosophies)

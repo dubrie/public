@@ -1,3 +1,5 @@
+<< [Home](https://github.com/dubrie/public)
+
 Interesting Places To Visit
 ===========================
 * *Skógafoss*  
