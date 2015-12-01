@@ -57,14 +57,21 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Signal And The Noise by Nate Silver :thumbsup:
 - Three and Out by John U. Bacon :thumbsup:
 - Startup Life by Brad Feld, Amy Batchelor :thumbsup:
+- The Wisdom of Crowds by James Surowiecki
 - The Tipping Point by Malcolm Gladwell :thumbsup:
 - REWORK by Jason Fried, David Heinemeier Hansson :thumbsup:
 - The Art Of The Start by Guy Kawasaki
 - The Design Of Everyday Things by Donald A. Norman
+- The Fabric of the Cosmos by Brian Greene
+- A Short History of Nearly Everything by Bill Bryson :thumbsup:
+- Ideas And Opinions by Albert Einstein
+- A Brief History of Time by Stephen W. Hawking
+- The World As I See It by Albert Einstein
 - The Return Of The King by J. R. R. Tolkien
 - The Two Towers by J. R. R. Tolkien
 - The Fellowship Of The Ring by J. R. R. Tolkien
 - Crossing The Chasm by Geoffery A. Moore
+- Wikinomics by Don Tapscott
 - Gump & Co. by Winston Groom
 - Jurassic Park by Michael Creighton
 - A Prayer For Owen Meany by John Irving :thumbsup:
