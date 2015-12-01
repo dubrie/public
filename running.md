@@ -10,26 +10,26 @@
 ### Marathons
 
 - 2016 Carmel Marathon
-- 2015 Seattle Marathon
-- 2012 Kona Marathon
-- 2007 Chicago Marathon
+- 2015 Seattle Marathon - 3:34:49
+- [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
+- [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
 
 ### Half Marathons
 
 - 2015 Napa to Sonoma (Team Challenge Coaching)
-- 2015 Seattle Rock N Roll
-- 2014 Snoqualmie Cinqo De Mayo
-- 2013 Fall City 
+- [2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41
+- [2014 Snoqualmie Cinqo De Mayo](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=163&race_id=39084&type=result) - 1:26:38
+- [2013 Fall City](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=150&race_id=36441&type=result) - 1:25:47
 - 2013 Kona 1/2 Marathon (Team Challenge Coaching)
-- 2013 Mini Indy
+- [2013 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=7953&race_id=31506&type=result) - 1:31:34
 - 2012 Seattle Marathon 
-- 2012 Portland Rock N Roll
+- [2012 Portland Rock N Roll](http://running.competitor.com/rnrresults?eId=53&eiId=84&seId=&pId=8274) - 1:32:22
 - 2011 Napa to Sonoma (Team Challenge Coaching)
-- 2010 Las Vegas Rock N Roll
+- [2010 Las Vegas Rock N Roll](http://running.competitor.com/rnrresults?eId=27&eiId=33&seId=&pId=92110) - 1:36:41
 - 2010 Seattle Rock N Roll
-- 2010 Phoenix Rock N Roll
-- 2007 Mini Indy
-- 2006 Mini Indy
+- 2010 Arizona Rock N Roll
+- [2007 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=19884&race_id=5241&type=result) - 1:41:28
+- [2006 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=7613&race_id=3212&type=result) - 1:42:50
 
 ### 10ks
 
@@ -37,15 +37,15 @@
 
 ### 5ks
 
-- 2015 Snoqualmie Turkey Trot
-- 2014 Snoqualmie Turkey Trot
-- 2013 Snoqualmie Turkey Trot
+- [2015 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/cert.aspx?CId=16618&RId=79&EId=1&AId=23098&FB=1) - 18:45
+- [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
+- [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17
 - 2008 Fall City Days
 
 ### Trail Runs
 
-- 2015 Snoqualmie Trail Run
+- [2015 Snoqualmie Trail Run](http://nebula.wsimg.com/e8e70a91bdea644910159602ca2f5e01?AccessKeyId=C954475628F8748CE81F&disposition=0&alloworigin=1) - 34:20
 
 ### Adventure Races
 
-- 2007 Wild Scallion
+- 2006 Wild Scallion
