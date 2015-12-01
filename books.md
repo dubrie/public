@@ -54,6 +54,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Signal And The Noise by Nate Silver :thumbsup:
 - Three and Out by John U. Bacon :thumbsup:
 - Startup Life by Brad Feld, Amy Batchelor :thumbsup:
+- The Tipping Point by Malcolm Gladwell :thumbsup:
 - REWORK by Jason Fried, David Heinemeier Hansson :thumbsup:
 - The Art Of The Start by Guy Kawasaki
 - The Design Of Everyday Things by Donald A. Norman
@@ -62,6 +63,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Fellowship Of The Ring by J. R. R. Tolkien
 - Crossing The Chasm by Geoffery A. Moore
 - Gump & Co. by Winston Groom
+- Jurassic Park by Michael Creighton
 - A Prayer For Owen Meany by John Irving :thumbsup:
 
 :thumbsup: - Recommended Books
