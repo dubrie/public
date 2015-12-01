@@ -16,17 +16,20 @@
 
 ### Half Marathons
 
+- 2015 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Seattle Rock N Roll
-- Snoqualmie Cinqo De Mayo
-- Fall City 
-- Mini Indy
-- Portland Rock N Roll
-- Seattle Marathon 
-- Seattle Rock N Roll
-- Las Vegas Rock N Roll
-- Phoenix Rock N Roll
-- Mini Indy
-- Mini Indy
+- 2014 Snoqualmie Cinqo De Mayo
+- 2013 Fall City 
+- 2013 Kona 1/2 Marathon (Team Challenge Coaching)
+- 2013 Mini Indy
+- 2012 Seattle Marathon 
+- 2012 Portland Rock N Roll
+- 2011 Napa to Sonoma (Team Challenge Coaching)
+- 2010 Las Vegas Rock N Roll
+- 2010 Seattle Rock N Roll
+- 2010 Phoenix Rock N Roll
+- 2007 Mini Indy
+- 2006 Mini Indy
 
 ### 10ks
 
@@ -37,6 +40,7 @@
 - 2015 Snoqualmie Turkey Trot
 - 2014 Snoqualmie Turkey Trot
 - 2013 Snoqualmie Turkey Trot
+- 2008 Fall City Days
 
 ### Trail Runs
 
