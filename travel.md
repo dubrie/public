@@ -18,10 +18,19 @@ Collection of hills in the Philippines known for their chocolate color, and shap
 A sea cave on an uninhabited island in Scotland known for it's natural acoustics.
 
 * *Tianzi Mountains*  
-Mountain range in China known by its vertical columns
+Mountain range in China known by its vertical columns.
 
 * *Plitvice Lakes*  
-A collection of waterfalls, caves, and lakes in Croatia
+A collection of waterfalls, caves, and lakes in Croatia.
+
+* *Vaadhoo Island*
+Sea of Stars on Vaadhoo Island in the Maldives where bioluminescence phytoplankton wash up on the shoreline.
+
+* *Trolltunga*
+"Troll's tounge" overhang in Hodaland, Norway.
+
+* *Glowworm Grotto*
+A specific spot in the Waitomo Caves (New Zealand) where tiny glowworms create a star-effect on the ceiling of the cave.
 
 
 Continents I've Visited
