@@ -53,6 +53,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - Do Cool Sh*t by Miki Agrawal
 - On Bullshit by Harry G. Frankfurt
 - How To Win Friends And Influence People by Dale Carnegie
+- Sounders FC: Authentic Masterpiece by Mike Gastineau :thumbsup:
 - Hooked by Nir Eyal :thumbsup:
 - Hatching Twitter by Nick Bilton :thumbsup:
 - Present Shock by Douglas Rushkoff
@@ -60,7 +61,9 @@ Submit a pull request with any suggested books you think I should read as additi
 - Three and Out by John U. Bacon :thumbsup:
 - Startup Life by Brad Feld, Amy Batchelor :thumbsup:
 - The Wisdom of Crowds by James Surowiecki
+- The Beckham Experiment by Grant Wahl :thumbsup:
 - The Tipping Point by Malcolm Gladwell :thumbsup:
+- Into Thin Air by Jon Krakauer :thumbsup:
 - REWORK by Jason Fried, David Heinemeier Hansson :thumbsup:
 - The Art Of The Start by Guy Kawasaki
 - The Design Of Everyday Things by Donald A. Norman
