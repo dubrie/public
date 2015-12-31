@@ -13,10 +13,10 @@
 - Venture Deals by Brad Feld, Jason Medelson
 - Ghost In The Wires by Kevin Mitnick
 - Proof: The Science of Booze by Adam Rogers
+- My Man Jeeves by P. G. Wodehouse
 
 ### Queued Up Next
 
-- My Man Jeeves
 - Nudge 
 - The First 20 Hours
 - The Road To Character
