@@ -58,7 +58,7 @@ Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-y
 Trying something new to see what the results are.
 
 - Stand Whenever Possible
-I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up all your window sizes when disconnecting a MacBook Pro from an external monitor, I've been sitting more at my desk with my laptop. I'm also trainging for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
+I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up [window sizes when disconnecting a MacBook Pro from an external monitor](https://productforums.google.com/forum/#!topic/chrome/nDXWuqYj2zA), I've been sitting more at my desk with my laptop. I'm also training for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
 Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/2013/09/training/how-to-beat-marathon-muscle-cramps_84843/3)
 
 ### Recent Results
