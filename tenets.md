@@ -65,5 +65,5 @@ Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
 
 - No Pop At Work
-Results: Successful
-Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
+  - Results: Successful
+  - Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
