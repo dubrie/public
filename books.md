@@ -20,6 +20,7 @@
 - Nudge 
 - The First 20 Hours
 - The Road To Character
+- Peopleware
 - 500 Days
 - Getting Things Done
 - The Organized Mind
