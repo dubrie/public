@@ -5,7 +5,7 @@
 - [Philosophies](#philosophies)
 - [Lifehacks](#lifehacks)
 - [Recent Changes](#recent-changes)
-
+- [Recent Results](#recent-results)
 
 
 ### Philosophies
@@ -50,12 +50,20 @@ Inspiration: [You Should Ban Laptops At Board Meetings](http://techcrunch.com/20
 Unless I am leading a meeting or directly addressed, I refrain from talking for 10 minutes to absorb others perspectives and understanding of the issues at hand before weighing in myself.
 Inspiration: [Amazon Meeting Policies](http://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/)
 
-### Recent Changes
-Trying something new to see what the results are.
-
 - No Pop At Work
 I enjoy the occassional pop but when it is free and readily available through work it becomes too easy to pass up. For my caffeine needs I have substituted chai tea lattes and lemon herbal tea during work hours.
 Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-you-as-much-as-smoking/)
 
+### Recent Changes
+Trying something new to see what the results are.
 
+- Stand Whenever Possible
+I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up [window sizes when disconnecting a MacBook Pro from an external monitor](https://productforums.google.com/forum/#!topic/chrome/nDXWuqYj2zA), I've been sitting more at my desk with my laptop. I'm also training for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
+Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/2013/09/training/how-to-beat-marathon-muscle-cramps_84843/3)
 
+### Recent Results
+The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
+
+- No Pop At Work
+  - Results: Successful
+  - Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
