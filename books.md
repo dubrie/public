@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- Venture Deals by Brad Feld, Jason Medelson
 - Ghost In The Wires by Kevin Mitnick
 - Proof: The Science of Booze by Adam Rogers
 
@@ -44,6 +43,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Venture Deals by Brad Feld, Jason Medelson
 - My Man Jeeves by P. G. Wodehouse
 - Startup Growth Engines by Sean Ellis, Morgan Brown :thumbsup:
 - Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup:
