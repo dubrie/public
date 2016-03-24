@@ -10,8 +10,8 @@
 
 ### Active Books
 
-- Ghost In The Wires by Kevin Mitnick
 - Proof: The Science of Booze by Adam Rogers
+- Ghost In The Wires by Kevin Mitnick
 
 ### Queued Up Next
 
