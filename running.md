@@ -11,13 +11,14 @@
 
 ### Marathons
 
-- 2016 Carmel Marathon
+- 2016 Carmel Marathon - 3:06:26
 - 2015 Seattle Marathon - 3:34:49
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
 - [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
 
 ### Half Marathons
 
+- 2016 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Napa to Sonoma (Team Challenge Coaching)
 - [2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41
 - [2014 Snoqualmie Cinqo De Mayo](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=163&race_id=39084&type=result) - 1:26:38
