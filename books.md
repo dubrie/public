@@ -11,11 +11,11 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Ghost In The Wires by Kevin Mitnick
+- Nudge by Richard H Thaler
+
 
 ### Queued Up Next
-
-- Nudge 
+ 
 - The First 20 Hours
 - The Hard Thing About Hard Things
 - The Road To Character
@@ -44,6 +44,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Ghost In The Wires by Kevin Mitnick
 - Venture Deals by Brad Feld, Jason Medelson
 - My Man Jeeves by P. G. Wodehouse
 - Startup Growth Engines by Sean Ellis, Morgan Brown :thumbsup:
