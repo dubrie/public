@@ -39,6 +39,9 @@ Continents I've Visited
 Maldives,
 United Arab Emirates
 
+* *Europe*  
+Italy
+
 * *North America*  
 Canada (British Columbia, Alberta, Ontario, Quebec), 
 Mexico,
