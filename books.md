@@ -11,8 +11,6 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Nudge by Richard H Thaler
-
 
 ### Queued Up Next
  
@@ -44,6 +42,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Nudge by Richard H Thaler
 - Ghost In The Wires by Kevin Mitnick
 - Venture Deals by Brad Feld, Jason Medelson
 - My Man Jeeves by P. G. Wodehouse
