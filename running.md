@@ -32,7 +32,7 @@
 - 2011 Napa to Sonoma (Team Challenge Coaching)
 - [2010 Las Vegas Rock N Roll](http://running.competitor.com/rnrresults?eId=27&eiId=33&seId=&pId=92110) - 1:36:41
 - 2010 Seattle Rock N Roll
-- 2010 Arizona Rock N Roll
+- [2010 Arizona Rock N Roll](http://running.competitor.com/cgiresults?eId=44&eiId=66&seId=197&pId=257887) - 1:38:50
 - [2007 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=19884&race_id=5241&type=result) - 1:41:28
 - [2006 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=7613&race_id=3212&type=result) - 1:42:50
 
