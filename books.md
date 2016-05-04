@@ -11,13 +11,13 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
+- Peopleware: Productive Projects and Teams by Tom DeMarco
 
 ### Queued Up Next
  
 - The First 20 Hours
 - The Hard Thing About Hard Things
 - The Road To Character
-- Peopleware
 - 500 Days
 - Getting Things Done
 - The Organized Mind
