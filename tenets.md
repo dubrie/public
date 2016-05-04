@@ -57,15 +57,19 @@ Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-y
 ### Recent Changes
 Trying something new to see what the results are.
 
-- Stand Whenever Possible  
-I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up [window sizes when disconnecting a MacBook Pro from an external monitor](https://productforums.google.com/forum/#!topic/chrome/nDXWuqYj2zA), I've been sitting more at my desk with my laptop. I'm also training for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
-Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/2013/09/training/how-to-beat-marathon-muscle-cramps_84843/3)
-
 - Don't Reuse Adjectives During The Day  
 I've been challenging myself to not use an adjective twice in a day. Calling things "awesome" 15 times a day starts to degrade the value of the adjective overall. Additionally, it is forcing me to be more creative and deliberate in how I describe things. Plus, having a larger vocabulary has other benefits as well: [Vocabulary Size](http://www.nytimes.com/2010/03/14/magazine/14FOB-onlanguage-t.html?_r=0)
 
+- Wake Up 1 Hour Earlier
+I recently got back from a trip to Italy and the jet lag has been waking me up in the 4-5am hours instead of my normal 6-7am hours. With daylight creeping earlier and earlier as well I want to try to keep this trend going and see if there is a change in my productivity, activity, energy, and bedtime. I've struggled with falling asleep at night so the hope is that waking up early will help my productivity for the day as well as getting me to sleep at night. [What I Learned From Waking Up Early](http://www.fastcompany.com/3028199/work-smart/what-i-learned-from-a-week-of-waking-up-early)
+
 ### Recent Results
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
+
+- Stand Whenever Possible  
+  - Results: Successful
+  - Details: I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up [window sizes when disconnecting a MacBook Pro from an external monitor](https://productforums.google.com/forum/#!topic/chrome/nDXWuqYj2zA), I've been sitting more at my desk with my laptop. I'm also training for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
+Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/2013/09/training/how-to-beat-marathon-muscle-cramps_84843/3)
 
 - No Pop At Work  
   - Results: Successful
