@@ -27,7 +27,7 @@
 - [2013 Fall City](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=150&race_id=36441&type=result) - 1:25:47
 - 2013 Kona 1/2 Marathon (Team Challenge Coaching)
 - [2013 Mini Indy 500 Festival](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=7953&race_id=31506&type=result) - 1:31:34
-- 2012 Seattle Marathon 
+- [2012 Seattle Marathon](https://www.athlinks.com/Events/240957/Courses/337536/?search=Johnson) - 1:34:04 
 - [2012 Portland Rock N Roll](http://running.competitor.com/rnrresults?eId=53&eiId=84&seId=&pId=8274) - 1:32:22
 - 2011 Napa to Sonoma (Team Challenge Coaching)
 - [2010 Las Vegas Rock N Roll](http://running.competitor.com/rnrresults?eId=27&eiId=33&seId=&pId=92110) - 1:36:41
