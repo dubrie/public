@@ -1,4 +1,4 @@
-Dubrie Public
+Dubrie Public Repo
 ======================
 A collection of various data around my public personna
 
