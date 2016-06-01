@@ -34,7 +34,7 @@ Inspiration: [Harvard School of Public Health Study](http://www.hsph.harvard.edu
 ### Lifehacks
 Little changes to a regimented routine in an attempt to get more out of what I'm already doing.
 
-- Filters emails by "unsubscribe" to another folder  
+- Filters emails that contain the word "unsubscribe" to another folder  
 Helps to reduce the noise of my inbox and allows me to address them as necessary.
 Inspiration: [Inbox Zero](http://www.newyorker.com/culture/culture-desk/zero-dark-inbox)
 
