@@ -11,6 +11,7 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
+- Grumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
 
 ### Queued Up Next
  
@@ -22,7 +23,6 @@
 - The Organized Mind
 - Unweaving The Rainbow
 - So Good They Can't Ignore You
-- Grumption
 - Drive
 - Predictably Irrational
 - Career Renegade
