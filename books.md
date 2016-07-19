@@ -11,7 +11,6 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Peopleware: Productive Projects and Teams by Tom DeMarco
 
 ### Queued Up Next
  
@@ -42,6 +41,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup:
 - Nudge by Richard H Thaler
 - Ghost In The Wires by Kevin Mitnick
 - Venture Deals by Brad Feld, Jason Medelson
