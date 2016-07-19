@@ -19,6 +19,10 @@
 - The Hard Thing About Hard Things
 - The Road To Character
 - 500 Days
+- Natural Born Heroes
+- The Founder's Dilemmas
+- It's Not the How or the What but the Who
+- The Innovators
 - Getting Things Done
 - The Organized Mind
 - Unweaving The Rainbow
