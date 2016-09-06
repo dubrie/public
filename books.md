@@ -15,6 +15,8 @@
 
 ### Queued Up Next
  
+- But What If We're Wrong?
+- Chaos Monkeys
 - Cadillac Desert
 - The First 20 Hours
 - The Hard Thing About Hard Things
