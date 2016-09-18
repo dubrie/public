@@ -18,6 +18,7 @@
 - But What If We're Wrong?
 - Chaos Monkeys
 - Cadillac Desert
+- Haroun and The Sea Of Stories
 - The First 20 Hours
 - The Hard Thing About Hard Things
 - The Road To Character
