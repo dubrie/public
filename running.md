@@ -44,10 +44,13 @@
 
 ### 5ks
 
+- 2016 Salmon Days Run With The Fishes - 18:21
 - [2015 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/cert.aspx?CId=16618&RId=79&EId=1&AId=23098&FB=1) - 18:45
 - [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
-- [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17
+- [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17^
 - 2008 Fall City Days
+
+^ Disqualified
 
 ### Trail Runs
 
