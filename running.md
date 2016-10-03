@@ -11,7 +11,7 @@
 
 ### Marathons
 
-- [2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)* - 3:06:26
+- **[2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)* - 3:06:26**
 - [2015 Seattle Marathon](https://results.chronotrack.com/event/results/event/event-18056) - 3:34:49
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
 - [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
@@ -22,7 +22,7 @@
 
 - 2016 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Napa to Sonoma (Team Challenge Coaching)
-- [2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41
+- **[2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41**
 - [2014 Snoqualmie Cinqo De Mayo](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=163&race_id=39084&type=result) - 1:26:38
 - [2013 Fall City](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=150&race_id=36441&type=result) - 1:25:47
 - 2013 Kona 1/2 Marathon (Team Challenge Coaching)
@@ -38,13 +38,13 @@
 
 ### 10ks
 
-- [2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21
+- **[2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21**
 - 2006 Run Hit Wonder Remix
 - [2005 Run Hit Wonder](http://results.active.com/events/nike-run-hit-wonder-5k-10k-chicago/10k/william-johnson) - 41:03
 
 ### 5ks
 
-- 2016 Salmon Days Run With The Fishes - 18:21
+- **2016 Salmon Days Run With The Fishes - 18:21**
 - [2015 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/cert.aspx?CId=16618&RId=79&EId=1&AId=23098&FB=1) - 18:45
 - [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
 - [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17^
@@ -59,3 +59,5 @@
 ### Adventure Races
 
 - 2006 Wild Scallion
+
+**bold**: Personal Records
