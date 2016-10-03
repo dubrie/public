@@ -44,7 +44,7 @@
 
 ### 5ks
 
-- **2016 Salmon Days Run With The Fishes - 18:21**
+- **[2016 Salmon Days Run With The Fishes](https://runsignup.com/Race/Results/30631/IndividualResult/XTFP?#U15887697) - 18:17**
 - [2015 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/cert.aspx?CId=16618&RId=79&EId=1&AId=23098&FB=1) - 18:45
 - [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
 - [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17^
