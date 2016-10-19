@@ -27,10 +27,6 @@ Inspiration: [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill
 Don't just report on the things around you, effect that change you want to see in them instead.  
 Inspiration: [Cory Booker](https://www.facebook.com/corybooker/posts/10150525338532228)
 
-- Have A Drink With Dinner  
-Drinking in moderation has shown to produce certain health benefits. Having a drink at night has helped my body shutdown for the evening resulting in more restful sleep and better overall health.  
-Inspiration: [Harvard School of Public Health Study](http://www.hsph.harvard.edu/nutritionsource/alcohol-full-story/)
-
 - Show Up, Work Hard, Listen, Do What You Say You Are Going To Do  
 I've always subconsiously lived by these 4 rules but never had it put as succinctly as this until I heard Jim Harbaugh say it and saw it written on a wall in the University of Michigan football locker room. The best part for me is that none of these skills require talent or things outside of your control, just commitment and work ethic.  
 Inspiration: [Jim Harbaugh's 4 things to do every day](http://coachingsearch.com/article?a=Jim-Harbaughs-4-things-to-do-every-day)
