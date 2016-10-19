@@ -12,24 +12,28 @@
 Something I have whole-heartedly bought into and is a driving influence in all of my decision making.
 
 - Measure, Compare, Adjust  
-Create feedback loops everywhere I can including my own Philosophies, Beliefs, Lifehacks, etc. Write things down as a commitment to them, measure progress, compare changes, adjust to maximize benefits and minimize negatives.
+Create feedback loops everywhere I can including my own Philosophies, Beliefs, Lifehacks, etc. Write things down as a commitment to them, measure progress, compare changes, adjust to maximize benefits and minimize negatives.  
 Inspiration: [James Clear](http://jamesclear.com/feedback-loops)
 
 - Sweat Once A Day  
-Go for a run, take the stairs to/from your office or home, dance, do push-ups or sit-ups during television commercials, whatever it is you enjoy that makes you sweat - do it everyday.
+Go for a run, take the stairs to/from your office or home, dance, do push-ups or sit-ups during television commercials, whatever it is you enjoy that makes you sweat - do it everyday.  
 Inspiration: [Matthew McConaughey](http://www.heraldsun.com.au/entertainment/movies/all-the-joy-of-oz/story-e6frf9h6-1111115440934?nk=663a4f3500f795d460097bc6a5bda9e2-1448396669)
 
 -  Read At Least 30 Minutes A Day  
-It's rumored that Winston Churchill read a book every night because it helped him think better.
+It's rumored that Winston Churchill read a book every night because it helped him think better.  
 Inspiration: [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)
 
 - Be A Thermostat, Not A Thermometer  
-Don't just report on the things around you, effect that change you want to see in them instead.
+Don't just report on the things around you, effect that change you want to see in them instead.  
 Inspiration: [Cory Booker](https://www.facebook.com/corybooker/posts/10150525338532228)
 
 - Have A Drink With Dinner  
-Drinking in moderation has shown to produce certain health benefits. Having a drink at night has helped my body shutdown for the evening resulting in more restful sleep and better overall health.
+Drinking in moderation has shown to produce certain health benefits. Having a drink at night has helped my body shutdown for the evening resulting in more restful sleep and better overall health.  
 Inspiration: [Harvard School of Public Health Study](http://www.hsph.harvard.edu/nutritionsource/alcohol-full-story/)
+
+- Show Up, Work Hard, Listen, Do What You Say You Are Going To Do  
+I've always subconsiously lived by these 4 rules but never had it put as succinctly as this until I heard Jim Harbaugh say it and saw it written on a wall in the University of Michigan football locker room. The best part for me is that none of these skills require talent or things outside of your control, just commitment and work ethic.  
+Inspiration: [Jim Harbaugh's 4 things to do every day](http://coachingsearch.com/article?a=Jim-Harbaughs-4-things-to-do-every-day)
 
 ### Lifehacks
 Little changes to a regimented routine in an attempt to get more out of what I'm already doing.
