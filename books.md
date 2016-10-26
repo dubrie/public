@@ -12,6 +12,8 @@
 
 - Proof: The Science of Booze by Adam Rogers
 - Grumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
+- REWORK by Jason Fried, David Heinemeier Hansson
+
 
 ### Queued Up Next
  
