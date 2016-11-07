@@ -17,7 +17,7 @@
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
 - [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
 
-\* Boston Marathon Qualification
+\* - Boston Marathon Qualification
 
 ### Half Marathons
 
@@ -43,7 +43,8 @@
 
 ### 10ks
 
-- **[2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21**
+- **[2016 Alki Beach Park 10k](http://fitnessforvitality.com/alki-beach-park-race/) - 38:04^**
+- [2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21
 - 2006 Run Hit Wonder Remix
 - [2005 Run Hit Wonder](http://results.active.com/events/nike-run-hit-wonder-5k-10k-chicago/10k/william-johnson) - 41:03
 
@@ -52,10 +53,10 @@
 - **[2016 Salmon Days Run With The Fishes](https://runsignup.com/Race/Results/30631/IndividualResult/XTFP?#U15887697) - 18:17**
 - [2015 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/cert.aspx?CId=16618&RId=79&EId=1&AId=23098&FB=1) - 18:45
 - [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
-- [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17^
+- [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17@
 - 2008 Fall City Days
 
-^ Disqualified
+@ - Disqualified
 
 ### Trail Runs
 
@@ -65,4 +66,6 @@
 
 - 2006 Wild Scallion
 
-**bold**: Personal Records
+**bold** - Personal Records
+^ - Race Champion
+
