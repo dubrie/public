@@ -66,6 +66,6 @@
 
 - 2006 Wild Scallion
 
-**bold** - Personal Records
+**bold** - Personal Records  
 ^ - Race Champion
 
