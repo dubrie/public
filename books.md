@@ -18,6 +18,7 @@
 ### Queued Up Next
  
 - But What If We're Wrong?
+- The Leap: The Science Of Trust And Why It Matters
 - Chaos Monkeys
 - Cadillac Desert
 - Haroun and The Sea Of Stories
