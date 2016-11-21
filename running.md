@@ -57,8 +57,6 @@
 - [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17@
 - 2008 Fall City Days
 
-@ - Disqualified
-
 ### Trail Runs
 
 - [2015 Snoqualmie Trail Run](http://nebula.wsimg.com/e8e70a91bdea644910159602ca2f5e01?AccessKeyId=C954475628F8748CE81F&disposition=0&alloworigin=1) - 34:20
@@ -67,6 +65,9 @@
 
 - 2006 Wild Scallion
 
+*Legend*  
 **bold** - Personal Records  
-^ - Overall Winner
+^ - Overall Winner  
+@ - Disqualified  
+
 
