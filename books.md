@@ -15,7 +15,13 @@
 
 
 ### Queued Up Next
- 
+
+- Overcomplicated
+- Chaos Monkeys
+- Cumulus
+- The Business Blockchain
+- The Hunt for Vulcan
+- 4:09:43
 - But What If We're Wrong?
 - The Leap: The Science Of Trust And Why It Matters
 - Chaos Monkeys
