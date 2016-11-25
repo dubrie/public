@@ -11,7 +11,6 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Grumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
 - REWORK by Jason Fried, David Heinemeier Hansson
 
 
@@ -52,6 +51,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Grumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
 - Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup:
 - Nudge by Richard H Thaler
 - Ghost In The Wires by Kevin Mitnick
