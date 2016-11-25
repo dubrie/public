@@ -16,39 +16,38 @@
 
 ### Queued Up Next
 
-- Overcomplicated
+- Being Mortal
+- The Business Blockchain
+- But What If We're Wrong?
+- Cadillac Desert
+- Career Renegade
 - Chaos Monkeys
 - Cumulus
-- The Business Blockchain
-- The Hunt for Vulcan
-- 4:09:43
-- But What If We're Wrong?
-- The Leap: The Science Of Trust And Why It Matters
-- Chaos Monkeys
-- Cadillac Desert
-- Haroun and The Sea Of Stories
-- The First 20 Hours
-- The Hard Thing About Hard Things
-- The Road To Character
-- 500 Days
-- Natural Born Heroes
-- The Founder's Dilemmas
-- It's Not the How or the What but the Who
-- The Innovators
-- Getting Things Done
-- The Organized Mind
-- Unweaving The Rainbow
-- So Good They Can't Ignore You
-- Drive
-- Predictably Irrational
-- Career Renegade
-- Turn The Ship Around 
-- Turing's Cathedral
 - The Devil In The White City
-- The Innovator's Method
-- Being Mortal
-- Switch: How To Change Things When Change Is Hard
+- Drive
+- The First 20 Hours
 - Flash Boys
+- The Founder's Dilemmas
+- Getting Things Done
+- The Hard Thing About Hard Things
+- Haroun and The Sea Of Stories
+- The Hunt for Vulcan
+- The Innovator's Method
+- The Innovators
+- It's Not the How or the What but the Who
+- The Leap: The Science Of Trust And Why It Matters
+- Natural Born Heroes
+- The Organized Mind
+- Overcomplicated
+- Predictably Irrational
+- The Road To Character
+- So Good They Can't Ignore You
+- Switch: How To Change Things When Change Is Hard
+- Turing's Cathedral
+- Turn The Ship Around 
+- Unweaving The Rainbow
+- 4:09:43
+- 500 Days
 
 ### Suggested Books
 
