@@ -21,9 +21,10 @@
 
 ### Half Marathons
 
+- **[2016 San Antonio Rock N Roll](http://www.runrocknroll.com/finisher-zone/search-and-results/?resultpage=1&eventid=39&subevent_id=2&bib=1099) - 1:24:28**
 - 2016 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Napa to Sonoma (Team Challenge Coaching)
-- **[2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41**
+- [2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41
 - [2014 Snoqualmie Cinqo De Mayo](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=163&race_id=39084&type=result) - 1:26:38
 - [2013 Fall City](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=150&race_id=36441&type=result) - 1:25:47
 - 2013 Kona 1/2 Marathon (Team Challenge Coaching)
