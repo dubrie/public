@@ -11,7 +11,6 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- REWORK by Jason Fried, David Heinemeier Hansson
 
 
 ### Queued Up Next
