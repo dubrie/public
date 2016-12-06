@@ -11,6 +11,7 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
+- Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez  
 
 
 ### Queued Up Next
@@ -20,7 +21,6 @@
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
-- Chaos Monkeys
 - Cumulus
 - The Devil In The White City
 - Drive
