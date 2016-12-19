@@ -12,6 +12,7 @@
 
 - Proof: The Science of Booze by Adam Rogers
 - Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez  
+- Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 
 
 ### Queued Up Next
@@ -40,7 +41,6 @@
 - Overcomplicated
 - Predictably Irrational
 - The Road To Character
-- Site Reliability Engineering  
 - So Good They Can't Ignore You
 - Switch: How To Change Things When Change Is Hard
 - Turing's Cathedral
