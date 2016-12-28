@@ -42,6 +42,7 @@
 - Overcomplicated
 - Predictably Irrational
 - The Road To Character
+- Shoe Dog  
 - So Good They Can't Ignore You
 - Switch: How To Change Things When Change Is Hard
 - Turing's Cathedral
