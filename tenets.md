@@ -6,6 +6,7 @@
 - [Lifehacks](#lifehacks)
 - [Recent Changes](#recent-changes)
 - [Recent Results](#recent-results)
+- [Resources](#resources)
 
 
 ### Philosophies
@@ -74,3 +75,8 @@ Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/
 - No Pop At Work  
   - Results: Successful
   - Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
+
+### Resources
+- [Goal Setting: A Scientific Guide to Setting and Achieving Goals](http://jamesclear.com/goal-setting) by James Clear
+- [Managers FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84) by Henry Ward
+- [Principles of Chaos](http://principlesofchaos.org/)
