@@ -13,7 +13,7 @@
 - Proof: The Science of Booze by Adam Rogers
 - Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez  
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
-
+- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon  
 
 ### Queued Up Next
 
@@ -48,7 +48,6 @@
 - Turing's Cathedral
 - Turn The Ship Around 
 - Unweaving The Rainbow
-- 4:09:43
 - 500 Days
 
 ### Suggested Books
