@@ -37,6 +37,7 @@
 - The Innovators
 - It's Not the How or the What but the Who
 - The Leap: The Science Of Trust And Why It Matters
+- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Natural Born Heroes
 - The Organized Mind
 - Overcomplicated
