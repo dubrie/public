@@ -43,6 +43,7 @@
 - Overcomplicated
 - Predictably Irrational
 - The Road To Character
+- Seeking Wisdom: From Darwin to Munger
 - Shoe Dog  
 - So Good They Can't Ignore You
 - Switch: How To Change Things When Change Is Hard
