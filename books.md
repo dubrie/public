@@ -11,7 +11,6 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez  
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon  
 
@@ -59,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+- Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez :thumbsup:   
 - Grumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
 - Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup:
 - Nudge by Richard H Thaler
