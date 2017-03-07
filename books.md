@@ -45,6 +45,7 @@
 - Shoe Dog  
 - So Good They Can't Ignore You
 - Switch: How To Change Things When Change Is Hard
+- Thinking Fast & Slow
 - Turing's Cathedral
 - Turn The Ship Around 
 - Unweaving The Rainbow
