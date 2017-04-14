@@ -41,6 +41,7 @@
 - Overcomplicated
 - Predictably Irrational
 - The Road To Character
+- Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
 - Shoe Dog  
 - So Good They Can't Ignore You
