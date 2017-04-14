@@ -32,6 +32,11 @@ Inspiration: [Cory Booker](https://www.facebook.com/corybooker/posts/10150525338
 I've always subconsiously lived by these 4 rules but never had it put as succinctly as this until I heard Jim Harbaugh say it and saw it written on a wall in the University of Michigan football locker room. The best part for me is that none of these skills require talent or things outside of your control, just commitment and work ethic.  
 Inspiration: [Jim Harbaugh's 4 things to do every day](http://coachingsearch.com/article?a=Jim-Harbaughs-4-things-to-do-every-day)
 
+- Consistency Over Dogma  
+Everyone has their own reasons and justifications for their actions, beliefs, or decisions. I am looking to be consistent in mine whether they align to or follow a defined groupthink or not. If I am for helping the less fortunate, or trying to combat climate change, or spaces over tabs when writing code (spoiler alert: I am), then I should also maintain those beliefs
+in my other actions that may not directly effect those issues. 
+Inspiration: General Observations
+
 ### Lifehacks
 Little changes to a regimented routine in an attempt to get more out of what I'm already doing.
 
@@ -43,10 +48,6 @@ Inspiration: [Inbox Zero](http://www.newyorker.com/culture/culture-desk/zero-dar
 I've found that including emoji characters in my messages slows down the speed at which I reply and forces me to think more about what I'm really trying to say. Also, they are entertaining.
 Inspiration: [Your Brain Performs Better When It Slows Down](http://bigthink.com/think-tank/steven-kotler-flow-states)
 
-- No Laptops At Meetings  
-Most meetings are poorly run and have poor time management. Refusing to bring a laptop unless absolutely necessary has forced me to focus on what every person is saying and quickly call out things that are not relevant to goal of the meeting.
-Inspiration: [You Should Ban Laptops At Board Meetings](http://techcrunch.com/2011/10/31/why-you-should-ban-laptops-at-board-meetings/)
-
 - Don't Talk For 10 Minutes  
 Unless I am leading a meeting or directly addressed, I refrain from talking for 10 minutes to absorb others perspectives and understanding of the issues at hand before weighing in myself.
 Inspiration: [Amazon Meeting Policies](http://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/)
@@ -57,6 +58,9 @@ Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-y
 
 ### Recent Changes
 Trying something new to see what the results are.
+
+- Review Tenants Quarterly  
+The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
 
 - Don't Reuse Adjectives During The Day  
 I've been challenging myself to not use an adjective twice in a day. Calling things "awesome" 15 times a day starts to degrade the value of the adjective overall. Additionally, it is forcing me to be more creative and deliberate in how I describe things. Plus, having a larger vocabulary has other benefits as well: [Vocabulary Size](http://www.nytimes.com/2010/03/14/magazine/14FOB-onlanguage-t.html?_r=0)
@@ -75,6 +79,11 @@ Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/
 - No Pop At Work  
   - Results: Successful
   - Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
+
+- No Laptops At Meetings  
+  - Results: Mixed
+  - Details: Switching jobs has made this much more difficult to achieve. I still try to do this but I don't quite have a 1:1 functionality mapping for things I can do on a laptop and things I can do with a phone. Simple notes or research is easy but accessing corporate websites/documents or editing wiki pages is pretty tricky. I started this because most meetings are poorly run and have poor time management. Refusing to bring a laptop unless absolutely necessary has forced me to focus on what every person is saying and quickly call out things that are not relevant to goal of the meeting. There seems to be a much sharper focus on meeting value and efficiency at the new company as well.
+Inspiration: [You Should Ban Laptops At Board Meetings](http://techcrunch.com/2011/10/31/why-you-should-ban-laptops-at-board-meetings/)
 
 ### Resources
 - [Goal Setting: A Scientific Guide to Setting and Achieving Goals](http://jamesclear.com/goal-setting) by James Clear
