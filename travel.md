@@ -51,6 +51,7 @@ Planned Travels
 - Balule Nature Reserve, South Africa
 - Cape Town, South Africa
 - Santa Rosa, California
+- Portland, Oregon
 - Indianapolis, Indiana
 
 **2018**
