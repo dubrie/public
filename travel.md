@@ -2,50 +2,64 @@
 
 Interesting Places To Visit
 ===========================
-* *Skógafoss*  
+**Skógafoss**  
 A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.
 
-* *Cloud Ladder Hall (Er Wang Dong)*  
+**Cloud Ladder Hall (Er Wang Dong)**  
 Cave in southwest China.
 
-* *Homestake Mine*  
+**Homestake Mine**  
 Former gold mine in South Dakota now the home for the Deep Underground Science and Engineering Laboratory (DUSEL).
 
-* *Chocolate Hills*  
+**Chocolate Hills**  
 Collection of hills in the Philippines known for their chocolate color, and shape, during the dry season.
 
-* *Fingal's Cave*  
+**Fingal's Cave**  
 A sea cave on an uninhabited island in Scotland known for it's natural acoustics.
 
-* *Tianzi Mountains*  
+**Tianzi Mountains**  
 Mountain range in China known by its vertical columns.
 
-* *Plitvice Lakes*  
+**Plitvice Lakes**  
 A collection of waterfalls, caves, and lakes in Croatia.
 
-* *Vaadhoo Island*
+**Vaadhoo Island**
 Sea of Stars on Vaadhoo Island in the Maldives where bioluminescence phytoplankton wash up on the shoreline.
 
-* *Trolltunga*
+**Trolltunga**
 "Troll's tounge" overhang in Hodaland, Norway.
 
-* *Glowworm Grotto*
+**Glowworm Grotto**
 A specific spot in the Waitomo Caves (New Zealand) where tiny glowworms create a star-effect on the ceiling of the cave.
 
+Planned Travels  
+=======================
+**2017** 
+- Eugene, Oregon
+- Victoria Falls, Zimbabwe
+- Hwange National Park, Zimbabwe
+- Johannesburg, South Africa
+- Balule Nature Reserve, South Africa
+- Cape Town, South Africa
+- Santa Rosa, California
+- Indianapolis, Indiana
+
+**2018**
+- Boston, Massachusetts
 
 Continents I've Visited
 =======================
-* *Asia*  
+**Asia**  
 Maldives,
 United Arab Emirates
 
-* *Europe*  
+**Europe**  
 Italy
 
-* *North America*  
+**North America**  
 Canada (British Columbia, Alberta, Ontario, Quebec), 
 Mexico,
 United States (All 50 states)
 
-* *South America*  
+**South America**  
 Chile
