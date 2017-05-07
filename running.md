@@ -12,8 +12,9 @@
 
 ### Marathons
 
+- **[2017 Eugene Marathon](https://results.chronotrack.com/m/ctlive/#29675/result/73772/29102305)\* - 2:57:17**
 - [2017 Boston Marathon](http://registration.baa.org/2017/cf/Public/iframe_ResultsSearch.cfm) - 3:10:41  
-- **[2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)\* - 3:06:26**
+- [2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)\* - 3:06:26
 - [2015 Seattle Marathon](https://results.chronotrack.com/event/results/event/event-18056) - 3:34:49
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
 - [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
