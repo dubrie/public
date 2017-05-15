@@ -44,7 +44,6 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- Eugene, Oregon
 - Victoria Falls, Zimbabwe
 - Hwange National Park, Zimbabwe
 - Johannesburg, South Africa
@@ -68,7 +67,7 @@ Italy
 
 **North America**  
 Canada (British Columbia, Alberta, Ontario, Quebec), 
-Mexico,
+Mexico (Chihuahua),
 United States (All 50 states)
 
 **South America**  
