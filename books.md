@@ -11,7 +11,7 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- The Advantage by Patrick Lencioni
+- Cumulus by Eliot Peper  
 
 ### Queued Up Next
 
@@ -20,7 +20,6 @@
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
-- Cumulus
 - Data-ism  
 - The Devil In The White City
 - Drive
@@ -59,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- The Advantage by Patrick Lencioni  
 - Ready Player One by Ernest Cline :thumbsup:  
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:  
