@@ -44,8 +44,6 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- Victoria Falls, Zimbabwe
-- Hwange National Park, Zimbabwe
 - Johannesburg, South Africa
 - Balule Nature Reserve, South Africa
 - Cape Town, South Africa
@@ -58,6 +56,10 @@ Planned Travels
 
 Continents I've Visited
 =======================
+**Africa**  
+South Africa,
+Zimbabwe  
+
 **Asia**  
 Maldives,
 United Arab Emirates
