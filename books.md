@@ -11,7 +11,7 @@
 ### Active Books
 
 - Proof: The Science of Booze by Adam Rogers
-- Cumulus by Eliot Peper  
+ 
 
 ### Queued Up Next
 
@@ -58,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Cumulus by Eliot Peper  
 - The Advantage by Patrick Lencioni  
 - Ready Player One by Ernest Cline :thumbsup:  
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
