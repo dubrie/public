@@ -44,9 +44,6 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- Johannesburg, South Africa
-- Balule Nature Reserve, South Africa
-- Cape Town, South Africa
 - Santa Rosa, California
 - Portland, Oregon
 - Indianapolis, Indiana
