@@ -44,8 +44,9 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- Santa Rosa, California
+- Washington, D.C.
 - Portland, Oregon
+- Ann Arbor, MI
 - Indianapolis, Indiana
 
 **2018**
