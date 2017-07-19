@@ -23,6 +23,7 @@
 
 ### Half Marathons
 
+- 2017 Napa to Sonoma (Team Challenge Coaching)
 - **[2016 San Antonio Rock N Roll](http://www.runrocknroll.com/finisher-zone/search-and-results/?resultpage=1&eventid=39&subevent_id=2&bib=1099) - 1:24:28**
 - 2016 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Napa to Sonoma (Team Challenge Coaching)
