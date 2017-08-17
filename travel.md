@@ -51,6 +51,7 @@ Planned Travels
 
 **2018**
 - Boston, Massachusetts
+- Willemstad, Curaçao
 
 Continents I've Visited
 =======================
