@@ -56,20 +56,20 @@ Planned Travels
 Continents I've Visited
 =======================
 **Africa**  
-South Africa,
-Zimbabwe  
+- South Africa
+- Zimbabwe  
 
 **Asia**  
-Maldives,
-United Arab Emirates
+- Maldives
+- United Arab Emirates
 
 **Europe**  
-Italy
+- Italy
 
 **North America**  
-Canada (British Columbia, Alberta, Ontario, Quebec), 
-Mexico (Chihuahua),
-United States (All 50 states)
+- Canada (British Columbia, Alberta, Ontario, Quebec) 
+- Mexico (Chihuahua)
+- United States (All 50 states)
 
 **South America**  
-Chile
+- Chile
