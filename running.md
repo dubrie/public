@@ -6,8 +6,8 @@
 - [Half Marathons](#half-marathons)
 - [15k](#15ks)
 - [10k](#10ks)
+- [5 Miles](#5-miles)
 - [5k](#5ks)
-- [Trail Run](#trail-runs)
 - [Adventure Races](#adventure-races)
 
 ### Marathons
@@ -22,7 +22,7 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
-
+- 2017 Summer Blast @ Redmond Watershed Trail Run - 1:28:59^
 - 2017 Napa to Sonoma (Team Challenge Coaching)
 - **[2016 San Antonio Rock N Roll](http://www.runrocknroll.com/finisher-zone/search-and-results/?resultpage=1&eventid=39&subevent_id=2&bib=1099) - 1:24:28**
 - 2016 Napa to Sonoma (Team Challenge Coaching)
@@ -52,6 +52,10 @@
 - 2006 Run Hit Wonder Remix
 - [2005 Run Hit Wonder](http://results.active.com/events/nike-run-hit-wonder-5k-10k-chicago/10k/william-johnson) - 41:03
 
+### 5 miles
+
+- [2015 Snoqualmie Trail Run](http://nebula.wsimg.com/e8e70a91bdea644910159602ca2f5e01?AccessKeyId=C954475628F8748CE81F&disposition=0&alloworigin=1) - 34:20
+
 ### 5ks
 
 - 2017 Take Steps 5K Run/Walk - 17:20@
@@ -62,10 +66,6 @@
 - [2014 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=237&race_id=44874&type=result) - 19:37
 - [2013 Snoqualmie Turkey Trot](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=222&race_id=37158&type=result) - 17:17@
 - 2008 Fall City Days
-
-### Trail Runs
-
-- [2015 Snoqualmie Trail Run](http://nebula.wsimg.com/e8e70a91bdea644910159602ca2f5e01?AccessKeyId=C954475628F8748CE81F&disposition=0&alloworigin=1) - 34:20
 
 ### Adventure Races
 
