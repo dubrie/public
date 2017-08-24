@@ -4,10 +4,10 @@
 
 - [Marathons](#marathons)
 - [Half Marathons](#half-marathons)
-- [15k](#15ks)
-- [10k](#10ks)
+- [15ks](#15ks)
+- [10ks](#10ks)
 - [5 Miles](#5-miles)
-- [5k](#5ks)
+- [5ks](#5ks)
 - [Adventure Races](#adventure-races)
 
 ### Marathons
