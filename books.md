@@ -10,7 +10,8 @@
 
 ### Active Books
 
-- Proof: The Science of Booze by Adam Rogers
+- Proof: The Science of Booze by Adam Rogers  
+- Data-ism by Steve Lohr  
 
 ### Queued Up Next
 
@@ -19,7 +20,6 @@
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
-- Data-ism  
 - The Devil In The White City
 - Drive
 - The First 20 Hours
