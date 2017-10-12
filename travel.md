@@ -44,14 +44,13 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- Washington, D.C.
-- Portland, Oregon
 - Ann Arbor, MI
 - Indianapolis, Indiana
 
 **2018**
 - Boston, Massachusetts
 - Willemstad, Curaçao
+- Chicago, Illinois
 
 Continents I've Visited
 =======================
