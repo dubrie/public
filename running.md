@@ -48,7 +48,7 @@
 
 ### 10ks
 
-- 2017 Run With The Kokanee - 38:34
+- [2017 Run With The Kokanee](https://www.webscorer.com/racedetails?raceid=117200&did=127895) - 38:34
 - **[2016 Alki Beach Park 10k](http://fitnessforvitality.com/alki-beach-park-race/) - 38:04^**
 - [2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21
 - 2006 Run Hit Wonder Remix
