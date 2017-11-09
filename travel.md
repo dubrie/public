@@ -44,12 +44,11 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2017** 
-- San Francisco, California
-- Ann Arbor, Michigan
 - Indianapolis, Indiana
 - Vancouver, British Columbia
 
 **2018**
+- Steamboat Springs, Colorado
 - Boston, Massachusetts
 - Willemstad, Curaçao
 - Chicago, Illinois
