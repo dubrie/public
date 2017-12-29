@@ -28,6 +28,8 @@
 - Getting Things Done
 - The Hard Thing About Hard Things
 - Haroun and The Sea Of Stories
+- Hit Refresh
+- Homo Deus
 - The Hunt for Vulcan
 - The Innovator's Method
 - The Innovators
@@ -48,6 +50,7 @@
 - Turing's Cathedral
 - Turn The Ship Around 
 - Unweaving The Rainbow
+- The Way to Go: Moving by Sea, Land, and Air 
 - 500 Days
 
 ### Suggested Books
