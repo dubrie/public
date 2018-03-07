@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- Proof: The Science of Booze by Adam Rogers  
 - Data-ism by Steve Lohr  
 
 ### Queued Up Next
@@ -59,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Proof: The Science of Booze by Adam Rogers  
 - The Leap: The Science Of Trust And Why It Matters by Ulrich Boser :thumbsup:  
 - Cumulus by Eliot Peper  
 - The Advantage by Patrick Lencioni  
