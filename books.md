@@ -11,6 +11,7 @@
 ### Active Books
 
 - Data-ism by Steve Lohr  
+- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon  
 
 ### Queued Up Next
 
