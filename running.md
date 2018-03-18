@@ -22,10 +22,11 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
+- **[2018 Mercer Island Half Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=943&race_id=63084&type=result) - 1:20:50** 
 - 2017 Crazy Man Half Marathon Trail Run - 1:38:05^
 - [2017 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=109884&did=120993) - 1:28:58^
 - 2017 Napa to Sonoma (Team Challenge Coaching)
-- **[2016 San Antonio Rock N Roll](http://www.runrocknroll.com/finisher-zone/search-and-results/?resultpage=1&eventid=39&subevent_id=2&bib=1099) - 1:24:28**
+- [2016 San Antonio Rock N Roll](http://www.runrocknroll.com/finisher-zone/search-and-results/?resultpage=1&eventid=39&subevent_id=2&bib=1099) - 1:24:28 
 - 2016 Napa to Sonoma (Team Challenge Coaching)
 - 2015 Napa to Sonoma (Team Challenge Coaching)
 - [2015 Seattle Rock N Roll](http://running.competitor.com/rnrresults?eId=40&eiId=241&seId=&pId=277278) - 1:24:41
