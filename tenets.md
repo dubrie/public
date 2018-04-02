@@ -33,8 +33,7 @@ I've always subconsiously lived by these 4 rules but never had it put as succinc
 Inspiration: [Jim Harbaugh's 4 things to do every day](http://coachingsearch.com/article?a=Jim-Harbaughs-4-things-to-do-every-day)
 
 - Consistency Over Dogma  
-Everyone has their own reasons and justifications for their actions, beliefs, or decisions. I am looking to be consistent in mine whether they align to or follow a defined groupthink or not. If I am for helping the less fortunate, or trying to combat climate change, or spaces over tabs when writing code (spoiler alert: I am), then I should also maintain those beliefs
-in my other actions that may not directly effect those issues. 
+Everyone has their own reasons and justifications for their actions, beliefs, or decisions. I am looking to be consistent in mine whether they align to or follow a defined groupthink or not. If I am for helping the less fortunate, or trying to combat climate change, or spaces over tabs when writing code (spoiler alert: I am), then I should also maintain those beliefs in my other actions that may not directly effect those issues. 
 Inspiration: General Observations
 
 ### Lifehacks
@@ -52,9 +51,10 @@ Inspiration: [Your Brain Performs Better When It Slows Down](http://bigthink.com
 Unless I am leading a meeting or directly addressed, I refrain from talking for 10 minutes to absorb others perspectives and understanding of the issues at hand before weighing in myself.
 Inspiration: [Amazon Meeting Policies](http://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/)
 
-- No Pop At Work  
-I enjoy the occassional pop but when it is free and readily available through work it becomes too easy to pass up. For my caffeine needs I have substituted chai tea lattes and lemon herbal tea during work hours.
-Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-you-as-much-as-smoking/)
+- Train Like A Kenyan  
+With my increased focus on endurance training I've started to get more scientific about my approach. The interesting thing is how a lot of the same takeaways can be applied to maintaining a healthy work/life balance. 
+Inspirtaion: [How To Train Like A Kenyan](https://runnerclick.com/how-to-train-like-a-kenyan-athlete/)
+
 
 ### Recent Changes
 Trying something new to see what the results are.
@@ -65,16 +65,20 @@ I'm trying to become more precise in my language usage and have had some memory 
 - Review Tenants Quarterly  
 The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
 
-- Don't Reuse Adjectives During The Day  
-I've been challenging myself to not use an adjective twice in a day. Calling things "awesome" 15 times a day starts to degrade the value of the adjective overall. Additionally, it is forcing me to be more creative and deliberate in how I describe things. Plus, having a larger vocabulary has other benefits as well: [Vocabulary Size](http://www.nytimes.com/2010/03/14/magazine/14FOB-onlanguage-t.html?_r=0)
-
 ### Recent Results
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
+
+- Don't Reuse Adjectives During The Day  
+  - Results: Successful
+  - Details: I'm calling this successful in that I have gotten good at not reusing adjectives during the day but I have also seen this cause communication issues, particularly with people that don't natively speak English. Looking to apply this conditionally going forward based on the scenario and group. [Vocabulary Size](http://www.nytimes.com/2010/03/14/magazine/14FOB-onlanguage-t.html?_r=0)  
+
+- No Pop At Work  
+  - Results: Mixed
+  - Details: Still holding down that Starbucks MVP customer status but it is still incredibly convenient to just grab a pop from the work fridge. Still seeing improvements in sleep patterns by trying to limit caffeine consumption to the mornings and using cold water or walking outside instead of pop in the afternoons. With weather starting to improve this may be easier to manage going forward.  Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-you-as-much-as-smoking/)  
 
 - Wake Up 1 Hour Earlier  
   - Results: Mixed
   - Details: I recently got back from a trip to Italy and the jet lag has been waking me up in the 4-5am hours instead of my normal 6-7am hours. With daylight creeping earlier and earlier as well I want to try to keep this trend going and see if there is a change in my productivity, activity, energy, and bedtime. I've struggled with falling asleep at night so the hope is that waking up early will help my productivity for the day as well as getting me to sleep at night. Inspiration: [What I Learned From Waking Up Early](http://www.fastcompany.com/3028199/work-smart/what-i-learned-from-a-week-of-waking-up-early)
-
 
 - Stand Whenever Possible  
   - Results: Successful
