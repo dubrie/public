@@ -11,6 +11,7 @@
 ### Active Books
 
 - Data-ism by Steve Lohr  
+- The Hard Thing About Hard Things by Ben Horowitz  
 
 ### Queued Up Next
 
@@ -25,7 +26,6 @@
 - Flash Boys
 - The Founder's Dilemmas
 - Getting Things Done
-- The Hard Thing About Hard Things
 - Haroun and The Sea Of Stories
 - Hit Refresh
 - Homo Deus
