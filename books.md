@@ -11,6 +11,7 @@
 ### Active Books
   
 - The Hard Thing About Hard Things by Ben Horowitz  
+- Hit Refresh by Satya Nadella  
 
 ### Queued Up Next
 
@@ -26,7 +27,6 @@
 - The Founder's Dilemmas
 - Getting Things Done
 - Haroun and The Sea Of Stories
-- Hit Refresh
 - Homo Deus
 - The Hunt for Vulcan
 - The Innovator's Method
