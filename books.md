@@ -9,8 +9,7 @@
 - [Top 5](#top-5)
 
 ### Active Books
-
-- Data-ism by Steve Lohr  
+  
 - The Hard Thing About Hard Things by Ben Horowitz  
 
 ### Queued Up Next
@@ -58,6 +57,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Data-ism by Steve Lohr  
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:   
 - Proof: The Science of Booze by Adam Rogers  
 - The Leap: The Science Of Trust And Why It Matters by Ulrich Boser :thumbsup:  
