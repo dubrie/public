@@ -44,10 +44,8 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2018**
-- Boston, Massachusetts
-- Willemstad, Curaçao
-- Berlin, Germany
 - Missoula, Montana
+- Berlin, Germany
 - Chicago, Illinois
 
 Continents I've Visited
@@ -65,6 +63,7 @@ Continents I've Visited
 
 **North America**  
 - Canada (British Columbia, Alberta, Ontario, Quebec) 
+- Curaçao  
 - Mexico (Chihuahua)
 - United States (All 50 states)
 
