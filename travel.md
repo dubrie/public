@@ -50,6 +50,9 @@ Planned Travels
 - Berlin, Germany
 - Chicago, Illinois
 
+**2019**
+- Dunton, Colorado  
+
 Continents I've Visited
 =======================
 **Africa**  
