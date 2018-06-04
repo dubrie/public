@@ -35,6 +35,7 @@
 - Leonardo Da Vinci  
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Natural Born Heroes
+- The Non-designer's design book  
 - The Organized Mind
 - Overcomplicated
 - Predictably Irrational
