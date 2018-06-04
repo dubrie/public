@@ -32,6 +32,7 @@
 - The Innovator's Method
 - The Innovators
 - It's Not the How or the What but the Who
+- Leonardo Da Vinci  
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Natural Born Heroes
 - The Organized Mind
