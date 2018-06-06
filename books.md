@@ -11,7 +11,6 @@
 ### Active Books
   
 - The Hard Thing About Hard Things by Ben Horowitz  
-- Hit Refresh by Satya Nadella  
 
 ### Queued Up Next
 
@@ -59,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Hit Refresh by Satya Nadella  
 - Data-ism by Steve Lohr  
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:   
 - Proof: The Science of Booze by Adam Rogers  
