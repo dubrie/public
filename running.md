@@ -66,7 +66,7 @@
 - [2018 Finaghty's St. Patty's Day 5k](https://runsignup.com/Race/Results/59292/IndividualResult/QJRQ?#U25685227) - 18:01^
 - **[2017 Bolt For The Heart 5k](https://131events.com/running-event-results/2017-bolt-for-the-heart-5k-results/#0_733A2E) - 17:24**
 - [2017 Snoqualmie Turkey Trot](https://runsignup.com/Race/Results/53804/IndividualResult/FNLQ?#U22316314) - 17:50
-- 2017 Take Steps 5K Run/Walk - 17:20@
+- 2017 Take Steps 5K Run/Walk - 17:20^@
 - [2017 Finaghty's St. Patty's Day 5k](http://www.buduracing.com/race-results-inset.php?eid=1584) - 18:13
 - [2016 Snoqualmie Turkey Trot](http://buduracing.racetecresults.com/MyResults.aspx?uid=16618-136-1-43565) - 18:33^
 - [2016 Salmon Days Run With The Fishes](https://runsignup.com/Race/Results/30631/IndividualResult/XTFP?#U15887697) - 18:17
