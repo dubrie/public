@@ -44,7 +44,6 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2018**
-- Santa Rosa, California
 - Rhododendron, Oregon
 - Missoula, Montana
 - Berlin, Germany
