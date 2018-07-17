@@ -23,6 +23,7 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
+- 2018 Napa to Sonoma (Team Challenge Coaching)
 - **[2018 Mercer Island Half Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=943&race_id=63084&type=result) - 1:20:50** 
 - 2017 Crazy Man Half Marathon Trail Run - 1:38:05^
 - [2017 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=109884&did=120993) - 1:28:58^
