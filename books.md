@@ -11,6 +11,7 @@
 ### Active Books
   
 - The Hard Thing About Hard Things by Ben Horowitz  
+- Rebel Talent by Francesca Gino  
 
 ### Queued Up Next
 
