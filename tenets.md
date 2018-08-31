@@ -59,14 +59,19 @@ Inspirtaion: [How To Train Like A Kenyan](https://runnerclick.com/how-to-train-l
 ### Recent Changes
 Trying something new to see what the results are.
 
-- Learn A New Language
-I'm trying to become more precise in my language usage and have had some memory rentention issues lately, likely from the high amount of context switching involved in my work. Learning a new language has been known to help all 3 of those and having another language to use when we travel is a nice perk too! [Why Learn A Foreign Language](http://www.telegraph.co.uk/education/educationopinion/10126883/Why-learn-a-foreign-language-Benefits-of-bilingualism.html) 
+- Health, Wife, Life, Work  
+In that order, the things I proritize in my life. I haven't done a great job keeping these balanced in the past so trying to use a principled approach of this heirarchy. Health and Wife are pretty straight forward, Life focuses on maintaining the balance between work and life and finding ways to not have my job be all encompassing, although things can span multiple categories.
 
 - Review Tenants Quarterly  
 The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
 
 ### Recent Results
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
+
+- Learn A New Language
+  - Results: Unsuccessful
+  - Details: Duolingo was nice for a few weeks and I made some progress but ultimately I hit a wall in the growth of the language. This could be app-related as you had to keep going backwards to review and progress significantly slowed. I also only devoted 20ish minutes an evening to it so probably not the proper level of commitment.
+  - Description: I'm trying to become more precise in my language usage and have had some memory rentention issues lately, likely from the high amount of context switching involved in my work. Learning a new language has been known to help all 3 of those and having another language to use when we travel is a nice perk too! [Why Learn A Foreign Language](http://www.telegraph.co.uk/education/educationopinion/10126883/Why-learn-a-foreign-language-Benefits-of-bilingualism.html) 
 
 - Don't Reuse Adjectives During The Day  
   - Results: Successful
