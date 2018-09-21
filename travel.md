@@ -44,13 +44,13 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 Planned Travels  
 =======================
 **2018**
-- Rhododendron, Oregon
-- Missoula, Montana
-- Berlin, Germany
 - Chicago, Illinois
+- Indianapolis, Indiana
 
 **2019**
-- Dunton, Colorado  
+- Las Vegas, Nevada
+- Dunton, Colorado 
+- Boston, Massachusetts
 
 Continents I've Visited
 =======================
@@ -63,6 +63,7 @@ Continents I've Visited
 - United Arab Emirates
 
 **Europe**  
+- Germany
 - Italy
 
 **North America**  
