@@ -19,7 +19,7 @@
 - [2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)\* - 3:06:26
 - [2015 Seattle Marathon](https://results.chronotrack.com/event/results/event/event-18056) - 3:34:49
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
-- [2007 Chicago Marathon](http://www.marathonguide.com/results/browse.cfm?MIDD=67071007&Gen=B&Begin=6833&End=6932&Max=28815) - 4:16:49
+- [2007 Chicago Marathon](http://chicago-history.r.mikatiming.de/2015/?content=detail&fpid=search&pid=search&id=0000170E9A92360000136A27&lang=EN_CAP&event=MAR_9999990E9A92360000000052&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search%5Bnation%5D=%25&search_sort=name&search_event=MAR_9999990E9A92360000000052) - 4:16:49
 
 \* - Boston Marathon Qualification
 
