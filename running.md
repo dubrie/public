@@ -15,12 +15,12 @@
 - **[2018 Chicago Marathon](http://results.chicagomarathon.com/2018/?content=detail&fpid=search&pid=search&idp=999999107FA30E000020EC25&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=MAR)\* - 2:55:30**
 - [2018 Berlin Marathon](http://results.scc-events.com/2018/?content=detail&fpid=search&pid=search&idp=99999905C9AF68000046FF69&lang=EN&event=MAL&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=MAL)\* - 3:02:21
 - [2018 Boston Marathon](http://registration.baa.org/2018/cf/Public/iframe_ResultsSearch.cfm)\* - 3:03:13   
-- [2017 Eugene Marathon](https://results.chronotrack.com/m/ctlive/#29675/result/73772/29102305)\* - 2:57:17
+- [2017 Eugene Marathon](https://results.chronotrack.com/event/results/event/event-29675)\* - 2:57:17
 - [2017 Boston Marathon](http://registration.baa.org/2017/cf/Public/iframe_ResultsSearch.cfm) - 3:10:41  
-- [2016 Carmel Marathon](http://carmel.onlineraceresults.com/individual.php?bib=1215)\* - 3:06:26
+- [2016 Carmel Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=1215&race_id=52721&type=result)\* - 3:06:26
 - [2015 Seattle Marathon](https://results.chronotrack.com/event/results/event/event-18056) - 3:34:49
 - [2012 Kona Marathon](http://konamarathon.com/wp-content/uploads/2014/04/2012_results.pdf) - 3:33:21
-- [2007 Chicago Marathon](http://chicago-history.r.mikatiming.de/2015/?content=detail&fpid=search&pid=search&id=0000170E9A92360000136A27&lang=EN_CAP&event=MAR_9999990E9A92360000000052&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search%5Bnation%5D=%25&search_sort=name&search_event=MAR_9999990E9A92360000000052) - 4:16:49
+- [2007 Chicago Marathon](http://chicago-history.r.mikatiming.de/2015/?content=detail&fpid=search&pid=search&idp=0000170E9A9236000011F147&lang=EN_CAP&event=MAR_9999990E9A92360000000052&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=ALL_EVENT_GROUP_2007) - 4:16:49
 
 \* - Boston Marathon Qualification
 
