@@ -51,6 +51,7 @@ Planned Travels
 - Las Vegas, Nevada
 - Dunton, Colorado 
 - Boston, Massachusetts
+- Eugene, Oregon
 
 Continents I've Visited
 =======================
