@@ -32,9 +32,11 @@
 - The Hunt for Vulcan
 - The Innovator's Method
 - The Innovators
+- It Doesn't Have to Be Crazy at Work
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+- Mismatch: How Inclusion Shapes Design  
 - Natural Born Heroes
 - The Non-designer's design book  
 - The Organized Mind
