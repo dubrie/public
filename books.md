@@ -15,6 +15,7 @@
 
 ### Queued Up Next
 
+- The Art of Community: Seven Principles for Belonging  
 - Being Mortal
 - The Business Blockchain
 - But What If We're Wrong?
