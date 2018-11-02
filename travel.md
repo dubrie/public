@@ -15,7 +15,9 @@ A collection of waterfalls, caves, and lakes in Croatia.
 
 **Iceland**
 * Skógafoss  
-A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.
+A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.  
+* Drangarnir Sea Stacks  
+Geological rock "stacks" off the coast of the Faroe Islands  
 
 **Madlives**
 * Vaadhoo Island
