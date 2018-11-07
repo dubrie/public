@@ -37,6 +37,7 @@
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+- Measure What Matters  
 - Mismatch: How Inclusion Shapes Design  
 - Natural Born Heroes
 - The Non-designer's design book  
