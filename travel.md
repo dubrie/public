@@ -54,6 +54,7 @@ Planned Travels
 - Dunton, Colorado 
 - Boston, Massachusetts
 - Eugene, Oregon
+- San Diego, California
 
 Continents I've Visited
 =======================
