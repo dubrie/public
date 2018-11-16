@@ -47,6 +47,7 @@ Planned Travels
 =======================
 **2018**
 - Indianapolis, Indiana
+- Dublin, Ireland  
 - Portland, Oregon
 
 **2019**
