@@ -62,6 +62,7 @@
 
 ### 5 miles
 
+- [2018 Grand Ridge Trail Run](https://www.webscorer.com/racedetails?raceid=161954&did=176231) - 40:35
 - [2015 Snoqualmie Trail Run](http://nebula.wsimg.com/e8e70a91bdea644910159602ca2f5e01?AccessKeyId=C954475628F8748CE81F&disposition=0&alloworigin=1) - 34:20
 
 ### 5ks
