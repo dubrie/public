@@ -25,7 +25,7 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
-- [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21  
+- [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21^  
 - 2018 Napa to Sonoma (Team Challenge Coaching)
 - **[2018 Mercer Island Half Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=943&race_id=63084&type=result) - 1:20:50** 
 - 2017 Crazy Man Half Marathon Trail Run - 1:38:05^
