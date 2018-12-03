@@ -12,6 +12,8 @@
   
 - The Hard Thing About Hard Things by Ben Horowitz  
 - Rebel Talent by Francesca Gino  
+- It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson  
+
 
 ### Queued Up Next
 
@@ -33,7 +35,6 @@
 - The Hunt for Vulcan
 - The Innovator's Method
 - The Innovators
-- It Doesn't Have to Be Crazy at Work
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
