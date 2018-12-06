@@ -52,6 +52,7 @@ Planned Travels
 **2019**
 - Las Vegas, Nevada
 - Dunton, Colorado 
+- Brooklyn, New York
 - Boston, Massachusetts
 - Eugene, Oregon
 - San Diego, California
