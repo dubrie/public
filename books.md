@@ -10,7 +10,6 @@
 
 ### Active Books
   
-- The Hard Thing About Hard Things by Ben Horowitz  
 - Rebel Talent by Francesca Gino  
 - It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson  
 
@@ -66,6 +65,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- The Hard Thing About Hard Things by Ben Horowitz :thumbsup:   
 - Hit Refresh by Satya Nadella  
 - Data-ism by Steve Lohr  
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:   
