@@ -60,6 +60,8 @@ Planned Travels
 
 Continents I've Visited
 =======================
+*Must have set foot on land in the country, i.e. airport layovers do not count*  
+
 **Africa**  
 - South Africa
 - Zimbabwe  
@@ -70,6 +72,7 @@ Continents I've Visited
 
 **Europe**  
 - Germany
+- Ireland
 - Italy
 
 **North America**  
