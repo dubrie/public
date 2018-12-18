@@ -16,6 +16,7 @@
 
 ### Queued Up Next
 
+- Accelerate: The Science of Lean Software and DevOps  
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
 - The Business Blockchain
