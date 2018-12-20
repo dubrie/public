@@ -52,9 +52,8 @@ Unless I am leading a meeting or directly addressed, I refrain from talking for 
 Inspiration: [Amazon Meeting Policies](http://fortune.com/2012/11/16/amazons-jeff-bezos-the-ultimate-disrupter/)
 
 - Train Like A Kenyan  
-With my increased focus on endurance training I've started to get more scientific about my approach. The interesting thing is how a lot of the same takeaways can be applied to maintaining a healthy work/life balance. 
+With my increased focus on endurance training I've started to get more scientific about my approach. The interesting thing is how a lot of the same takeaways can be applied to maintaining a healthy work/life balance like Get Your Rest, Start Slow and Build, Run With Others, and Go For Walks. 
 Inspirtaion: [How To Train Like A Kenyan](https://runnerclick.com/how-to-train-like-a-kenyan-athlete/)
-
 
 ### Recent Changes
 Trying something new to see what the results are.
@@ -64,6 +63,9 @@ In that order, the things I proritize in my life. I haven't done a great job kee
 
 - Review Tenants Quarterly  
 The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
+
+- Do Less, Better
+The past 6 months or so has been a very breadth-focused effort mostly in work but also outside of it a bit. With some changes in my organization at work I have the chance to start to focus deeper on less areas for higher success in the areas I'm focused on. My naturaul instinct is help wherever and whenever I can but that leads to spreading myself out to the point that I cannot meet the expectations set.
 
 ### Recent Results
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
