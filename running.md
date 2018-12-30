@@ -5,6 +5,7 @@
 - [Marathons](#marathons)
 - [Half Marathons](#half-marathons)
 - [15ks](#15ks)
+- [8 Miles](#8-miles)
 - [10ks](#10ks)
 - [5 Miles](#5-miles)
 - [5ks](#5ks)
@@ -51,6 +52,10 @@
 ### 15ks
 
 - **[2016 Race For The Steaks 15k](https://results.chronotrack.com/m/ctlive/#20034/result/48614/24549688) - 58:33**
+
+### 8 miles
+
+- **[2018 Absolution Run](https://www.webscorer.com/racedetails?raceid=165183&did=179714) - 1:01:15**
 
 ### 10ks
 
