@@ -47,8 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Las Vegas, Nevada
-- Dublin, Ireland  
 - Dunton, Colorado 
 - Bellingham, Washington
 - Brooklyn, New York
