@@ -53,6 +53,8 @@ Planned Travels
 - Boston, Massachusetts
 - Eugene, Oregon
 - San Diego, California
+- New York City, New York
+- Lucerne, Switzerland
 
 Continents I've Visited
 =======================
