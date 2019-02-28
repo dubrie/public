@@ -47,7 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Dunton, Colorado 
 - Bellingham, Washington
 - Brooklyn, New York
 - Boston, Massachusetts
