@@ -47,7 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Bellingham, Washington
 - Brooklyn, New York
 - Boston, Massachusetts
 - Eugene, Oregon
