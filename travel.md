@@ -47,7 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Brooklyn, New York
 - Boston, Massachusetts
 - Eugene, Oregon
 - San Diego, California
