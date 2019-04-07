@@ -50,6 +50,7 @@ Planned Travels
 - Boston, Massachusetts
 - Eugene, Oregon
 - San Diego, California
+- Kona, Hawaii
 - New York City, New York
 - Lucerne, Switzerland
 
