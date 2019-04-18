@@ -17,6 +17,7 @@
 
 ### Marathons
 
+- [2019 Boston Marathon](http://registration.baa.org/2019/cf/Public/iframe_ResultsSearch.cfm)\* - 3:00:28
 - **[2018 Chicago Marathon](http://results.chicagomarathon.com/2018/?content=detail&fpid=search&pid=search&idp=999999107FA30E000020EC25&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=MAR)\* - 2:55:30**
 - [2018 Berlin Marathon](http://results.scc-events.com/2018/?content=detail&fpid=search&pid=search&idp=99999905C9AF68000046FF69&lang=EN&event=MAL&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=MAL)\* - 3:02:21
 - [2018 Boston Marathon](http://registration.baa.org/2018/cf/Public/iframe_ResultsSearch.cfm)\* - 3:03:13   
