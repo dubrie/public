@@ -47,7 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Boston, Massachusetts
 - Eugene, Oregon
 - San Diego, California
 - Kona, Hawaii
