@@ -47,8 +47,6 @@ Planned Travels
 =======================
 
 **2019**
-- Eugene, Oregon
-- San Diego, California
 - Kona, Hawaii
 - New York City, New York
 - Lucerne, Switzerland
