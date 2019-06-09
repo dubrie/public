@@ -65,9 +65,10 @@
 
 ### 10ks
 
+- **2019 Fall City Days 10k - 34:37**
 - [2018 Carkeek Cooler 10k](https://www.webscorer.com/racedetails?raceid=159532&did=175056) - 41:16  
 - [2017 Run With The Kokanee](https://www.webscorer.com/racedetails?raceid=117200&did=127895) - 38:34
-- **[2016 Alki Beach Park 10k](http://fitnessforvitality.com/alki-beach-park-race/) - 38:04^**
+- [2016 Alki Beach Park 10k](http://fitnessforvitality.com/alki-beach-park-race/) - 38:04^
 - [2015 Austin Statesman Cap 10k](http://www.mychiptime.com/searchevent.php?id=9156&bib=15788) - 40:21
 - 2006 Run Hit Wonder Remix
 - [2005 Run Hit Wonder](http://results.active.com/events/nike-run-hit-wonder-5k-10k-chicago/10k/william-johnson) - 41:03
@@ -79,6 +80,7 @@
 
 ### 5ks
 
+- 2019 Take Steps 5k Run/walk - 21L46^
 - [2019 Interlaken Icicle Dash](https://www.webscorer.com/racedetails?raceid=168369&did=183548) - 21:41
 - **[2018 Bolt For The Heart 5K](https://my4.raceresult.com/113002/?lang=en#0_733A2E) - 17:23**  
 - 2018 Take Steps 5k Run/walk - 17:50^  
