@@ -65,7 +65,7 @@
 
 ### 10ks
 
-- **2019 Fall City Days 10k - 34:37**
+- **[2019 Fall City Days 10k](https://runsignup.com/Race/Results/72125/IndividualResult/CNFB?#U35992128) - 34:35**
 - [2018 Carkeek Cooler 10k](https://www.webscorer.com/racedetails?raceid=159532&did=175056) - 41:16  
 - [2017 Run With The Kokanee](https://www.webscorer.com/racedetails?raceid=117200&did=127895) - 38:34
 - [2016 Alki Beach Park 10k](http://fitnessforvitality.com/alki-beach-park-race/) - 38:04^
