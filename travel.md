@@ -43,6 +43,10 @@ A sea cave on an uninhabited island in Scotland known for it's natural acoustics
 * Homestake Mine  
 Former gold mine in South Dakota now the home for the Deep Underground Science and Engineering Laboratory (DUSEL).
 
+**Spain**
+*Zegama Aizkorri*
+World famous trail race every June in the Basque region of Spain. 
+
 Planned Travels  
 =======================
 
@@ -50,6 +54,7 @@ Planned Travels
 - Kona, Hawaii
 - New York City, New York
 - Lucerne, Switzerland
+- Las Vegas, Nevada
 
 Continents I've Visited
 =======================
