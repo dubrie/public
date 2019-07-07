@@ -10,8 +10,7 @@
 
 ### Active Books
 
-- Atomic Habits by James Clear
-- Rebel Talent by Francesca Gino  
+- Atomic Habits by James Clear  
 
 
 ### Queued Up Next
@@ -66,6 +65,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Rebel Talent by Francesca Gino  
 - It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup:  
 - The Hard Thing About Hard Things by Ben Horowitz :thumbsup:   
 - Hit Refresh by Satya Nadella  
