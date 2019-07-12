@@ -54,6 +54,7 @@ Planned Travels
 - Los Angeles, California
 - New York City, New York
 - Lucerne, Switzerland
+- San Diego, California
 - Las Vegas, Nevada
 
 **2020**
