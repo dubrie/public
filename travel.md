@@ -51,7 +51,7 @@ Planned Travels
 =======================
 
 **2019**
-- Kona, Hawaii
+- Los Angeles, California
 - New York City, New York
 - Lucerne, Switzerland
 - Las Vegas, Nevada
