@@ -13,11 +13,13 @@ Mountain range in China known by its vertical columns.
 * Plitvice Lakes  
 A collection of waterfalls, caves, and lakes in Croatia.
 
+**Denmark**
+* Drangarnir Sea Stacks  
+Geological rock "stacks" off the coast of the Faroe Islands  
+
 **Iceland**
 * Skógafoss  
 A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.  
-* Drangarnir Sea Stacks  
-Geological rock "stacks" off the coast of the Faroe Islands  
 
 **Madlives**
 * Vaadhoo Island
