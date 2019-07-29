@@ -11,6 +11,7 @@
 ### Active Books
 
 - Atomic Habits by James Clear  
+- Digital Minimalism by Cal Newport
 
 
 ### Queued Up Next
