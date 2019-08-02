@@ -32,6 +32,7 @@
 - Getting Things Done
 - Haroun and The Sea Of Stories
 - Homo Deus
+- Invisible Women
 - The Hunt for Vulcan
 - The Innovator's Method
 - The Innovators
@@ -44,6 +45,8 @@
 - The Non-designer's design book  
 - The Organized Mind
 - Overcomplicated
+- The Phoenix Project
+- Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Predictably Irrational
 - The Road To Character
 - Sapiens: A Brief History of Humankind
