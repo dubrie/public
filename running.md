@@ -31,6 +31,7 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
+- [2019 Summer Blast @ Redmond Watershed](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^  
 - 2019 San Diego Rock N Roll (Team Challenge Coaching)  
 - [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21^  
 - 2018 Napa to Sonoma (Team Challenge Coaching)
