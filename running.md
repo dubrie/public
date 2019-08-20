@@ -31,7 +31,7 @@
 \* - Boston Marathon Qualification
 
 ### Half Marathons
-- [2019 Summer Blast @ Redmond Watershed](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^  
+- [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^  
 - 2019 San Diego Rock N Roll (Team Challenge Coaching)  
 - [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21^  
 - 2018 Napa to Sonoma (Team Challenge Coaching)
@@ -66,7 +66,7 @@
 
 ### 10ks
 
-- [2019 Griffith Park Luau 10](http://luau5krun.com/uploads/3/4/6/3/34639488/10k_overall_-_2019_luau.htm) - 36:28^
+- [2019 Griffith Park Luau 10k](http://luau5krun.com/uploads/3/4/6/3/34639488/10k_overall_-_2019_luau.htm) - 36:28^
 - **[2019 Fall City Days 10k](https://runsignup.com/Race/Results/72125/IndividualResult/CNFB?#U35992128) - 34:35**
 - [2018 Carkeek Cooler 10k](https://www.webscorer.com/racedetails?raceid=159532&did=175056) - 41:16  
 - [2017 Run With The Kokanee](https://www.webscorer.com/racedetails?raceid=117200&did=127895) - 38:34
