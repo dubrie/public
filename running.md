@@ -4,6 +4,7 @@
 
 - [Ultra Marathons](#ultra-marathons)
 - [Marathons](#marathons)
+- [22 Miles](#22-miles)
 - [Half Marathons](#half-marathons)
 - [15ks](#15ks)
 - [8 Miles](#8-miles)
@@ -29,6 +30,10 @@
 - [2007 Chicago Marathon](http://chicago-history.r.mikatiming.de/2015/?content=detail&fpid=search&pid=search&idp=0000170E9A9236000011F147&lang=EN_CAP&event=MAR_9999990E9A92360000000052&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=ALL_EVENT_GROUP_2007) - 4:16:49
 
 \* - Boston Marathon Qualification
+
+### 22 miles
+
+- **[2019 Middle Fork Trail Run](https://www.webscorer.com/racedetails?raceid=194205&did=215967) - 2:59:05**
 
 ### Half Marathons
 - [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^  
