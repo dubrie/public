@@ -53,7 +53,7 @@ Planned Travels
 =======================
 
 **2019**
-- Los Angeles, California
+- Boulder, Colorado
 - New York City, New York
 - Lucerne, Switzerland
 - San Diego, California
