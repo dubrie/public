@@ -56,6 +56,7 @@
 - Switch: How To Change Things When Change Is Hard
 - Switching To Solar
 - Thinking Fast & Slow
+- Tools and Weapons
 - Turing's Cathedral
 - Turn The Ship Around 
 - Unweaving The Rainbow
