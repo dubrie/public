@@ -36,11 +36,12 @@
 - **[2019 Middle Fork Trail Run](https://www.webscorer.com/racedetails?raceid=194205&did=215967) - 2:59:05**
 
 ### Half Marathons
-- [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^  
+- **[2019 Snohomish River Run 1/2 Marathon](https://raceday.enmotive.com/#/events/2019-snohomish-river-run/registrants/5d9fa294-e3ac-49eb-95a3-0a105206f5f9) - 1:16:32**
+- [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^ 
 - 2019 San Diego Rock N Roll (Team Challenge Coaching)  
 - [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21^  
 - 2018 Napa to Sonoma (Team Challenge Coaching)
-- **[2018 Mercer Island Half Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=943&race_id=63084&type=result) - 1:20:50** 
+- [2018 Mercer Island Half Marathon](http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=943&race_id=63084&type=result) - 1:20:50 
 - 2017 Crazy Man Half Marathon Trail Run - 1:38:05^
 - [2017 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=109884&did=120993) - 1:28:58^
 - 2017 Napa to Sonoma (Team Challenge Coaching)
