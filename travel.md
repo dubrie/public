@@ -53,7 +53,6 @@ Planned Travels
 =======================
 
 **2019**
-- Boulder, Colorado
 - New York City, New York
 - Lucerne, Switzerland
 - San Diego, California
@@ -61,6 +60,7 @@ Planned Travels
 
 **2020**
 - Tokyo, Japan
+- Boston, Massachusetts
 
 Continents I've Visited
 =======================
