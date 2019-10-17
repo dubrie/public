@@ -12,7 +12,7 @@
 
 - Atomic Habits by James Clear  
 - Digital Minimalism by Cal Newport
-
+- Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 
 ### Queued Up Next
 
