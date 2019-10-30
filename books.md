@@ -48,6 +48,7 @@
 - The Phoenix Project
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Predictably Irrational
+- Quiet: The Power of Introverts
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
