@@ -53,9 +53,8 @@ Planned Travels
 =======================
 
 **2019**
-- New York City, New York
-- Lucerne, Switzerland
 - San Diego, California
+- Indianapolis, Indiana
 - Las Vegas, Nevada
 
 **2020**
@@ -78,6 +77,7 @@ Continents I've Visited
 - Germany
 - Ireland
 - Italy
+- Switzerland
 
 **North America**  
 - Canada (British Columbia, Alberta, Ontario, Quebec) 
