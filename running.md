@@ -88,9 +88,10 @@
 
 ### 5ks
 
+- **[2019 Bolt For The Heart 5K](https://my.raceresult.com/142425/results?lang=en) - 16-21**
 - 2019 Take Steps 5k Run/walk - 21:46^
 - [2019 Interlaken Icicle Dash](https://www.webscorer.com/racedetails?raceid=168369&did=183548) - 21:41
-- **[2018 Bolt For The Heart 5K](https://my4.raceresult.com/113002/?lang=en#0_733A2E) - 17:23**  
+- [2018 Bolt For The Heart 5K](https://my4.raceresult.com/113002/?lang=en#0_733A2E) - 17:23  
 - 2018 Take Steps 5k Run/walk - 17:50^  
 - [2018 Finaghty's St. Patty's Day 5k](https://runsignup.com/Race/Results/59292/IndividualResult/QJRQ?#U25685227) - 18:01^
 - [2017 Bolt For The Heart 5k](https://131events.com/running-event-results/2017-bolt-for-the-heart-5k-results/#0_733A2E) - 17:24
