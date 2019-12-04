@@ -53,13 +53,13 @@ Planned Travels
 =======================
 
 **2019**
-- San Diego, California
-- Indianapolis, Indiana
 - Las Vegas, Nevada
 
 **2020**
 - Tokyo, Japan
 - Boston, Massachusetts
+- Vancouver, British Columbia
+- Denver, Colorado
 
 Continents I've Visited
 =======================
