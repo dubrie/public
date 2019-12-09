@@ -57,17 +57,17 @@ Inspirtaion: [How To Train Like A Kenyan](https://runnerclick.com/how-to-train-l
 ### Recent Changes
 Trying something new to see what the results are.
 
-- Review Tenants Every 6 Months  (changed 12/8/19)
+- Review Tenants Every 6 Months  (changed 12/8/19)  
 The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I will strive to revisit these every 6 months with the hope of getting on a more regular cadence. 
 
-- Heal The Internet  (added 12/8/19)
+- Heal The Internet  (added 12/8/19)  
 This is a rallying cry from David Heinemeier Hansson ([@DHH](https://twitter.com/dhh)) to combat the [consolidation of functionality on the internet down to a few big companies](https://m.signalvnoise.com/you-can-heal-the-internet/). I am taking this at a slightly different level and making sure that I am concious of the service choices I make on the internet and what that means for the larger ecosystem. Looking to replace at least 3 every-week items with something not tied to Amazon, Google, Microsoft, Facebook, or Apple. 
 
-- Listen For A Year (added  12/8/19)
+- Listen For A Year (added 12/8/19  
 In the same vein as the "Don't talk for 10 minutes" Lifehack, filmaker dream hampton gave some advice on a podcast to "First, listen for a year" to people that wanted to get more involved politically. It forces you to understand the problem at a much deeper level before trying to enact change. I use this approach in my current role for helping engineering teams and while sometimes not fully appreciated in fast-moving environment like software engineer, it typically has provided better results overtime even if a little slower at first.
 Inspiration: [https://slate.com/news-and-politics/2019/08/piper-perabo-resistance-celebrity.html]
 
-- Health, Wife, Life, Work  (added 8/31/18)
+- Health, Wife, Life, Work  (added 8/31/18)  
 In that order, the things I proritize in my life. I haven't done a great job keeping these balanced in the past so trying to use a principled approach of this heirarchy. Health and Wife are pretty straight forward, Life focuses on maintaining the balance between work and life and finding ways to not have my job be all encompassing, although things can span multiple categories.
 
 ### Recent Results
