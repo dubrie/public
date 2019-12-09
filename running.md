@@ -36,6 +36,7 @@
 - **[2019 Middle Fork Trail Run](https://www.webscorer.com/racedetails?raceid=194205&did=215967) - 2:59:05**
 
 ### Half Marathons
+- [2019 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=205021&did=228388) - 1:23:33  
 - **[2019 Snohomish River Run 1/2 Marathon](https://raceday.enmotive.com/#/events/2019-snohomish-river-run/registrants/5d9fa294-e3ac-49eb-95a3-0a105206f5f9) - 1:16:32**
 - [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^ 
 - 2019 San Diego Rock N Roll (Team Challenge Coaching)  
