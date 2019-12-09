@@ -8,7 +8,6 @@
 - [Recent Results](#recent-results)
 - [Resources](#resources)
 
-
 ### Philosophies
 Something I have whole-heartedly bought into and is a driving influence in all of my decision making.
 
@@ -58,45 +57,59 @@ Inspirtaion: [How To Train Like A Kenyan](https://runnerclick.com/how-to-train-l
 ### Recent Changes
 Trying something new to see what the results are.
 
-- Health, Wife, Life, Work  
+- Review Tenants Every 6 Months  (changed 12/8/19)
+The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I will strive to revisit these every 6 months with the hope of getting on a more regular cadence. 
+
+- Heal The Internet  (added 12/8/19)
+This is a rallying cry from David Heinemeier Hansson ([@DHH](https://twitter.com/dhh)) to combat the [consolidation of functionality on the internet down to a few big companies](https://m.signalvnoise.com/you-can-heal-the-internet/). I am taking this at a slightly different level and making sure that I am concious of the service choices I make on the internet and what that means for the larger ecosystem. Looking to replace at least 3 every-week items with something not tied to Amazon, Google, Microsoft, Facebook, or Apple. 
+
+- Listen For A Year (added  12/8/19)
+In the same vein as the "Don't talk for 10 minutes" Lifehack, filmaker dream hampton gave some advice on a podcast to "First, listen for a year" to people that wanted to get more involved politically. It forces you to understand the problem at a much deeper level before trying to enact change. I use this approach in my current role for helping engineering teams and while sometimes not fully appreciated in fast-moving environment like software engineer, it typically has provided better results overtime even if a little slower at first.
+Inspiration: [https://slate.com/news-and-politics/2019/08/piper-perabo-resistance-celebrity.html]
+
+- Health, Wife, Life, Work  (added 8/31/18)
 In that order, the things I proritize in my life. I haven't done a great job keeping these balanced in the past so trying to use a principled approach of this heirarchy. Health and Wife are pretty straight forward, Life focuses on maintaining the balance between work and life and finding ways to not have my job be all encompassing, although things can span multiple categories.
-
-- Review Tenants Quarterly  
-The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
-
-- Do Less, Better
-The past 6 months or so has been a very breadth-focused effort mostly in work but also outside of it a bit. With some changes in my organization at work I have the chance to start to focus deeper on less areas for higher success in the areas I'm focused on. My naturaul instinct is help wherever and whenever I can but that leads to spreading myself out to the point that I cannot meet the expectations set.
 
 ### Recent Results
 The results from the things I've changed recently.  Successful trials can move to lifehacks and successful likehacks can move to philosophies. Unsuccessful trials will fall away and be retained here.
 
-- Learn A New Language
+- Do Less, Better (12/8/19)
+  - Results: Unsuccessful
+  - Details: Started well for a couple months but my instinct is to fill the voids with more "stuff" to do which then turns into ownership which then requires more attention and spreading myself out until I hit some sort of breaking point. I have to think about a better way to keep this in check. 
+  - Description: The past 6 months or so has been a very breadth-focused effort mostly in work but also outside of it a bit. With some changes in my organization at work I have the chance to start to focus deeper on less areas for higher success in the areas I'm focused on. My naturaul instinct is help wherever and whenever I can but that leads to spreading myself out to the point that I cannot meet the expectations set.
+
+- Review Tenants Quarterly (12/8/19)
+  - Results: Unsuccessful
+  - Details: Quarterly seems a bit too quick for my schedule and the time I want to alot to each of these. Switching this to every 6 months going forward to maintain some accountability.
+  - Description: The initial creation of my tenants (and the public repo in general) was a great way for me to collect my thoughts and write them down in an effort to hold myself accountable. Over time the accountability piece faded into the hustle and bustle of life and was forgotten. I have created quarterly calendar reminders to poke myself to revisit these with the hope of getting on a more regular cadence. Goal state is to not need the reminders anymore.
+
+- Learn A New Language (8/31/18)
   - Results: Unsuccessful
   - Details: Duolingo was nice for a few weeks and I made some progress but ultimately I hit a wall in the growth of the language. This could be app-related as you had to keep going backwards to review and progress significantly slowed. I also only devoted 20ish minutes an evening to it so probably not the proper level of commitment.
   - Description: I'm trying to become more precise in my language usage and have had some memory rentention issues lately, likely from the high amount of context switching involved in my work. Learning a new language has been known to help all 3 of those and having another language to use when we travel is a nice perk too! [Why Learn A Foreign Language](http://www.telegraph.co.uk/education/educationopinion/10126883/Why-learn-a-foreign-language-Benefits-of-bilingualism.html) 
 
-- Don't Reuse Adjectives During The Day  
+- Don't Reuse Adjectives During The Day  (4/2/18)
   - Results: Successful
   - Details: I'm calling this successful in that I have gotten good at not reusing adjectives during the day but I have also seen this cause communication issues, particularly with people that don't natively speak English. Looking to apply this conditionally going forward based on the scenario and group. [Vocabulary Size](http://www.nytimes.com/2010/03/14/magazine/14FOB-onlanguage-t.html?_r=0)  
 
-- No Pop At Work  
+- No Pop At Work  (4/2/18)
   - Results: Mixed
   - Details: Still holding down that Starbucks MVP customer status but it is still incredibly convenient to just grab a pop from the work fridge. Still seeing improvements in sleep patterns by trying to limit caffeine consumption to the mornings and using cold water or walking outside instead of pop in the afternoons. With weather starting to improve this may be easier to manage going forward.  Inspiration: [Soda Is Worse Than Smoking](http://time.com/3513875/soda-may-age-you-as-much-as-smoking/)  
 
-- Wake Up 1 Hour Earlier  
+- Wake Up 1 Hour Earlier  (10/11/17)
   - Results: Mixed
   - Details: I recently got back from a trip to Italy and the jet lag has been waking me up in the 4-5am hours instead of my normal 6-7am hours. With daylight creeping earlier and earlier as well I want to try to keep this trend going and see if there is a change in my productivity, activity, energy, and bedtime. I've struggled with falling asleep at night so the hope is that waking up early will help my productivity for the day as well as getting me to sleep at night. Inspiration: [What I Learned From Waking Up Early](http://www.fastcompany.com/3028199/work-smart/what-i-learned-from-a-week-of-waking-up-early)
 
-- Stand Whenever Possible  
+- Stand Whenever Possible  (5/4/16)
   - Results: Successful
   - Details: I've been using a stand-up desk for about 5 years now but because of a weird bug that messes up [window sizes when disconnecting a MacBook Pro from an external monitor](https://productforums.google.com/forum/#!topic/chrome/nDXWuqYj2zA), I've been sitting more at my desk with my laptop. I'm also training for my 4th marathon (and hopefully 5th!) where posture and form is very important especially in the later miles. Standing at my desk for 6 hours a day should help me get the core strength and posture back to levels that will help in training/race.
 Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/2013/09/training/how-to-beat-marathon-muscle-cramps_84843/3)
 
-- No Pop At Work  
+- No Pop At Work  (1/3/16)
   - Results: Successful
   - Details: I've become a much bigger customer at the local Starbucks and Tea/Coffee Shops since changing this which has required a few adjustments to my budget but my sleep patterns have vastly improved and I haven't been sick outside of a runny nose here and there. My energy levels at work have gone up with the drop in sugary drink intake and I feel less drained at the end of the day. The dentist even noticed a difference in my tooth enamel and pockets which I will partially attribute to this.
 
-- No Laptops At Meetings  
+- No Laptops At Meetings  (4/14/17)
   - Results: Mixed
   - Details: Switching jobs has made this much more difficult to achieve. I still try to do this but I don't quite have a 1:1 functionality mapping for things I can do on a laptop and things I can do with a phone. Simple notes or research is easy but accessing corporate websites/documents or editing wiki pages is pretty tricky. I started this because most meetings are poorly run and have poor time management. Refusing to bring a laptop unless absolutely necessary has forced me to focus on what every person is saying and quickly call out things that are not relevant to goal of the meeting. There seems to be a much sharper focus on meeting value and efficiency at the new company as well.
 Inspiration: [You Should Ban Laptops At Board Meetings](http://techcrunch.com/2011/10/31/why-you-should-ban-laptops-at-board-meetings/)
