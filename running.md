@@ -89,7 +89,7 @@
 
 ### 5ks
 
-- **[2019 Bolt For The Heart 5K](https://my.raceresult.com/142425/results?lang=en) - 16-21**
+- **[2019 Bolt For The Heart 5K](https://my.raceresult.com/142425/results?lang=en) - 16:21**
 - 2019 Take Steps 5k Run/walk - 21:46^
 - [2019 Interlaken Icicle Dash](https://www.webscorer.com/racedetails?raceid=168369&did=183548) - 21:41
 - [2018 Bolt For The Heart 5K](https://my4.raceresult.com/113002/?lang=en#0_733A2E) - 17:23  
