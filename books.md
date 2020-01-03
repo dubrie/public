@@ -48,6 +48,7 @@
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Predictably Irrational
 - Quiet: The Power of Introverts
+- Range: Why generalists triumph in a specialized world
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
