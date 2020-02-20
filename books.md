@@ -10,8 +10,9 @@
 
 ### Active Books
 
-- Atomic Habits by James Clear  
 - Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
+- Why Are We Yelling by Buster Benson
+
 
 ### Queued Up Next
 
@@ -63,7 +64,6 @@
 - Unweaving The Rainbow
 - The Way to Go: Moving by Sea, Land, and Air 
 - A Whole New Mind  
-- Why Are We Yelling  
 - 500 Days
 
 ### Suggested Books
@@ -72,6 +72,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Atomic Habits by James Clear :thumbsup:  
 - Digital Minimalism by Cal Newport :thumbsup:
 - Rebel Talent by Francesca Gino  
 - It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup:  
