@@ -52,14 +52,15 @@ World famous trail race every June in the Basque region of Spain.
 Planned Travels  
 =======================
 
-**2019**
-- Las Vegas, Nevada
-
 **2020**
-- Tokyo, Japan
+- Los Angeles, California
 - Boston, Massachusetts
 - Vancouver, British Columbia
+- Jackson Hole, Wyoming
 - Denver, Colorado
+
+**2021**
+- Tokyo, Japan
 
 Continents I've Visited
 =======================
