@@ -53,10 +53,9 @@ Planned Travels
 =======================
 
 **2020**
-- Los Angeles, California
-- Boston, Massachusetts
 - Vancouver, British Columbia
 - Jackson Hole, Wyoming
+- Boston, Massachusetts
 - Denver, Colorado
 
 **2021**
