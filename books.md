@@ -30,6 +30,7 @@
 - The First 20 Hours
 - Flash Boys
 - The Founder's Dilemmas
+- Future Ethics
 - Getting Things Done
 - Haroun and The Sea Of Stories
 - Homo Deus
@@ -51,6 +52,7 @@
 - Predictably Irrational
 - Quiet: The Power of Introverts
 - Range: Why generalists triumph in a specialized world
+- The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
