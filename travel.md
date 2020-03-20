@@ -53,7 +53,6 @@ Planned Travels
 =======================
 
 **2020**
-- Vancouver, British Columbia
 - Jackson Hole, Wyoming
 - Boston, Massachusetts
 - Denver, Colorado
