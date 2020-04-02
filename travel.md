@@ -56,6 +56,7 @@ Planned Travels
 - Jackson Hole, Wyoming
 - Boston, Massachusetts
 - Denver, Colorado
+- Sacramento, California
 
 **2021**
 - Tokyo, Japan
