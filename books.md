@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- 26 Marathons by Meb Keflezighi and Scott Douglas. 
 - Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - Why Are We Yelling by Buster Benson
 
@@ -75,6 +74,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
 - Atomic Habits by James Clear :thumbsup:  
 - Digital Minimalism by Cal Newport :thumbsup:
 - Rebel Talent by Francesca Gino  
