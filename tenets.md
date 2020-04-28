@@ -115,6 +115,7 @@ Insipration: [How To Beat Marathon Muscle Cramps](http://running.competitor.com/
 Inspiration: [You Should Ban Laptops At Board Meetings](http://techcrunch.com/2011/10/31/why-you-should-ban-laptops-at-board-meetings/)
 
 ### Resources
+- [Worklife Podcast](https://www.ted.com/podcasts/worklife) with Adam Grant
 - [Goal Setting: A Scientific Guide to Setting and Achieving Goals](http://jamesclear.com/goal-setting) by James Clear
 - [Managers FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84) by Henry Ward
 - [Principles of Chaos](http://principlesofchaos.org/)
