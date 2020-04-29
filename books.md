@@ -10,8 +10,8 @@
 
 ### Active Books
 
-- Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - Why Are We Yelling by Buster Benson
+- The Sixth Extinction by Elizabeth Kolbert
 
 
 ### Queued Up Next
@@ -23,6 +23,7 @@
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
+- Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - The Devil In The White City
 - Disrupted  
 - Drive
