@@ -16,14 +16,12 @@
 
 ### Queued Up Next
 
-- Accelerate: The Science of Lean Software and DevOps  
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
 - The Business Blockchain
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
-- Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - The Devil In The White City
 - Disrupted  
 - Drive
@@ -76,6 +74,8 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
+- Accelerate: The Science of Lean Software and DevOps :thumbsup:
+- Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - Atomic Habits by James Clear :thumbsup:  
 - Digital Minimalism by Cal Newport :thumbsup:
 - Rebel Talent by Francesca Gino  
