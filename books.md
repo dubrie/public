@@ -142,6 +142,6 @@ Submit a pull request with any suggested books you think I should read as additi
 
 1. Creativity Inc by Ed Catmull, Amy Wallace
 1. Startup Life by Brad Feld, Amy Batchelor
-1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup:  
+1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
 1. Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon
 1. Hatching Twitter by Nick Bilton
