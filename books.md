@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- Why Are We Yelling by Buster Benson
 - The Sixth Extinction by Elizabeth Kolbert
 
 
@@ -73,6 +72,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Why Are We Yelling by Buster Benson :thumbsup:
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
 - Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
