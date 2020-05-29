@@ -53,7 +53,6 @@ Planned Travels
 =======================
 
 **2020**
-- Boston, Massachusetts
 - Denver, Colorado
 - Sacramento, California
 
