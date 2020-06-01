@@ -63,6 +63,7 @@
 - Turn The Ship Around 
 - Unweaving The Rainbow
 - The Way to Go: Moving by Sea, Land, and Air 
+- White Fragility 
 - A Whole New Mind  
 - 500 Days
 
