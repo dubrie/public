@@ -17,6 +17,7 @@
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
+- Braiding Sweetgrass
 - The Business Blockchain
 - But What If We're Wrong?
 - Cadillac Desert
