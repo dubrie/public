@@ -58,6 +58,7 @@ Planned Travels
 
 **2021**
 - Tokyo, Japan
+- Boston, Massachusettes
 - Jackson Hole, Wyoming
 
 Continents I've Visited
