@@ -11,7 +11,6 @@
 ### Active Books
 
 - The Sixth Extinction by Elizabeth Kolbert
-- White Fragility by Robin Diangelo
 
 
 ### Queued Up Next
@@ -74,6 +73,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- White Fragility by Robin Diangelo :thumbsup: 
 - Why Are We Yelling by Buster Benson :thumbsup:
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
@@ -143,7 +143,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Top 5
 
 1. Creativity Inc by Ed Catmull, Amy Wallace
+1. White Fragility by Robin Diangelo
 1. Startup Life by Brad Feld, Amy Batchelor
 1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
 1. Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon
-1. Hatching Twitter by Nick Bilton
