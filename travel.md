@@ -53,6 +53,8 @@ Planned Travels
 =======================
 
 **2020**
+- Bend, Oregon
+- Cape Cod, Massachusettes
 - Denver, Colorado
 - Sacramento, California
 
