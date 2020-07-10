@@ -49,13 +49,16 @@ Former gold mine in South Dakota now the home for the Deep Underground Science a
 * Zegama Aizkorri  
 World famous trail race every June in the Basque region of Spain. 
 
+**Turkey**
+* Mount Nemrut
+7,000 ft mountain with ancient statues (now headless from iconoclasm) at the summit. Assumed to be a burial tomb from 1st century BC
+
 Planned Travels  
 =======================
 
 **2020**
 - Bend, Oregon
 - Cape Cod, Massachusettes
-- Denver, Colorado
 - Sacramento, California
 
 **2021**
