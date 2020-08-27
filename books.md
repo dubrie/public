@@ -10,14 +10,14 @@
 
 ### Active Books
 
-- The Sixth Extinction by Elizabeth Kolbert
+- Braiding Sweetgrass by Robin Wall Kimmerer 
+- The Future Earth by Eric Holthaus
 
 
 ### Queued Up Next
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
-- Braiding Sweetgrass
 - The Business Blockchain
 - But What If We're Wrong?
 - Cadillac Desert
@@ -73,6 +73,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- The Sixth Extinction by Elizabeth Kolbert :thumbsup:
 - White Fragility by Robin Diangelo :thumbsup: 
 - Why Are We Yelling by Buster Benson :thumbsup:
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
