@@ -17,6 +17,10 @@ A collection of waterfalls, caves, and lakes in Croatia.
 * Drangarnir Sea Stacks  
 Geological rock "stacks" off the coast of the Faroe Islands  
 
+**France**
+* Chamonix
+I have this weird urge to run a UTMB race, probably the OCC
+
 **Iceland**
 * Skógafoss  
 A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.  
@@ -36,6 +40,10 @@ A specific spot in the Waitomo Caves (New Zealand) where tiny glowworms create a
 **Philippines**
 * Chocolate Hills 
 Collection of hills in the Philippines known for their chocolate color, and shape, during the dry season.
+
+**Portugal**
+* Nazaré Beach
+Home of the worlds largest waves, often above 30m (100ft)
 
 **Scotland** 
 * Fingal's Cave  
