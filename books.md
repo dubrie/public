@@ -10,26 +10,23 @@
 
 ### Active Books
 
-- Braiding Sweetgrass by Robin Wall Kimmerer 
 - The Future Earth by Eric Holthaus
+- Between The World and Me by Ta-Nehisi Coates
 
 
 ### Queued Up Next
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
-- The Business Blockchain
+- Braiding Sweetgrass 
 - But What If We're Wrong?
 - Cadillac Desert
 - Career Renegade
-- The Devil In The White City
 - Disrupted  
 - Drive
 - The First 20 Hours
 - Flash Boys
-- The Founder's Dilemmas
 - Future Ethics
-- Getting Things Done
 - Haroun and The Sea Of Stories
 - Homo Deus
 - Invisible Women
