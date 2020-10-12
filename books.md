@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- The Future Earth by Eric Holthaus
 - Between The World and Me by Ta-Nehisi Coates
 
 
@@ -70,6 +69,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- The Future Earth by Eric Holthaus :thumbsup:
 - The Sixth Extinction by Elizabeth Kolbert :thumbsup:
 - White Fragility by Robin Diangelo :thumbsup: 
 - Why Are We Yelling by Buster Benson :thumbsup:
