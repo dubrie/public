@@ -65,12 +65,15 @@ Planned Travels
 =======================
 
 **2020**
-- Sacramento, California
+- Kauai, Hawaii
 
 **2021**
-- Tokyo, Japan
 - Boston, Massachusettes
 - Jackson Hole, Wyoming
+- Sacramento, California
+
+**2022**
+- Tokyo, Japan
 
 Continents I've Visited
 =======================
