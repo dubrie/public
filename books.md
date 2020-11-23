@@ -10,7 +10,6 @@
 
 ### Active Books
 
-- Between The World and Me by Ta-Nehisi Coates
 
 
 ### Queued Up Next
@@ -69,6 +68,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+- Between The World and Me by Ta-Nehisi Coates :thumbsup:
 - The Future Earth by Eric Holthaus :thumbsup:
 - The Sixth Extinction by Elizabeth Kolbert :thumbsup:
 - White Fragility by Robin Diangelo :thumbsup: 
