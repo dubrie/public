@@ -64,9 +64,6 @@ World famous trail race every June in the Basque region of Spain.
 Planned Travels  
 =======================
 
-**2020**
-- Kauai, Hawaii
-
 **2021**
 - Boston, Massachusettes
 - Jackson Hole, Wyoming
