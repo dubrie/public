@@ -51,6 +51,7 @@
 - Seeking Wisdom: From Darwin to Munger
 - Shoe Dog  
 - So Good They Can't Ignore You
+- Strong Towns
 - Switch: How To Change Things When Change Is Hard
 - Switching To Solar
 - Thinking Fast & Slow
