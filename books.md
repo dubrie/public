@@ -19,22 +19,15 @@
 - Braiding Sweetgrass 
 - But What If We're Wrong?
 - Cadillac Desert
-- Career Renegade
 - Disrupted  
 - Drive
 - The First 20 Hours
-- Flash Boys
 - Future Ethics
-- Haroun and The Sea Of Stories
 - Homo Deus
 - Invisible Women
 - The Hunt for Vulcan
-- The Innovator's Method
-- The Innovators
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
-- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
-- Measure What Matters  
 - Mismatch: How Inclusion Shapes Design  
 - Natural Born Heroes
 - The Non-designer's design book  
@@ -49,8 +42,6 @@
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
-- Shoe Dog  
-- So Good They Can't Ignore You
 - Strong Towns
 - Switch: How To Change Things When Change Is Hard
 - Switching To Solar
@@ -61,7 +52,6 @@
 - Unweaving The Rainbow
 - The Way to Go: Moving by Sea, Land, and Air 
 - A Whole New Mind  
-- 500 Days
 
 ### Suggested Books
 
