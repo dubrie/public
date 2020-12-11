@@ -10,7 +10,7 @@
 
 ### Active Books
 
-
+- Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy by Bob Johnstone  
 
 ### Queued Up Next
 
@@ -44,7 +44,6 @@
 - Seeking Wisdom: From Darwin to Munger
 - Strong Towns
 - Switch: How To Change Things When Change Is Hard
-- Switching To Solar
 - Thinking Fast & Slow
 - Tools and Weapons
 - Turing's Cathedral
