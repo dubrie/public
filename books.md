@@ -59,6 +59,8 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+
+#### 2020
 - Between The World and Me by Ta-Nehisi Coates :thumbsup:
 - The Future Earth by Eric Holthaus :thumbsup:
 - The Sixth Extinction by Elizabeth Kolbert :thumbsup:
@@ -68,14 +70,20 @@ Submit a pull request with any suggested books you think I should read as additi
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
 - Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 - Atomic Habits by James Clear :thumbsup:  
+
+#### 2019
 - Digital Minimalism by Cal Newport :thumbsup:
 - Rebel Talent by Francesca Gino  
+
+#### 2018
 - It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup:  
 - The Hard Thing About Hard Things by Ben Horowitz :thumbsup:   
 - Hit Refresh by Satya Nadella  
 - Data-ism by Steve Lohr  
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:   
 - Proof: The Science of Booze by Adam Rogers  
+
+#### 2017
 - The Leap: The Science Of Trust And Why It Matters by Ulrich Boser :thumbsup:  
 - Cumulus by Eliot Peper  
 - The Advantage by Patrick Lencioni  
@@ -83,12 +91,16 @@ Submit a pull request with any suggested books you think I should read as additi
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 - 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:  
 - Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez :thumbsup:   
+
+#### 2016
 - Gumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
 - Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup:
 - Nudge by Richard H Thaler
 - Ghost In The Wires by Kevin Mitnick
 - Venture Deals by Brad Feld, Jason Medelson
 - My Man Jeeves by P. G. Wodehouse
+
+#### Pre-2015
 - Startup Growth Engines by Sean Ellis, Morgan Brown :thumbsup:
 - Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup:
 - The Martian by Andy Weir :thumbsup:
