@@ -65,8 +65,9 @@ Planned Travels
 =======================
 
 **2021**
-- Boston, Massachusettes
+- Maui, Hawaii
 - Jackson Hole, Wyoming
+- Boston, Massachusettes
 - Sacramento, California
 
 **2022**
