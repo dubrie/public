@@ -11,6 +11,7 @@
 ### Active Books
 
 - Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy by Bob Johnstone  
+- The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design by Roman Mars and Kurt Kohlstedt
 
 ### Queued Up Next
 
