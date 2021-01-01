@@ -39,8 +39,10 @@
 - Predictably Irrational
 - Quiet: The Power of Introverts
 - Range: Why generalists triumph in a specialized world
+- The End of Everything (Astrophysically Speaking) 
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
+- Thirst: 2600 Miles to Home
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
 - Strong Towns
