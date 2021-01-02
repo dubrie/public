@@ -67,6 +67,7 @@ Planned Travels
 **2021**
 - Maui, Hawaii
 - Jackson Hole, Wyoming
+- Ann Arbor, Michigan
 - Boston, Massachusettes
 - Sacramento, California
 
