@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Ultra Marathons](#ultra-marathons)
+- [50ks](#50ks)
 - [Marathons](#marathons)
 - [22 Miles](#22-miles)
 - [Half Marathons](#half-marathons)
@@ -13,7 +13,7 @@
 - [5ks](#5ks)
 - [Adventure Races](#adventure-races)
 
-### Ultra Marathons
+### 50ks
 - [2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25
 
 ### Marathons
