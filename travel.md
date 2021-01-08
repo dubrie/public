@@ -11,6 +11,7 @@ Trips in various stages of being booked and/or planned
 - Bozeman, Montana
 - Ann Arbor, Michigan
 - Boston, Massachusettes
+- London, United Kingdom
 - Indianapolis, Indiana
 - Sacramento, California
 
