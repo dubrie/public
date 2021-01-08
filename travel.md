@@ -67,8 +67,17 @@ Running list of places and things I'd love the chance to see
 - __Skógafoss__: A waterfall situated on the Skógá River in the south of Iceland at the cliffs of the former Icelandic coastline.  
 - __Eldey__: Island off the coast of southwest Iceland that was the home to the [last of the Great Auk bird](https://en.wikipedia.org/wiki/Eldey#The_last_of_the_Great_Auk) before it went extinct.
 
+### India
+- __Kaliya Dhrow__: Boldly colorful crater of rocks and waterfalls created by wind and rain in western India.
+
+### Japan
+- __Hokkaido__: Volcanic powered geothermal springs, mountains, and colorful changing leaves.
+
 ### Madlives
 - __Vaadhoo Island__: Sea of Stars on Vaadhoo Island in the Maldives where bioluminescence phytoplankton wash up on the shoreline.
+
+### Morocca
+- __The Marrakesh Medina__: "Inside the Medina, there's always this background noise -- drumming and dancing and the sound fo thousands of people passing through." 
 
 ### New Zealand
 - __Glowworm Grotto__: A specific spot in the Waitomo Caves (New Zealand) where tiny glowworms create a star-effect on the ceiling of the cave.
