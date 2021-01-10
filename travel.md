@@ -85,6 +85,9 @@ Running list of places and things I'd love the chance to see
 ### Norway
 - __Trolltunga__: "Troll's tounge" overhang in Hodaland, Norway.
 
+### Palau
+- First country to insist that visitors sign a voluntary eco pledge saying they will be good environmental stewards for the length of their stay.
+
 ### Peru
 - __Gocta Cataracts__: Two-tiered cataract waterfall that was known only to locals at the base until 2005.
 
@@ -92,6 +95,7 @@ Running list of places and things I'd love the chance to see
 - __Chocolate Hills__: Collection of hills in the Philippines known for their chocolate color, and shape, during the dry season.
 
 ### Portugal
+- Mandated 90% of tourism business will comply with 2027 standards of water, waste, and energy use. 
 - __Nazaré Beach__: Home of the worlds largest waves, often above 30m (100ft).
 
 ### Scotland
