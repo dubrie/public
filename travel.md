@@ -107,6 +107,7 @@ Running list of places and things I'd love the chance to see
 
 ### Sri Lanka
 - __Sigiriya__: 1000+ ft high magma plug that has dwellings on top used as a monestary and a fortess at different times through history.
+- __Ambuluwawa Tower__: 48 meter high tower with a very skinny spiral staircase up the spire portion. Top provides amazing 360 degree views of Sri Lanka.
 
 ### Turkey
 - __Mount Nemrut__: 7,000 ft mountain with ancient statues (now headless from iconoclasm) at the summit. Assumed to be a burial tomb from 1st century BC.
