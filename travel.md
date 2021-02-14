@@ -8,10 +8,9 @@ Trips in various stages of being booked and/or planned
 
 ### 2021
 - Maui, Hawaii
-- Bozeman, Montana
 - Ann Arbor, Michigan
-- Boston, Massachusettes
 - London, United Kingdom
+- Boston, Massachusettes
 - Indianapolis, Indiana
 - Sacramento, California
 
