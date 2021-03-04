@@ -64,6 +64,9 @@ Submit a pull request with any suggested books you think I should read as additi
 
 ### Finished Books
 
+#### 2021
+- Accelerate: The Science of Lean Software and DevOps :thumbsup:
+
 #### 2020
 - Between The World and Me by Ta-Nehisi Coates :thumbsup:
 - The Future Earth by Eric Holthaus :thumbsup:
