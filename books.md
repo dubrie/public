@@ -65,7 +65,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
-- [News From The World](/archive/books/news-from-the-world.md) by Paulette Jiles
+- [News Of The World](/archive/books/news-of-the-world.md) by Paulette Jiles
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
 
 #### 2020
