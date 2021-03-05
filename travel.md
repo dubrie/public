@@ -7,15 +7,16 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2021
-- Maui, Hawaii
+- Bend, Oregon
+- Colombo, Sri Lanka
 - Ann Arbor, Michigan
 - London, United Kingdom
 - Boston, Massachusettes
 - Indianapolis, Indiana
-- Sacramento, California
 
 ### 2022
 - Tokyo, Japan
+- Sacramento, California
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers do not count
