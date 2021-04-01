@@ -33,6 +33,7 @@
 - Mismatch: How Inclusion Shapes Design  
 - Natural Born Heroes
 - The Non-designer's design book  
+- The Organic Machine: The Remaking of the Columbia River
 - The Organized Mind
 - Overcomplicated
 - The Phoenix Project
