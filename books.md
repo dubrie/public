@@ -12,7 +12,11 @@
 
 - The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design by Roman Mars and Kurt Kohlstedt
 - An Elegant Puzzle: Systems of Engineering Management by Will Larson
-### Queued Up Next
+
+### Up Next
+- The Midnight Library
+
+### Reading List
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
