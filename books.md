@@ -10,9 +10,8 @@
 
 ### Active Books
 
-- Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy by Bob Johnstone  
 - The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design by Roman Mars and Kurt Kohlstedt
-
+- An Elegant Puzzle: Systems of Engineering Management by Will Larson
 ### Queued Up Next
 
 - The Art of Community: Seven Principles for Belonging  
@@ -66,6 +65,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
+- Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy by Bob Johnstone  
 - [News Of The World](/archive/books/news-of-the-world.md) by Paulette Jiles
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
 
