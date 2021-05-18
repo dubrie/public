@@ -15,6 +15,7 @@
 
 ### Up Next
 - The Midnight Library
+- Linked: How Everything is Connected to Everything Else 
 
 ### Reading List
 
