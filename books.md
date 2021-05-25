@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Currently Reading](#currently-reading)
-- [Queued Up Next](#queued-up-next)
-- [Suggested Books](#suggested-books)
+- [Queued Up Next](#up-next)
+- [Suggested Books](#books-to-read-list)
 - [Finished Books](#finished-books)
 - [Top 5](#top-5)
 
@@ -17,7 +17,7 @@
 - The Midnight Library
 - Linked: How Everything is Connected to Everything Else 
 
-### Reading List
+### Books To Read List
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
