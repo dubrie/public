@@ -70,7 +70,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
-- [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson
+- [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson :thumbsup:
 - [Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy](/archive/books/switching-to-solar.md) by Bob Johnstone  
 - [News Of The World](/archive/books/news-of-the-world.md) by Paulette Jiles
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
@@ -79,7 +79,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - Between The World and Me by Ta-Nehisi Coates :thumbsup:
 - The Future Earth by Eric Holthaus :thumbsup:
 - The Sixth Extinction by Elizabeth Kolbert :thumbsup:
-- White Fragility by Robin Diangelo :thumbsup: 
+- White Fragility by Robin Diangelo :thumbsup: :star:
 - Why Are We Yelling by Buster Benson :thumbsup:
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
 - Accelerate: The Science of Lean Software and DevOps :thumbsup:
@@ -91,7 +91,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - Rebel Talent by Francesca Gino  
 
 #### 2018
-- It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup:  
+- It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson :thumbsup: :star: 
 - The Hard Thing About Hard Things by Ben Horowitz :thumbsup:   
 - Hit Refresh by Satya Nadella  
 - Data-ism by Steve Lohr  
@@ -117,10 +117,10 @@ Submit a pull request with any suggested books you think I should read as additi
 
 #### Pre-2015
 - Startup Growth Engines by Sean Ellis, Morgan Brown :thumbsup:
-- Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup:
+- Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup: :star:
 - The Martian by Andy Weir :thumbsup:
 - Automate This by Christopher Steiner
-- Creativity Inc by Ed Catmull, Amy Wallace :thumbsup:
+- Creativity Inc by Ed Catmull, Amy Wallace :thumbsup: :star:
 - Making It Right by Rian Van Der Merwe
 - The Amazon Way by John Rossman
 - Do Cool Sh*t by Miki Agrawal
@@ -132,7 +132,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - Present Shock by Douglas Rushkoff
 - The Signal And The Noise by Nate Silver :thumbsup:
 - Three and Out by John U. Bacon :thumbsup:
-- Startup Life by Brad Feld, Amy Batchelor :thumbsup:
+- Startup Life by Brad Feld, Amy Batchelor :thumbsup: :star:
 - The Wisdom of Crowds by James Surowiecki
 - The Beckham Experiment by Grant Wahl :thumbsup:
 - The Tipping Point by Malcolm Gladwell :thumbsup:
