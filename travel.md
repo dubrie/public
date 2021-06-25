@@ -7,8 +7,7 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2021
-- Bend, Oregon
-- Colombo, Sri Lanka
+- Male, Maldives
 - Ann Arbor, Michigan
 - London, United Kingdom
 - Boston, Massachusettes
