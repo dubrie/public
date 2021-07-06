@@ -73,7 +73,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson :thumbsup:
 - [Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy](/archive/books/switching-to-solar.md) by Bob Johnstone  
 - [News Of The World](/archive/books/news-of-the-world.md) by Paulette Jiles
-- Accelerate: The Science of Lean Software and DevOps :thumbsup:
+- Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim :thumbsup:
 
 #### 2020
 - Between The World and Me by Ta-Nehisi Coates :thumbsup:
