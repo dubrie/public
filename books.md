@@ -10,10 +10,9 @@
 
 ### Active Books
 
-- Begin Again:  James Baldwin's America and Its Urgent Lessons For Our Own
+- The Midnight Library by Matt Haig
 
 ### Up Next
-- The Midnight Library
 - Linked: How Everything is Connected to Everything Else 
 
 ### Books To Read List
@@ -69,6 +68,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
+- [Begin Again:  James Baldwin's America and Its Urgent Lessons For Our Own](/archive/books/begin-again.md) by Eddie S. Guade Jr. :thumbsup: :star:
 - [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](/archive/books/the-99-invisible-city.md) by Roman Mars and Kurt Kohlstedt :thumbsup:
 - [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson :thumbsup:
 - [Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy](/archive/books/switching-to-solar.md) by Bob Johnstone  
@@ -117,7 +117,7 @@ Submit a pull request with any suggested books you think I should read as additi
 
 #### Pre-2015
 - Startup Growth Engines by Sean Ellis, Morgan Brown :thumbsup:
-- Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup: :star:
+- Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon :thumbsup:
 - The Martian by Andy Weir :thumbsup:
 - Automate This by Christopher Steiner
 - Creativity Inc by Ed Catmull, Amy Wallace :thumbsup: :star:
@@ -161,5 +161,5 @@ Submit a pull request with any suggested books you think I should read as additi
 1. Creativity Inc by Ed Catmull, Amy Wallace
 1. White Fragility by Robin Diangelo
 1. Startup Life by Brad Feld, Amy Batchelor
-1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
-1. Endzone: The Rise, Fall, and Return of Michigan Football by John U. Bacon
+1. Begin Again by Eddie S. Glaude Jr.
+1. 1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
