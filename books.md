@@ -162,4 +162,4 @@ Submit a pull request with any suggested books you think I should read as additi
 1. White Fragility by Robin Diangelo
 1. Startup Life by Brad Feld, Amy Batchelor
 1. Begin Again by Eddie S. Glaude Jr.
-1. 1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
+1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
