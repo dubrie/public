@@ -26,6 +26,7 @@ Tenets are my principles or doctrines that I aim to live my life by. By nature t
 1. [May 2021](/archive/OKR-Reviews/2021-05.md)  
 1. [Jun 2021](/archive/OKR-Reviews/2021-06.md)  
 1. [Aug 2021](/archive/OKR-Reviews/2021-08.md)  
+1. [Sep 2021](/archive/OKR-Reviews/2021-09.md)
  
 ## Established Principles
 Something I have whole-heartedly bought into and is a driving influence in all of my active and passive decision making.
