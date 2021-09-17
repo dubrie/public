@@ -9,11 +9,12 @@
 - [Top 5](#top-5)
 
 ### Active Books
-
-- The Midnight Library by Matt Haig
+- Sustainable in a Circular World - Peggy Smedley
+- Linked: How Everything is Connected to Everything Else 
 
 ### Up Next
-- Linked: How Everything is Connected to Everything Else 
+- Station Eleven by Emily St. John Mandel
+
 
 ### Books To Read List
 
@@ -49,7 +50,6 @@
 - Thirst: 2600 Miles to Home
 - Sapiens: A Brief History of Humankind
 - Seeking Wisdom: From Darwin to Munger
-- Station Eleven
 - Strong Towns
 - Switch: How To Change Things When Change Is Hard
 - Thinking Fast & Slow
@@ -68,6 +68,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
+- [The Midnight Library](/archive/books/the-midnight-library.md) by Matt Haig :thumbsup:
 - [Begin Again:  James Baldwin's America and Its Urgent Lessons For Our Own](/archive/books/begin-again.md) by Eddie S. Guade Jr. :thumbsup: :star:
 - [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](/archive/books/the-99-invisible-city.md) by Roman Mars and Kurt Kohlstedt :thumbsup:
 - [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson :thumbsup:
