@@ -36,10 +36,11 @@
 - **[2019 Middle Fork Trail Run](https://www.webscorer.com/racedetails?raceid=194205&did=215967) - 2:59:05**
 
 ### Half Marathons
+- **[2021 Cascade Express Half Marathon](https://runsignup.com/Race/Results/118945/IndividualResult/ZxYc?resultSetId=275138#U52758138) - 1:15:46^**
 - [2021 Craft Classic](https://runsignup.com/Race/Results/57331/IndividualResult/KJBR?resultSetId=260239&embedId2=KoG1aefg#U35992128) - 1:22:58
 - [2020 Geoduck Gallop Half Marathon](https://www.evergreen.edu/sites/default/files/Geoduck%20Gallop%20Half%20Marathon%20Results%202020.pdf) - 1:17:56  
 - [2019 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=205021&did=228388) - 1:23:33  
-- **[2019 Snohomish River Run 1/2 Marathon](https://raceday.enmotive.com/#/events/2019-snohomish-river-run/registrants/5d9fa294-e3ac-49eb-95a3-0a105206f5f9) - 1:16:32**
+- [2019 Snohomish River Run 1/2 Marathon](https://raceday.enmotive.com/#/events/2019-snohomish-river-run/registrants/5d9fa294-e3ac-49eb-95a3-0a105206f5f9) - 1:16:32
 - [2019 Summer Blast @ Redmond Watershed Trail Run](https://www.webscorer.com/racedetails?raceid=191451&did=212619) - 1:24:39^ 
 - 2019 San Diego Rock N Roll (Team Challenge Coaching)  
 - [2018 Reindeer Romp Trail Run](https://www.webscorer.com/racedetails?raceid=163121&did=177490) - 1:27:21^  
