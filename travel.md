@@ -7,8 +7,6 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2021
-- London, United Kingdom
-- Boston, Massachusettes
 - Indianapolis, Indiana
 
 ### 2022
@@ -33,6 +31,7 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 - Ireland
 - Italy
 - Switzerland
+- United Kingdom
 
 ### North America
 - Canada (British Columbia, Alberta, Ontario, Quebec) 
