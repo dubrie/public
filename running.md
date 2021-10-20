@@ -17,8 +17,8 @@
 - [2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25
 
 ### Marathons
-- [2021 Boston Marathon](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF14752D&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=R) - 2:58:37*
-- [2021 London Marathon](https://results.london-marathon.co.uk/2021/?content=detail&fpid=search&pid=search&idp=T8C2O3HQ31D783&lang=EN_CAP&event=MAS&search%5Bname%5D=Johnson&search%5Bfirstname%5D=William&search_event=MAS) - 2:57:46*
+- [2021 Boston Marathon](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF14752D&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=R)* - 2:58:37
+- [2021 London Marathon](https://results.london-marathon.co.uk/2021/?content=detail&fpid=search&pid=search&idp=T8C2O3HQ31D783&lang=EN_CAP&event=MAS&search%5Bname%5D=Johnson&search%5Bfirstname%5D=William&search_event=MAS)* - 2:57:46
 - **[2019 New York City Marathon](https://results.nyrr.org/event/M2019/result/2161)\* - 2:46:16**
 - [2019 Boston Marathon](http://registration.baa.org/2019/cf/Public/iframe_ResultsSearch.cfm)\* - 3:00:28
 - [2018 Chicago Marathon](http://results.chicagomarathon.com/2018/?content=detail&fpid=search&pid=search&idp=999999107FA30E000020EC25&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=MAR)\* - 2:55:30
