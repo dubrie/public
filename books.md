@@ -9,12 +9,11 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Sustainable in a Circular World - Peggy Smedley
 - Linked: How Everything is Connected to Everything Else 
-
-### Up Next
 - Station Eleven by Emily St. John Mandel
 
+### Up Next
+- Endure by Alex Hutchinson
 
 ### Books To Read List
 
@@ -68,6 +67,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
+- [Sustainable in a Circular World](/archive/books/sustainable-in-a-circular-world.md) by Peggy Smedley  
 - [The Midnight Library](/archive/books/the-midnight-library.md) by Matt Haig :thumbsup:
 - [Begin Again:  James Baldwin's America and Its Urgent Lessons For Our Own](/archive/books/begin-again.md) by Eddie S. Guade Jr. :thumbsup: :star:
 - [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](/archive/books/the-99-invisible-city.md) by Roman Mars and Kurt Kohlstedt :thumbsup:
