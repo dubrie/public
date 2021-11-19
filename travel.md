@@ -10,6 +10,8 @@ Trips in various stages of being booked and/or planned
 - Indianapolis, Indiana
 
 ### 2022
+- Boston, Massachusetts
+- Salt Lake City, Utah
 - Sacramento, California
 
 ### 2023
