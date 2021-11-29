@@ -6,9 +6,6 @@ Where I'm going, where I've gone, and where I want to go
 ## Planned Travels  
 Trips in various stages of being booked and/or planned
 
-### 2021
-- Indianapolis, Indiana
-
 ### 2022
 - San Diego, California
 - Boston, Massachusetts
