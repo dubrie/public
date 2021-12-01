@@ -33,6 +33,7 @@
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - Mismatch: How Inclusion Shapes Design  
+- Native Seattle  
 - Natural Born Heroes
 - The Non-designer's design book  
 - The Organic Machine: The Remaking of the Columbia River
