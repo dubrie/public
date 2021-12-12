@@ -10,6 +10,7 @@ Trips in various stages of being booked and/or planned
 - San Diego, California
 - Boston, Massachusetts
 - Salt Lake City, Utah
+- Portland, Maine
 - Sacramento, California
 
 ### 2023
