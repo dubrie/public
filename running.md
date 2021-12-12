@@ -8,6 +8,7 @@
 - [Half Marathons](#half-marathons)
 - [15ks](#15ks)
 - [8 Miles](#8-miles)
+- [12ks](#12ks)
 - [10ks](#10ks)
 - [5 Miles](#5-miles)
 - [5ks](#5ks)
@@ -75,6 +76,10 @@
 ### 8 miles
 
 - **[2018 Absolution Run](https://www.webscorer.com/racedetails?raceid=165183&did=179714) - 1:01:15**
+
+### 12ks
+
+- **[2021 12ks of Christmas](https://results.raceroster.com/en-US/results/detail/mrk4avt2nzasmq3c) - 43:13**
 
 ### 10ks
 
