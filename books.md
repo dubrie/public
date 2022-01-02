@@ -9,7 +9,6 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Linked: How Everything is Connected to Everything Else 
 - Station Eleven by Emily St. John Mandel
 
 ### Up Next
@@ -68,6 +67,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2021
+- [Linked: How Everything is Connected to Everything Else](/archive/books/sustainable-in-a-circular-world.md) by Albert-László Barabási  
 - [Sustainable in a Circular World](/archive/books/sustainable-in-a-circular-world.md) by Peggy Smedley  
 - [The Midnight Library](/archive/books/the-midnight-library.md) by Matt Haig :thumbsup:
 - [Begin Again:  James Baldwin's America and Its Urgent Lessons For Our Own](/archive/books/begin-again.md) by Eddie S. Guade Jr. :thumbsup: :star:
