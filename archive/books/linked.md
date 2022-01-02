@@ -1,0 +1,29 @@
+<< [Books](/books.md)
+
+# Review of Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life
+Book Link: [Amazon (smile)](https://smile.amazon.com/Linked-Everything-Connected-Business-Everyday/dp/0465085733)
+
+This book is a few years old now and references some companies and issues that are a bit dated, but the science and application of graph theory to most of our everyday life scenarios is quite interesting. At times, it seemed like the entire notion of the book came from a web crawler project the author helped create to evaluate the connectedness of the internet. What's interesting, and really the main takeaway for me, is that almost everything is some form of a graph and knowing the specific type of graph and it's properties/incentives can provide valuable insight to influence outcomes and efficiently place resources. A great example of this was the anecdote abote finding a job -- close friends don't typically find other close friends jobs, it's the loose connections and acquaintances that typically make that connection. Knowing that, you can effeciently put your focus on people outside your inner circle like past colleagues or friends of friends. It also should provide better confidence in reaching out to these people knowing that the data backs you up, especially if you can find the Maven's or Hubs in your social graph. I also really enjoyed the sea otter story (details below) as it puts a real-world application on the seemingly minimal change having outsized impact on the system overall.
+
+
+Some highlights/thoughts from my reading:
+1. This book has a simple aim: to get you to think networks. It is about how networks emerge, what they look like, and how they evolve.
+2. Graphs or networks have properties, hidden in their construction, that limit or enhance our ability to do things with them.
+3. The construction and structure of graphs or networks is the key to understanding the complex world around us. Small changes in the topology, affecting only a few of the nodes or links, can open up hidden doors, allowing new possibilities to emerge.
+4. Though these short stories have been neglected, Karinthy’s 1929 insight that people are linked by at most five links was the first published appearance of the concept we know today as “six degrees of separation.”
+5. he interviewed dozens of managerial and professional workers, asking them who helped them find their current job. Was it a friend? He kept getting the same reply: No, it was not a friend. It was just an acquaintance.
+6. Classic chemistry lesson demonstrating how weak hydrogen bonds hold huge water molecules together, and that image, stuck in his mind
+7. managerial workers are more likely to hear about a job opening through weak ties (27.8 percent of the cases) than through strong ties (16.7 percent).
+8. “Sprinkled among every walk of life . . . are a handful of people with a truly extraordinary knack of making friends and acquaintances. They are connectors.”
+9. [Kevin] Bacon’s prominence is a historical fluke, rooted in the publicity offered by the Stewart show. Every actor is three links from most actors. Bacon is by no means special. Not only is he far from the center of the universe, he’s far indeed from the center of Hollywood.
+10. Rather, a histogram following a power law is a continuously decreasing curve, implying that many small events coexist with a few large events. Power laws rarely emerge in systems completely dominated by a roll of the dice. Physicists have learned that most often they signal a transition from disorder to order.
+11. Nature normally hates power laws. In ordinary systems all quantities follow bell curves, and correlations decay rapidly, obeying exponential laws. But all that changes if the system is forced to undergo a phase transition. Then power laws emerge—nature’s unmistakable sign that chaos is departing in favor of order.
+12. Despite their diversity most real networks share an essential feature: growth.
+13. Putting the pieces of the puzzle together, we find that real networks are governed by two laws: growth and preferential attachment.
+14. In this mapping, complex networks are like a huge quantum gas, their links behaving like subatomic particles.
+15. And there is a network in which we cannot fail to notice one node that carries the signature of a Bose-Einstein condensate. The node is called Microsoft.
+16. Most systems displaying a high degree of tolerance against failures share a common feature: Their functionality is guaranteed by a highly interconnected complex network.
+17. a University of Michigan–Ann Arbor study had found that at any moment hundreds of Internet routers malfunction. Despite these frequent and unavoidable breakdowns, users rarely notice significant disruptions of Internet services.
+18. A much studied example is the sea otter in California. The otter all but disappeared during the nineteenth century because of excessive hunting for its pelts. After federal regulators in 1911 forbade further hunting of this lovely creature, the otter made a dramatic comeback. Because it feeds on urchins, with the increase in otters the urchin population went down. With fewer urchins around, the number of kelps, a favorite food of urchins, increased dramatically. This increased the supply of food for fish and protected the coast from erosion. Therefore, protection of only one species, a hub, drastically altered both the economy and the ecology of the coastline.
+19. As long as resources are finite we should treat only the hubs. That is, when a treatment exists but there is not enough money to offer it to everybody who needs it, we should primarily give it to the hubs.
+20. No central node sits in the middle of the spider web, controlling and monitoring every link and node. There is no single node whose removal could break the web. A scale-free network is a web without a spider.
