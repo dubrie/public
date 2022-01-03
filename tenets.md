@@ -4,7 +4,7 @@ Tenets are my principles or doctrines that I aim to live my life by. By nature t
 
 ## 2022 Personal OKRs
 
-### Maintain focused
+### Focus on focusing
 1. Complete 10 books and summary/takeaway write-ups this calendar year
 2. Work less than 5 days during 26 weeks of the year
 3. Keep weekly phone screen time under 4 hrs
@@ -15,7 +15,7 @@ Tenets are my principles or doctrines that I aim to live my life by. By nature t
 3. Offset 16x my 2021 carbon footprint (2021 footprint: 117,649 lbs of CO2e)  
 
 ### Change up my historical patterns and tendencies 
-1. Read 5 non-fiction books
+1. Read 5 fiction books
 2. Run with other people (non-races) 20 times
 3. Initiate contact with 6 family members or friends each month
 
