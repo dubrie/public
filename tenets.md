@@ -4,6 +4,8 @@ Tenets are my principles or doctrines that I aim to live my life by. By nature t
 
 ## 2022 Personal OKRs
 
+_Note: I [wrote a little background](https://dubrie.medium.com/2022-personal-okrs-5138f1cb8a2?source=friends_link&sk=4f5334783e2570d9f431f3c50b4e922f) on each of these sections if you want to learn more about the reasoning and specific numbers._
+
 ### Focus on focusing
 1. Complete 10 books and summary/takeaway write-ups this calendar year
 2. Work less than 5 days during 26 weeks of the year
