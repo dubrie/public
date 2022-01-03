@@ -2,34 +2,25 @@
 
 Tenets are my principles or doctrines that I aim to live my life by. By nature these change over time as priorities in my life change, I grow as a person, or when something is not benefiting or working towards a positive goal. I am following an [OKR format](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) to make this more tangible as I work through the tenet progression of Hypothesis, Pattern, and Philosophy. An Hypothesis is something that I have theory about and am looking to prove out one way or another. If an Hypothesis is proven true, it becomes a Pattern that I add to my routine and establish on a more integrated level. If patterns prove to be valuable over a long period of time, then they become a Principle as something that is present and accounted for in my decision making, both actively and passively. 
 
-## Personal OKRs
+## 2022 Personal OKRs
 
-### Be more focused
+### Maintain focused
 1. Complete 10 books and summary/takeaway write-ups this calendar year
-1. Write 1 new blog post per month
-1. Maintain 30% focus time (2+ hour blocks) at work per week
+2. Work less than 5 days during 26 weeks of the year
+3. Keep weekly phone screen time under 4 hrs
 
-### Become a better friend and family member
-1. Connect with 5 friends per week
-1. Connect with 2 family members per week
-1. Connect with 2 new co-workers per month
-
-### Explore the natural world to gain better perspective on the planet
-1. 1 10k+ trail run per week and 2 first-time trails per month
+### Be a better citizen of the planet
 1. Visit 3 National Parks
-1. Know history and present-day leadership for 3 Native American tribes
+2. Keep median monthly energy usage for my household under 620kWh
+3. Offset 16x my 2021 carbon footprint (2021 footprint: 117,649 lbs of CO2e)  
+
+### Change up my historical patterns and tendencies 
+1. Read 5 non-fiction books
+2. Run with other people (non-races) 20 times
+3. Initiate contact with 6 family members or friends each month
 
 ### OKR Reviews
-1. [Feb 2021](/archive/OKR-Reviews/2021-02.md)  
-1. [Mar 2021](/archive/OKR-Reviews/2021-03.md)  
-1. [Apr 2021](/archive/OKR-Reviews/2021-04.md)  
-1. [May 2021](/archive/OKR-Reviews/2021-05.md)  
-1. [Jun 2021](/archive/OKR-Reviews/2021-06.md)  
-1. [Aug 2021](/archive/OKR-Reviews/2021-08.md)  
-1. [Sep 2021](/archive/OKR-Reviews/2021-09.md)
-1. [Oct 2021](/archive/OKR-Reviews/2021-10.md)
-1. [Nov 2021](/archive/OKR-Reviews/2021-11.md)
-1. [Dec 2021](/archive/OKR-Reviews/2021-12.md)
+1. [2021 Results](/archive/OKR-Reviews/2021-OKRs.md)
  
 ## Established Principles
 Something I have whole-heartedly bought into and is a driving influence in all of my active and passive decision making.
