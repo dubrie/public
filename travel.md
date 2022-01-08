@@ -7,7 +7,7 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2022
-- San Diego, California
+- Palm Springs, California
 - Boston, Massachusetts
 - Salt Lake City, Utah
 - Portland, Maine
