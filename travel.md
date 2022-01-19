@@ -8,6 +8,7 @@ Trips in various stages of being booked and/or planned
 
 ### 2022
 - Palm Springs, California
+- Bozeman, Montana
 - Boston, Massachusetts
 - Salt Lake City, Utah
 - Portland, Maine
@@ -100,6 +101,7 @@ Running list of places and things I'd love the chance to see
 ### Scotland
 - __Fingal's Cave__: A sea cave on an uninhabited island in Scotland known for it's natural acoustics.
 - __Loch Maree__: Northern highlands lake with lots of islands and was once believed to cure mental illness from soaking in the water.
+- [__Shetland Cake Fridge__](https://www.atlasobscura.com/places/shetland-cake-fridges-and-honesty-boxes): Honest box that sells cakes and has a tearoom now adjacent to it. 
 
 ### Spain
 - __Zegama Aizkorri__: World famous trail race every June in the Basque region of Spain. 
