@@ -9,10 +9,11 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Station Eleven by Emily St. John Mandel
+- Native Seattle: Histories from the Crossing-Over Place by Coll Thrush  
+- Endure: Mind, Body, and the Curiosuly Elastic Limits of Human Performance by Alex Hutchinson
 
 ### Up Next
-- Endure by Alex Hutchinson
+
 
 ### Books To Read List
 
@@ -32,7 +33,6 @@
 - It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - Mismatch: How Inclusion Shapes Design  
-- Native Seattle  
 - Natural Born Heroes
 - The Non-designer's design book  
 - The Organic Machine: The Remaking of the Columbia River
@@ -65,6 +65,10 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+
+#### 2022
+- [Station Eleven](/archive/books/station-eleven.md) by Emily St. John Madel  
+
 
 #### 2021
 - [Linked: How Everything is Connected to Everything Else](/archive/books/sustainable-in-a-circular-world.md) by Albert-László Barabási  
