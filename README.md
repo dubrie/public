@@ -6,3 +6,4 @@ A collection of various data around my public personna
 * [Travel](https://github.com/dubrie/public/blob/master/travel.md) - Where I want to go
 * [Books](https://github.com/dubrie/public/blob/master/books.md) - What I'm reading
 * [Running](https://github.com/dubrie/public/blob/master/running.md) - Where I'm running
+* [Thoughts](https://github.com/dubrie/public/blob/master/thoughts.md) - Things I'm saying
