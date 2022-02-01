@@ -28,7 +28,7 @@ A list of talks, articles, or other discussions I've done in the world. Links to
 * Sep 2020 - SREs and Sustainability ([Greenconf 2020](http://greenconf.io/))
 * Aug 2019 - Running SRE ([Seattle DevOps Meetup](https://www.meetup.com/Seattle-DevOps-Meetup/events/262135699/))
 * Jun 2019 - Running SRE (SRE[MS]Con '19)
-* Nov 2017 - [Everything is Broken](https://www.meetup.com/Everything-Is-Broken/events/vtvntnywpbcb/)
+* Nov 2017 - Everything is Broken ([Everything is Broken Meetup](https://www.meetup.com/Everything-Is-Broken/events/vtvntnywpbcb/))
 
 ## Panels
 * Jan 2022 - Accenture Future of Sustainable Software (Accenture)
