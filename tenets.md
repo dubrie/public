@@ -22,6 +22,7 @@ _Note: I [wrote a little background](https://dubrie.medium.com/2022-personal-okr
 3. Initiate contact with 6 family members or friends each month
 
 ### OKR Reviews
+1. [Jan 2022 Results](/archive/OKR-Reviews/2022-01.md)
 1. [2021 Results](/archive/OKR-Reviews/2021-OKRs.md)
  
 ## Established Principles
