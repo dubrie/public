@@ -1,6 +1,6 @@
 << [Books](/books.md)
 
-# Review of Sustainable in a Circular World 
+# Review of Station Eleven 
 Book Link: [Amazon (smile)](https://smile.amazon.com/Station-Eleven-Emily-John-Mandel-ebook/dp/B00J1IQUYM)
 
 I had heard about this book but was reluctant to read given its about a flu pandemic killing most people on earth, and \*gestures broadly at current pandemic\*. I felt it was more about the evolution of relationships through lifetimes and how the world events impact those for better and worse. I liked how the book regularly changed the storyteller and provided the different takes on the same events and how they impacted the individuals. It also was fun to be based in and around Michigan for some nostalgia and 'member berries feelings. As enjoyable as the story was, I thought the end left me unfullfilled in that there wasn't really a resolution or journey that was completed. It almost felt like this was the first in a multipart story that still needs to play out. I just saw that this is an HBO Max series, so I'm curious if they take any liberties with the story and especially the ending. 
