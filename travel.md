@@ -7,11 +7,12 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2022
-- Palm Springs, California
 - Bozeman, Montana
 - Boston, Massachusetts
+- Eugene, Oregeon
 - Salt Lake City, Utah
 - Portland, Maine
+- Indianapolis, Indiana
 - Sacramento, California
 
 ### 2023
