@@ -13,7 +13,7 @@
 - Endure: Mind, Body, and the Curiosuly Elastic Limits of Human Performance by Alex Hutchinson
 
 ### Up Next
-
+- Assembly by Natasha Brown   
 
 ### Books To Read List
 
