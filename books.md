@@ -14,6 +14,7 @@
 
 ### Up Next
 - Assembly by Natasha Brown   
+- The Human Element by Loran Nordgren  
 
 ### Books To Read List
 
@@ -21,41 +22,29 @@
 - Being Mortal
 - Braiding Sweetgrass 
 - But What If We're Wrong?
-- Cadillac Desert
 - Disrupted  
-- Drive
 - The First 20 Hours
 - Future Ethics
 - Getting to the Heart of Science Communication  
-- Homo Deus
 - Invisible Women
 - The Hunt for Vulcan
-- It's Not the How or the What but the Who
 - Leonardo Da Vinci  
 - Mismatch: How Inclusion Shapes Design  
-- Natural Born Heroes
-- The Non-designer's design book  
 - The Organic Machine: The Remaking of the Columbia River
 - The Organized Mind
 - Overcomplicated
-- The Phoenix Project
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Predictably Irrational
 - Quiet: The Power of Introverts
 - Range: Why generalists triumph in a specialized world
-- The End of Everything (Astrophysically Speaking) 
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
-- Thirst: 2600 Miles to Home
 - Sapiens: A Brief History of Humankind
-- Seeking Wisdom: From Darwin to Munger
-- Strong Towns
 - Switch: How To Change Things When Change Is Hard
 - Thinking Fast & Slow
 - Tools and Weapons
 - Turing's Cathedral
 - Turn The Ship Around 
-- Unweaving The Rainbow
 - The Way to Go: Moving by Sea, Land, and Air 
 - A Whole New Mind  
 
