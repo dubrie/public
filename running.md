@@ -5,6 +5,7 @@
 - [50ks](#50ks)
 - [Marathons](#marathons)
 - [22 Miles](#22-miles)
+- [20 Miles](#20-miles)
 - [Half Marathons](#half-marathons)
 - [15ks](#15ks)
 - [8 Miles](#8-miles)
@@ -37,6 +38,10 @@
 ### 22 miles
 
 - **[2019 Middle Fork Trail Run](https://www.webscorer.com/racedetails?raceid=194205&did=215967) - 2:59:05**
+
+### 20 miles
+
+- **[2022 Lord Hill Train Run](https://runsignup.com/Race/Results/68860/IndividualResult/ZsCM?resultSetId=303482#U35992128) - 2:47:25^**  
 
 ### Half Marathons
 - **[2021 Cascade Express Half Marathon](https://runsignup.com/Race/Results/118945/IndividualResult/ZxYc?resultSetId=275138#U52758138) - 1:15:46^**
