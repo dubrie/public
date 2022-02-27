@@ -149,8 +149,8 @@ Submit a pull request with any suggested books you think I should read as additi
 - Jurassic Park by Michael Creighton
 - A Prayer For Owen Meany by John Irving :thumbsup: :star:
 
-:thumbsup: - Recommended Books
-:star: - All-time favorite Books
+:thumbsup: - Recommended Books  
+:star: - All-time favorite Books  
 
 ### Top 5
 
