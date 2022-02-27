@@ -10,19 +10,18 @@
 
 ### Active Books
 - Native Seattle: Histories from the Crossing-Over Place by Coll Thrush  
-- Endure: Mind, Body, and the Curiosuly Elastic Limits of Human Performance by Alex Hutchinson
 
 ### Up Next
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
+- Disrupted by Dan Lyons
 
 ### Books To Read List
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
 - Braiding Sweetgrass 
-- But What If We're Wrong?
-- Disrupted  
+- But What If We're Wrong? 
 - The First 20 Hours
 - Future Ethics
 - Getting to the Heart of Science Communication  
@@ -56,6 +55,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance](/archive/books/endure.md) by Alex Hutchinson :thumbsup: :star: 
 - [Station Eleven](/archive/books/station-eleven.md) by Emily St. John Madel  
 
 
@@ -68,7 +68,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - [An Elegant Puzzle: Systems of Engineering Management](/archive/books/an-elegant-puzzle.md) by Will Larson :thumbsup:
 - [Switching To Solar: What We Can Learn from Germany's Success in Harnessing Clean Energy](/archive/books/switching-to-solar.md) by Bob Johnstone  
 - [News Of The World](/archive/books/news-of-the-world.md) by Paulette Jiles
-- Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim :thumbsup:
+- Accelerate: The Science of Lean Software and DevOps by Nicole Forsgren, Jez Humble, and Gene Kim :thumbsup: :star:
 
 #### 2020
 - Between The World and Me by Ta-Nehisi Coates :thumbsup:
@@ -77,9 +77,9 @@ Submit a pull request with any suggested books you think I should read as additi
 - White Fragility by Robin Diangelo :thumbsup: :star:
 - Why Are We Yelling by Buster Benson :thumbsup:
 - 26 Marathons by Meb Keflezighi and Scott Douglas :thumbsup:
-- Accelerate: The Science of Lean Software and DevOps :thumbsup:
+- Accelerate: The Science of Lean Software and DevOps :thumbsup: :star:
 - Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
-- Atomic Habits by James Clear :thumbsup:  
+- Atomic Habits by James Clear :thumbsup: :star: 
 
 #### 2019
 - Digital Minimalism by Cal Newport :thumbsup:
@@ -90,7 +90,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Hard Thing About Hard Things by Ben Horowitz :thumbsup:   
 - Hit Refresh by Satya Nadella  
 - Data-ism by Steve Lohr  
-- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:   
+- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup: :star:   
 - Proof: The Science of Booze by Adam Rogers  
 
 #### 2017
@@ -99,12 +99,12 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Advantage by Patrick Lencioni  
 - Ready Player One by Ernest Cline :thumbsup:  
 - Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
-- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup:  
+- 4:09:43: Boston 2013 Through the Eyes of the Runners by Hal Higdon :thumbsup: :star:  
 - Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez :thumbsup:   
 
 #### 2016
 - Gumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers by Nick Offerman
-- Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup:
+- Peopleware: Productive Projects and Teams by Tom DeMarco :thumbsup: :star:
 - Nudge by Richard H Thaler
 - Ghost In The Wires by Kevin Mitnick
 - Venture Deals by Brad Feld, Jason Medelson
@@ -123,7 +123,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - How To Win Friends And Influence People by Dale Carnegie
 - Sounders FC: Authentic Masterpiece by Mike Gastineau :thumbsup:
 - Hooked by Nir Eyal :thumbsup:
-- Hatching Twitter by Nick Bilton :thumbsup:
+- Hatching Twitter by Nick Bilton :thumbsup: :star:
 - Present Shock by Douglas Rushkoff
 - The Signal And The Noise by Nate Silver :thumbsup:
 - Three and Out by John U. Bacon :thumbsup:
@@ -136,7 +136,7 @@ Submit a pull request with any suggested books you think I should read as additi
 - The Art Of The Start by Guy Kawasaki
 - The Design Of Everyday Things by Donald A. Norman
 - The Fabric of the Cosmos by Brian Greene
-- A Short History of Nearly Everything by Bill Bryson :thumbsup:
+- A Short History of Nearly Everything by Bill Bryson :thumbsup: :star:
 - Ideas And Opinions by Albert Einstein
 - A Brief History of Time by Stephen W. Hawking
 - The World As I See It by Albert Einstein
@@ -147,9 +147,10 @@ Submit a pull request with any suggested books you think I should read as additi
 - Wikinomics by Don Tapscott
 - Gump & Co. by Winston Groom
 - Jurassic Park by Michael Creighton
-- A Prayer For Owen Meany by John Irving :thumbsup:
+- A Prayer For Owen Meany by John Irving :thumbsup: :star:
 
 :thumbsup: - Recommended Books
+:star: - All-time favorite Books
 
 ### Top 5
 
@@ -157,4 +158,4 @@ Submit a pull request with any suggested books you think I should read as additi
 1. White Fragility by Robin Diangelo
 1. Startup Life by Brad Feld, Amy Batchelor
 1. Begin Again by Eddie S. Glaude Jr.
-1. It Doesn't Have to Be Crazy at Work by Jason Fried, David Heinemeier Hansson 
+1. Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance by Alex Hutchinson
