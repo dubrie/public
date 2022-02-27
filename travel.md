@@ -10,8 +10,10 @@ Trips in various stages of being booked and/or planned
 - Bozeman, Montana
 - Boston, Massachusetts
 - Eugene, Oregeon
+- Bend, Oregon
 - Salt Lake City, Utah
 - Portland, Maine
+- Portland, Oregon
 - Indianapolis, Indiana
 - Sacramento, California
 
