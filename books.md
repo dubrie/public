@@ -12,6 +12,7 @@
 - Native Seattle: Histories from the Crossing-Over Place by Coll Thrush  
 
 ### Up Next
+- Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
 - Disrupted by Dan Lyons
