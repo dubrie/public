@@ -44,6 +44,7 @@
 - **[2022 Lord Hill Train Run](https://runsignup.com/Race/Results/68860/IndividualResult/ZsCM?resultSetId=303482#U35992128) - 2:47:25^**  
 
 ### Half Marathons
+- [2022 Everett Half Marathon](https://results.raceroster.com/en-US/results/detail/9n9xhhmq9we5zrc6) - 1:16:23
 - **[2021 Cascade Express Half Marathon](https://runsignup.com/Race/Results/118945/IndividualResult/ZxYc?resultSetId=275138#U52758138) - 1:15:46^**
 - [2021 Craft Classic](https://runsignup.com/Race/Results/57331/IndividualResult/KJBR?resultSetId=260239&embedId2=KoG1aefg#U35992128) - 1:22:58
 - [2020 Geoduck Gallop Half Marathon](https://www.evergreen.edu/sites/default/files/Geoduck%20Gallop%20Half%20Marathon%20Results%202020.pdf) - 1:17:56  
