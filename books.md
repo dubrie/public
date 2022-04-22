@@ -9,12 +9,12 @@
 - [Top 5](#top-5)
 
 ### Active Books
+- Disrupted: My Misadventure in the Start-Up Bubble by Dan Lyons
 
 ### Up Next
 - Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
-- Disrupted by Dan Lyons
 
 ### Books To Read List
 
