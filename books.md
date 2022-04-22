@@ -9,7 +9,6 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Native Seattle: Histories from the Crossing-Over Place by Coll Thrush  
 
 ### Up Next
 - Infinite Jest by David Foster Wallace
@@ -56,6 +55,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Native Seattle: Histories from the Crossing-Over Place](/archive/books/native-seattle.md) by Coll Thrush
 - [Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance](/archive/books/endure.md) by Alex Hutchinson :thumbsup: :star: 
 - [Station Eleven](/archive/books/station-eleven.md) by Emily St. John Madel  
 
