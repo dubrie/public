@@ -12,6 +12,7 @@
 - Disrupted: My Misadventure in the Start-Up Bubble by Dan Lyons
 
 ### Up Next
+- Parable of the Sower by Octavia E. Butler  
 - Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
