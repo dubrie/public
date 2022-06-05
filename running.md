@@ -42,7 +42,7 @@
 
 ### 20 miles
 
-- **[2022 Lord Hill Train Run](https://runsignup.com/Race/Results/68860/IndividualResult/ZsCM?resultSetId=303482#U35992128) - 2:47:25^**  
+- **[2022 Lord Hill Trail Run](https://runsignup.com/Race/Results/68860/IndividualResult/ZsCM?resultSetId=303482#U35992128) - 2:47:25^**  
 
 ### Half Marathons
 - [2022 Everett Half Marathon](https://results.raceroster.com/en-US/results/detail/9n9xhhmq9we5zrc6) - 1:16:23
