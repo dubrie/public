@@ -12,6 +12,7 @@
 - Parable of the Sower by Octavia E. Butler  
 
 ### Up Next
+- Hail Mary by Andy Weir  
 - Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
