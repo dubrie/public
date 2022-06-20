@@ -34,6 +34,7 @@
 - Overcomplicated
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
 - Predictably Irrational
+- Psychology of Money
 - Quiet: The Power of Introverts
 - Range: Why generalists triumph in a specialized world
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
