@@ -90,6 +90,7 @@
 
 ### 10ks
 
+- [2022 Fall City Days 10k](https://runsignup.com/Race/Results/72125/IndividualResult/GLtN?resultSetId=322208#U60287998) - 36:34
 - [2019 Griffith Park Luau 10k](http://luau5krun.com/uploads/3/4/6/3/34639488/10k_overall_-_2019_luau.htm) - 36:28^
 - **[2019 Fall City Days 10k](https://runsignup.com/Race/Results/72125/IndividualResult/CNFB?#U35992128) - 34:35**
 - [2018 Carkeek Cooler 10k](https://www.webscorer.com/racedetails?raceid=159532&did=175056) - 41:16  
