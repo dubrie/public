@@ -7,16 +7,15 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2022
-- Bend, Oregon
 - Salt Lake City, Utah
 - Holland, Michigan
 - Portland, Maine
 - Portland, Oregon
-- Indianapolis, Indiana
 - Sacramento, California
 
 ### 2023
 - Tokyo, Japan
+- Boston, Massachusettes
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers do not count
