@@ -21,6 +21,7 @@ A list of talks, articles, or other discussions I've done in the world. Links to
 * Sep 2014 - [Playing With Twitter Analytics](https://dubrie.medium.com/playing-with-twitter-analytics-c4eaac6925b2) (Medium.com)
 
 ## Talks 
+* Jun 2022 - [Welcome to the Wonderful World of Sustainable Software Engineering... Now What?](https://www.youtube.com/watch?v=6B8mnhrR7Mo&t=2704s) (Green Software Foundation Global Summit)
 * Sep 2021 - Capacity Planning Through Reliability & Resiliency (Microsoft Financial Compliance Summit)
 * Jun 2021 - [Sustainable Software Engineering](https://www.usenix.org/conference/lisa21/presentation/johnson) (LISA21)
 * Apr 2021 - [Hello World Earth Day Special](https://docs.microsoft.com/en-us/shows/Hello-World/Hello-World-April-22-2021-Special-Hello-Earth) (Microsoft Channel 9)
