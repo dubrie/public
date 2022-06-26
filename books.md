@@ -9,10 +9,9 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Parable of the Sower by Octavia E. Butler  
+- Hail Mary by Andy Weir  
 
 ### Up Next
-- Hail Mary by Andy Weir  
 - Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
@@ -57,6 +56,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
 - [Disrupted: My Misadventure in the Start-Up Bubble](/archive/books/disrupted.md) by Dan Lyons
 - [Native Seattle: Histories from the Crossing-Over Place](/archive/books/native-seattle.md) by Coll Thrush
 - [Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance](/archive/books/endure.md) by Alex Hutchinson :thumbsup: :star: 
@@ -160,6 +160,6 @@ Submit a pull request with any suggested books you think I should read as additi
 
 1. Creativity Inc by Ed Catmull, Amy Wallace
 1. White Fragility by Robin Diangelo
-1. Startup Life by Brad Feld, Amy Batchelor
 1. Begin Again by Eddie S. Glaude Jr.
+1. Parable of the Sower by Octavia Butler
 1. Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance by Alex Hutchinson
