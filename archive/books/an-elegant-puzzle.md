@@ -1,7 +1,7 @@
 << [Books](/books.md)
 
 # Review of An Elegant Puzzle: Systems of Engineering Management 
-Book Link: [https://smile.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/ref=sr_1_1?dchild=1&keywords=an+elegant+puzzle&qid=1624420603&sr=8-1](https://smile.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/ref=sr_1_1?dchild=1&keywords=an+elegant+puzzle&qid=1624420603&sr=8-1)  
+Book Link: [https://smile.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/](https://smile.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/)  
 
 Great book on engineering management overall. The majority of the focus was at the managers of managers level but there was a fair amount of information that can be 
 applied to any level of engineering management like hiring, document writing, communicating with executives, project management, and a bunch of other stuff. 
