@@ -7,7 +7,6 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2022
-- Salt Lake City, Utah
 - Holland, Michigan
 - Portland, Maine
 - Portland, Oregon
