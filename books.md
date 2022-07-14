@@ -15,6 +15,7 @@
 - Infinite Jest by David Foster Wallace
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
+- The Great Offshore Grounds by Vanessa Veselka
 
 ### Books To Read List
 
