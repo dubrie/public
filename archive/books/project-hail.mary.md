@@ -1,0 +1,26 @@
+<< [Books](/books.md)
+
+# Review of Project Hail Mary
+Book Link: https://smile.amazon.com/Project-Hail-Mary-Andy-Weir-ebook/dp/B08FHBV4ZX/
+
+I loved this book, which isn't super surprising as I loved reading The Martian and this follows a very similar pattern and formula to that. Andy Weir does a really great job of narrating problem solving but doing it in a way that is entertaining, thought provoking, and educational all at the same time. I found myself midway through thinking "Wow, this would be a great movie" (I did the same thing with The Martian) and checking IMDB I see that they have replaced Matt Damon with Ryan Gosling and are working on a screenplay for it. YES! I hope they do Rocky justice since that character has the potential to be HUGELY entertaining and popular in a BB-8 or Minions like style. They could make a fortune off of him alone. I don't want to describe the plot much at risk of giving away important details that are fun to discover on your own, but I will say that the broad strokes of the story follow a predictable pattern but the specifics are surprising and fantastic. One random note, I kept reading DuBois’s character like Birdperson from Rick and Morty. It seemed oddly appropriate.
+
+
+Some highlights from my reading:
+1. Time to get a look at my fellow patients. I don’t know who I am or why I’m here, but at least I’m not alone—aaaand they’re dead.
+2. Londoners during the Blitz in World War II went about their day as normal, with the understanding that occasionally buildings get blown up. However desperate things were, someone still had to deliver milk. And if Mrs. McCreedy’s house got bombed in the night, well, you crossed it off the delivery list.
+3. All life needs is a chemical reaction that results in copies of the original catalyst. And you don’t need water for that!”
+4. “I penetrated the outer cell membrane with a nanosyringe.” “You poked it with a stick?” “No!” I said. “Well. Yes. But it was a scientific poke with a very scientific stick.” “It took you two days to think of poking it with a stick.” “You…be quiet.”
+5. Besides, if I had a nickel for every time I wanted to smack a kid’s parents for not teaching them even the most basic things…well…I’d have enough nickels to put in a sock and smack those parents with it.
+6. Some quick math tells me the cylinder will take over forty minutes to reach me. I have that long to get in an EVA suit, go outside, and position myself on the hull for humanity’s first touchdown-pass reception with an alien quarterback.
+7. I wait. No need to get greedy. If I paw at it too early, I might knock it off course and into space. I’d have no way of recovering it. I don’t want to look dumb in front of the aliens. Because they’re surely watching me right now. Probably counting my limbs, noting my size, figuring out what part they should eat first, whatever.
+8. The sleek, thin lines of the xenonite whiskers are ruined by my crooked, blob-ended solder addition and crappy wax model. It’s like someone added a crayon drawing into the corner of a Da Vinci, but it will have to do.
+9. Wow. I’m sitting here in a spaceship in the Tau Ceti system waiting for the intelligent aliens I just met to continue our conversation…and I’m bored. Human beings have a remarkable ability to accept the abnormal and make it normal.
+10. What would I teach someone who just learned the word ‘yes’? “That’s ‘no.’ ” At least I hope so. I ball my fists and tap them together. “No.” “♫♩,” he says. I check the laptop. He just said yes. Wait. Does that mean it’s not no? Is that another yes? Now I’m confused. “No?” I ask “No,” he says in Eridian. “So, ‘yes’?” “No, yes.” “Yes?” “No. No.” “Yes, yes?” “No!” He balls a fist at me, clearly frustrated. Enough of this interspecies Abbott and Costello routine.
+11. Oh thank God. I can’t imagine explaining “sleep” to someone who had never heard of it. Hey, I’m going to fall unconscious and hallucinate for a while. By the way, I spend a third of my time doing this. And if I can’t do it for a while, I go insane and eventually die. No need for concern.
+12. “Discrepancy is science. You think about discrepancy. Make theory. You is science human.”
+13. “Now you do. I’m gonna get that Astrophage now. I’ve got to make sure these beetles will be able to…‘Get Back.’ ” “Okay.” He frowned. “ ‘Get Back.’ It’s a song. It’s by the Beatles.” “Sure. Okay.” He spun on his heel and left. “Some people got no appreciation for the classics.”
+14. “Computer! Painkillers!” “Additional dose available in three hours and four minutes.” I frown. “Computer: What is the current time?” “Seven-fifteen p.m., Moscow Standard Time.” “Computer: Set time to eleven p.m. Moscow Standard Time.” “Clock set complete.” “Computer: painkillers.” The arms hand me a package of pills and a bag of water. I gobble them down. What a stupid system. Astronauts trusted to save the world but not to monitor their painkiller doses? Stupid.
+15. Three days off the painkillers and I’m a lot smarter than I was. At least he understands that much—I wasn’t just some stupid human. I was a human with enhanced stupidity.
+16. Right now we’re soft. You, me, the whole Western world. We’re the result of growing up in unprecedented comfort and stability. It’s the kids of today that’ll have to make the world of tomorrow work. And they’re going to inherit a mess.
+
