@@ -58,7 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
-- [Hail Mary](/archive/books/parable-of-the-sower.md) by Andy Weir :thumbsup: :star:
+- [Project Hail Mary](/archive/books/parable-of-the-sower.md) by Andy Weir :thumbsup: :star:
 - [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
 - [Disrupted: My Misadventure in the Start-Up Bubble](/archive/books/disrupted.md) by Dan Lyons
 - [Native Seattle: Histories from the Crossing-Over Place](/archive/books/native-seattle.md) by Coll Thrush
