@@ -9,7 +9,9 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Hail Mary by Andy Weir  
+- Thinking Fast & Slow by Daniel Kahneman
+- Running Is a Kind of Dreaming: A Memoir by J. M. Thompson 
+
 
 ### Up Next
 - Infinite Jest by David Foster Wallace
@@ -42,7 +44,6 @@
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Switch: How To Change Things When Change Is Hard
-- Thinking Fast & Slow
 - Tools and Weapons
 - Turing's Cathedral
 - Turn The Ship Around 
@@ -57,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Hail Mary](/archive/books/parable-of-the-sower.md) by Andy Weir :thumbsup: :star:
 - [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
 - [Disrupted: My Misadventure in the Start-Up Bubble](/archive/books/disrupted.md) by Dan Lyons
 - [Native Seattle: Histories from the Crossing-Over Place](/archive/books/native-seattle.md) by Coll Thrush
