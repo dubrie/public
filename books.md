@@ -18,6 +18,7 @@
 - Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
 - The Great Offshore Grounds by Vanessa Veselka
+- Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 
 ### Books To Read List
 
