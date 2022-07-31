@@ -7,13 +7,12 @@ Where I'm going, where I've gone, and where I want to go
 Trips in various stages of being booked and/or planned
 
 ### 2022
-- Holland, Michigan
 - Portland, Maine
 - Portland, Oregon
-- Sacramento, California
 
 ### 2023
 - Tokyo, Japan
+- Chelsea, Michigan
 - Boston, Massachusettes
 
 ## Continents Visited
