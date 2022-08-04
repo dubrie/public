@@ -10,7 +10,6 @@
 
 ### Active Books
 - Thinking Fast & Slow by Daniel Kahneman
-- Running Is a Kind of Dreaming: A Memoir by J. M. Thompson 
 
 
 ### Up Next
@@ -59,6 +58,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
 - [Project Hail Mary](/archive/books/parable-of-the-sower.md) by Andy Weir :thumbsup: :star:
 - [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
 - [Disrupted: My Misadventure in the Start-Up Bubble](/archive/books/disrupted.md) by Dan Lyons
