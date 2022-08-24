@@ -28,6 +28,7 @@
 - The First 20 Hours
 - Future Ethics
 - Getting to the Heart of Science Communication  
+- Havoc by Tom Kristensen
 - Invisible Women
 - The Hunt for Vulcan
 - Leonardo Da Vinci  
