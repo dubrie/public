@@ -8,6 +8,7 @@ Trips in various stages of being booked and/or planned
 
 ### 2022
 - Portland, Oregon
+- Paris, France
 - Amsterdam, Netherlands
 
 ### 2023
