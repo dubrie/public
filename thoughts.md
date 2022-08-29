@@ -21,6 +21,7 @@ A list of talks, articles, or other discussions I've done in the world. Links to
 * Sep 2014 - [Playing With Twitter Analytics](https://dubrie.medium.com/playing-with-twitter-analytics-c4eaac6925b2) (Medium.com)
 
 ## Talks 
+* Oct 2022 - SLOs, SREs, and GHGs (SRECon EMEA)
 * Jul 2022 - [Engineering Software to Save the Planet](https://devopsdays.org/events/2022-seattle/program/bill-johnson) (DevOpsDays Seattle)
 * Jun 2022 - [Welcome to the Wonderful World of Sustainable Software Engineering... Now What?](https://www.youtube.com/watch?v=6B8mnhrR7Mo&t=2704s) (Green Software Foundation Global Summit)
 * Sep 2021 - Capacity Planning Through Reliability & Resiliency (Microsoft Financial Compliance Summit)
