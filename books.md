@@ -59,7 +59,7 @@ Submit a pull request with any suggested books you think I should read as additi
 #### 2022
 - [Thinking Fast & Slow](/archive/books/thinking-fast-and-slow.md) by Daniel Kahneman
 - [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
-- [Project Hail Mary](/archive/books/pproject-hail-mary.md) by Andy Weir :thumbsup: :star:
+- [Project Hail Mary](/archive/books/project-hail-mary.md) by Andy Weir :thumbsup: :star:
 - [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
 - [Disrupted: My Misadventure in the Start-Up Bubble](/archive/books/disrupted.md) by Dan Lyons
 - [Native Seattle: Histories from the Crossing-Over Place](/archive/books/native-seattle.md) by Coll Thrush
