@@ -9,14 +9,12 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Thinking Fast & Slow by Daniel Kahneman
-
+- Assembly by Natasha Brown   
+- The Great Offshore Grounds by Vanessa Veselka
 
 ### Up Next
-- Infinite Jest by David Foster Wallace
-- Assembly by Natasha Brown   
 - The Human Element by Loran Nordgren  
-- The Great Offshore Grounds by Vanessa Veselka
+- Infinite Jest by David Foster Wallace
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 
 ### Books To Read List
@@ -59,6 +57,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Thinking Fast & Slow](/archive/books/thinking-fast-and-slow.md) by Daniel Kahneman
 - [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
 - [Project Hail Mary](/archive/books/parable-of-the-sower.md) by Andy Weir :thumbsup: :star:
 - [Parable of the Sower](/archive/books/parable-of-the-sower.md) by Octavia E. Butler :thumbsup: :star:
