@@ -9,7 +9,6 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Assembly by Natasha Brown   
 - The Great Offshore Grounds by Vanessa Veselka
 
 ### Up Next
@@ -57,6 +56,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- [Assembly](/archive/books/assembly.md) by Natasha Brown   
 - [Thinking Fast & Slow](/archive/books/thinking-fast-and-slow.md) by Daniel Kahneman
 - [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
 - [Project Hail Mary](/archive/books/project-hail-mary.md) by Andy Weir :thumbsup: :star:
