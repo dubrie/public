@@ -6,9 +6,6 @@ Where I'm going, where I've gone, and where I want to go
 ## Planned Travels  
 Trips in various stages of being booked and/or planned
 
-### 2022
-- Paris, France
-- Amsterdam, Netherlands
 
 ### 2023
 - Tokyo, Japan
@@ -27,9 +24,11 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 - United Arab Emirates
 
 ### Europe
+- France
 - Germany
 - Ireland
 - Italy
+- Netherlands
 - Switzerland
 - United Kingdom
 
