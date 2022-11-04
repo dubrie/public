@@ -22,6 +22,7 @@ _Note: I [wrote a little background](https://dubrie.medium.com/2022-personal-okr
 3. Initiate contact with 6 family members or friends each month
 
 ### OKR Reviews
+1. [Oct 2022 Results](/archive/OKR-Reviews/2022-10.md)
 1. [Sep 2022 Results](/archive/OKR-Reviews/2022-09.md)
 1. [Aug 2022 Results](/archive/OKR-Reviews/2022-08.md)
 1. [Jul 2022 Results](/archive/OKR-Reviews/2022-07.md)
@@ -31,7 +32,7 @@ _Note: I [wrote a little background](https://dubrie.medium.com/2022-personal-okr
 1. [Mar 2022 Results](/archive/OKR-Reviews/2022-03.md)
 1. [Feb 2022 Results](/archive/OKR-Reviews/2022-02.md)
 1. [Jan 2022 Results](/archive/OKR-Reviews/2022-01.md)
-1. [2021 Results](/archive/OKR-Reviews/2021-OKRs.md)
+1. [2021 Yearly Results](/archive/OKR-Reviews/2021-OKRs.md)
  
 ## Established Principles
 Something I have whole-heartedly bought into and is a driving influence in all of my active and passive decision making.
