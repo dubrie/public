@@ -3,6 +3,7 @@
 A list of talks, articles, or other discussions I've done in the world. Links to video and/or publication provided when possible
 
 ## Articles
+* Nov 2022 - [SLOs and GHGs](https://www.usenix.org/publications/loginonline/slos-and-ghgs) (USENIX ;login:)
 * Apr 2022 - [Double-Blind Coding Interviews](https://dubrie.medium.com/double-blind-coding-interviews-40c422743229?source=friends_link&sk=a5a160ceeb0a9e0e117a7eb5cdceb419) (Medium.com)
 * Jan 2022 - [2022 Personal OKRs](https://dubrie.medium.com/2022-personal-okrs-5138f1cb8a2) (Medium.com)
 * Oct 2021 - [Learning By Interviewing On-Call Engineers](https://dubrie.medium.com/learning-by-interviewing-on-call-engineers-cfca3c683622) (Medium.com)
