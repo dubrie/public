@@ -108,7 +108,7 @@
 
 ### 5ks
 
-- 2022 [Woodinville Turkey Trot](https://results.raceroster.com/en-US/results/detail/scmfb2z3jh3mhkjz) - 16:39
+- [2022 Woodinville Turkey Trot](https://results.raceroster.com/en-US/results/detail/scmfb2z3jh3mhkjz) - 16:39
 - 2022 Brave Like Gabe 5k - 19:15
 - **[2019 Bolt For The Heart 5K](https://my.raceresult.com/142425/results?lang=en) - 16:21**
 - 2019 Take Steps 5k Run/walk - 21:46^
