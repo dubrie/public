@@ -11,6 +11,7 @@ Trips in various stages of being booked and/or planned
 - Tokyo, Japan
 - Chelsea, Michigan
 - Boston, Massachusettes
+- New York City, New York
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers do not count
