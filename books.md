@@ -9,7 +9,7 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- The Great Offshore Grounds by Vanessa Veselka
+- Do Hard Things by Steve Magness
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -56,6 +56,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
+- The Great Offshore Grounds by Vanessa Veselka
 - [Assembly](/archive/books/assembly.md) by Natasha Brown   
 - [Thinking Fast & Slow](/archive/books/thinking-fast-and-slow.md) by Daniel Kahneman
 - [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
