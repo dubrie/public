@@ -56,7 +56,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2022
-- The Great Offshore Grounds by Vanessa Veselka
+- [The Great Offshore Grounds](/archive/books/the-great-offshore-grounds.md) by Vanessa Veselka
 - [Assembly](/archive/books/assembly.md) by Natasha Brown   
 - [Thinking Fast & Slow](/archive/books/thinking-fast-and-slow.md) by Daniel Kahneman
 - [Running Is a Kind of Dreaming: A Memoir](/archive/books/running-is-a-kind-of-dreaming.md) by J. M. Thompson :thumbsup: :star:
