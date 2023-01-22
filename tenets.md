@@ -2,38 +2,31 @@
 
 Tenets are my principles or doctrines that I aim to live my life by. By nature these change over time as priorities in my life change, I grow as a person, or when something is not benefiting or working towards a positive goal. I am following an [OKR format](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) to make this more tangible as I work through the tenet progression of Hypothesis, Pattern, and Philosophy. An Hypothesis is something that I have theory about and am looking to prove out one way or another. If an Hypothesis is proven true, it becomes a Pattern that I add to my routine and establish on a more integrated level. If patterns prove to be valuable over a long period of time, then they become a Principle as something that is present and accounted for in my decision making, both actively and passively. 
 
-## 2022 Personal OKRs
+## 2023 Personal OKRs
 
-_Note: I [wrote a little background](https://dubrie.medium.com/2022-personal-okrs-5138f1cb8a2?source=friends_link&sk=4f5334783e2570d9f431f3c50b4e922f) on each of these sections if you want to learn more about the reasoning and specific numbers._
+_Note: I [wrote more about these goals](https://dubrie.medium.com/2023-personal-okrs-c34bcdc2b7b5?source=friends_link&sk=3480bac8ca2e5d2d4ca96a7617cbde1e) if you are curious about the "why" or some of the specific numbers._
 
-### Focus on focusing
-1. Complete 10 books and summary/takeaway write-ups this calendar year
-2. Work less than 5 days during 26 weeks of the year
-3. Keep weekly phone screen time under 4 hrs
+### Objective: Invest more in myself
+1. Read 12 books with completed write-ups on GitHub
+2. Invest 21% of net income 
+3. Increase disposable income by 10% by reducing expenses and subscription services
+4. Complete a meditation session on every "T"
 
-### Be a better citizen of the planet
-1. Visit 3 National Parks
-2. Keep median monthly energy usage for my household under 620kWh
-3. Offset 16x my 2021 carbon footprint (2021 footprint: 117,649 lbs of CO2e)  
+### Objective: Reduce reliance on modern conveniences
+1. Drive to work no more than 1 time per month
+2. 50% of completed books were first published before the 1900s
+3. One meal per week uses something from our garden (during the growing season)
+4. Use only reclaimed water for the garden
 
-### Change up my historical patterns and tendencies 
-1. Read 5 fiction books
-2. Run with other people (non-races) 20 times
-3. Initiate contact with 6 family members or friends each month
+### Objective: Take proactive steps to improve the world
+1. Abate 5 of the 10 biggest energy hogs in our household
+2. Explore 12 new local trails or parks
+3. Volunteer 4 times with local outdoor-focused groups
+4. Directly fund and/or invest in 3 carbon abatement or reduction projects
+
 
 ### OKR Reviews
-1. [Dec 2022 Results](/archive/OKR-Reviews/2022-12.md)
-1. [Nov 2022 Results](/archive/OKR-Reviews/2022-11.md)
-1. [Oct 2022 Results](/archive/OKR-Reviews/2022-10.md)
-1. [Sep 2022 Results](/archive/OKR-Reviews/2022-09.md)
-1. [Aug 2022 Results](/archive/OKR-Reviews/2022-08.md)
-1. [Jul 2022 Results](/archive/OKR-Reviews/2022-07.md)
-1. [Jun 2022 Results](/archive/OKR-Reviews/2022-06.md)
-1. [May 2022 Results](/archive/OKR-Reviews/2022-05.md)
-1. [Apr 2022 Results](/archive/OKR-Reviews/2022-04.md)
-1. [Mar 2022 Results](/archive/OKR-Reviews/2022-03.md)
-1. [Feb 2022 Results](/archive/OKR-Reviews/2022-02.md)
-1. [Jan 2022 Results](/archive/OKR-Reviews/2022-01.md)
+1. [2022 Yearly Results](/archive/OKR-Reviews/2022-OKRs.md)
 1. [2021 Yearly Results](/archive/OKR-Reviews/2021-OKRs.md)
  
 ## Established Principles
