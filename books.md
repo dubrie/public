@@ -9,7 +9,7 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Do Hard Things by Steve Magness
+- The Civilized Engineer by Samuel C. Florman 
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -55,6 +55,10 @@ Submit a pull request with any suggested books you think I should read as additi
 - [Add book suggestion here]
 
 ### Finished Books
+
+#### 2023
+- [Do Hard Things](/archive/books/do-hard-things.md) by Steve Magness :thumbsup: :star: 
+
 
 #### 2022
 - [The Great Offshore Grounds](/archive/books/the-great-offshore-grounds.md) by Vanessa Veselka
