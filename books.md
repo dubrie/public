@@ -31,6 +31,7 @@
 - Invisible Women
 - The Hunt for Vulcan
 - Leonardo Da Vinci  
+- The Long Way to a Small, Angry Planet (Wayfarers, 1)
 - Mismatch: How Inclusion Shapes Design  
 - The Organic Machine: The Remaking of the Columbia River
 - The Organized Mind
