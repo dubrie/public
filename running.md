@@ -51,6 +51,7 @@
 - **[2023 Bridle Trails Winter Running Festival](https://runsignup.com/Race/Results/138984/IndividualResult/bCKq?resultSetId=362458#U35992128) - 1:39:40^**  
 
 ### Half Marathons
+- [2023 My Better Half Marathon](https://runsignup.com/Race/Results/37523/IndividualResult/dDpt?resultSetId=366068#U35992128) - 1:16:08
 - [2022 Everett Half Marathon](https://results.raceroster.com/en-US/results/detail/9n9xhhmq9we5zrc6) - 1:16:23
 - **[2021 Cascade Express Half Marathon](https://runsignup.com/Race/Results/118945/IndividualResult/ZxYc?resultSetId=275138#U52758138) - 1:15:46^**
 - [2021 Craft Classic](https://runsignup.com/Race/Results/57331/IndividualResult/KJBR?resultSetId=260239&embedId2=KoG1aefg#U35992128) - 1:22:58
