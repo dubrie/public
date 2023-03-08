@@ -8,7 +8,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
-- Tokyo, Japan
 - Chelsea, Michigan
 - Boston, Massachusettes
 - New York City, New York
@@ -21,6 +20,7 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 - Zimbabwe  
 
 ### Asia
+- Japan
 - Maldives
 - United Arab Emirates
 
