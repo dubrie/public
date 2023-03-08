@@ -20,6 +20,7 @@
 - [2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25
 
 ### Marathons
+- [2023 Tokyo Marathon](https://www.marathon.tokyo/2023/result/detail.php)\* - 2:51:47
 - 2022 Starvation XTri (Pacing on run portion only)  
 - **[2022 Boston Marathon](https://boston.r.mikatiming.com/2022/?content=detail&fpid=search&pid=search&idp=9TGHS6FF16551B&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=R)\* - 2:44:41**
 - [2021 Boston Marathon](https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF14752D&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bname%5D=Johnson&search%5Bfirstname%5D=Bill&search_event=R)\* - 2:58:37
