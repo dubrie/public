@@ -9,7 +9,8 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- The Civilized Engineer by Samuel C. Florman 
+- The Infinite Game by Simon Sinek
+- The Diary of a Nobody by George Grossmith
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -44,7 +45,6 @@
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
 - Sapiens: A Brief History of Humankind
-- Switch: How To Change Things When Change Is Hard
 - Tools and Weapons
 - Turing's Cathedral
 - Turn The Ship Around 
@@ -59,6 +59,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2023
+- [The Civilized Engineer](/archive/books/the-civilized-engineer.md) by Samuel C. Florman 
 - [Do Hard Things](/archive/books/do-hard-things.md) by Steve Magness :thumbsup: :star: 
 
 
