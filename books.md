@@ -15,7 +15,6 @@
 ### Up Next
 - The Human Element by Loran Nordgren  
 - Infinite Jest by David Foster Wallace
-- The Civilized Engineer by Samuel C. Florman
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 - How to Measure Anything by Douglas W. Hubbard
 
