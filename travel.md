@@ -8,7 +8,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
-- Boston, Massachusettes
 - New York City, New York
 
 ## Continents Visited
