@@ -9,7 +9,6 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- The Infinite Game by Simon Sinek
 - The Diary of a Nobody by George Grossmith
 
 ### Up Next
@@ -58,6 +57,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2023
+- [The Infinite Game](/archive/books/the-infinite-game.md) by Simon Sinek :thumbsup:
 - [The Civilized Engineer](/archive/books/the-civilized-engineer.md) by Samuel C. Florman 
 - [Do Hard Things](/archive/books/do-hard-things.md) by Steve Magness :thumbsup: :star: 
 
