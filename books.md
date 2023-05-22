@@ -10,6 +10,7 @@
 
 ### Active Books
 - The Diary of a Nobody by George Grossmith
+- Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
 
 ### Up Next
 - The Human Element by Loran Nordgren  
