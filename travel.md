@@ -8,7 +8,10 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
+- Enumclaw, Washington
+- Colorado Springs, Colorado
 - New York City, New York
+- Reykjavik, Iceland
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers do not count
