@@ -53,7 +53,7 @@ Everyone has their own reasons and justifications for their actions, beliefs, or
 Inspiration: General Observations
 
 
-_NOTE: You can find the [previous format of tenets](https://github.com/dubrie/public/blob/master/archive/tenents.md) in the archive section_
+_NOTE: You can find the [previous format of tenets](https://github.com/dubrie/public/blob/main/archive/tenents.md) in the archive section_
 
 
 ### Resources
