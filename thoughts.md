@@ -36,5 +36,6 @@ A list of talks, articles, or other discussions I've done in the world. Links to
 * Nov 2017 - Everything is Broken ([Everything is Broken Meetup](https://www.meetup.com/Everything-Is-Broken/events/vtvntnywpbcb/))
 
 ## Panels
+* Jun 2023 - Future Engineer Sustainability Career Panel (Amazon)
 * Nov 2022 - [Decarbonize Software](https://www.youtube.com/watch?v=7jODXH7Jdd0) (Green Software Foundation)
 * Jan 2022 - Accenture Future of Sustainable Software (Accenture)
