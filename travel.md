@@ -14,7 +14,7 @@ Trips in various stages of being booked and/or planned
 - Reykjavik, Iceland
 
 ## Continents Visited
-To be in this list I must have set foot on land in the country, i.e. airport layovers do not count
+To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
 
 ### Africa
 - South Africa
