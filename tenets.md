@@ -26,6 +26,7 @@ _Note: I [wrote more about these goals](https://dubrie.medium.com/2023-personal-
 
 
 ### OKR Reviews
+1. [Mid Year 2023](/archive/OKR-Reviews/2023-07.md)
 1. [2022 Yearly Results](/archive/OKR-Reviews/2022-OKRs.md)
 1. [2021 Yearly Results](/archive/OKR-Reviews/2021-OKRs.md)
  
