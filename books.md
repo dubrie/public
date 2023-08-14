@@ -18,6 +18,8 @@
 - Earthly Order: How Natural Laws Define Human Life by Saleem H. Ali
 - How to Measure Anything by Douglas W. Hubbard
 - Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
+- A Gentleman In Moscow by Amor Towles
+
 
 ### Books To Read List
 
