@@ -50,7 +50,7 @@
 
 ### 15 miles
 
-- [2023 Cougar Mountain Trail Series](https://runsignup.com/Race/Results/65224/IndividualResult/sKdR?resultSetId=397820#U35992128) - 2:11:34
+- [2023 Cougar Mountain Trail Series - 14.5 miles](https://runsignup.com/Race/Results/65224/IndividualResult/sKdR?resultSetId=397820#U35992128) - 2:11:34
 - **[2023 Bridle Trails Winter Running Festival](https://runsignup.com/Race/Results/138984/IndividualResult/bCKq?resultSetId=362458#U35992128) - 1:39:40^**
   
 
