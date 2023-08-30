@@ -11,6 +11,7 @@
 ### Active Books
 - The Diary of a Nobody by George Grossmith
 - Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
+- Reimagining Capitalism in a World on Fire by Rebecca Henderson
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -19,38 +20,32 @@
 - How to Measure Anything by Douglas W. Hubbard
 - Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
 - A Gentleman In Moscow by Amor Towles
+- Thinking in Systems by Donella Meadows
+- Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
+- Debt: The First 5,000 Years by David Graeber
+- Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
+- Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis by Scott Patterson
 
 
 ### Books To Read List
 
 - The Art of Community: Seven Principles for Belonging  
 - Being Mortal
-- Braiding Sweetgrass 
 - But What If We're Wrong? 
 - The First 20 Hours
 - Future Ethics
-- Getting to the Heart of Science Communication  
-- Havoc by Tom Kristensen
-- Invisible Women
 - The Hunt for Vulcan
-- Leonardo Da Vinci  
-- The Long Way to a Small, Angry Planet (Wayfarers, 1)
 - Mismatch: How Inclusion Shapes Design  
 - The Organic Machine: The Remaking of the Columbia River
 - The Organized Mind
 - Overcomplicated
 - Political Saavy: Systematic Approaches to Leadership Behind the Scenes
-- Predictably Irrational
-- Psychology of Money
 - Quiet: The Power of Introverts
 - Range: Why generalists triumph in a specialized world
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion
 - The Road To Character
 - Sapiens: A Brief History of Humankind
 - Tools and Weapons
-- Turing's Cathedral
-- Turn The Ship Around 
-- The Way to Go: Moving by Sea, Land, and Air 
 - A Whole New Mind  
 
 ### Suggested Books
