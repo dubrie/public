@@ -11,6 +11,7 @@ Trips in various stages of being booked and/or planned
 - Colorado Springs, Colorado
 - New York City, New York
 - Reykjavik, Iceland
+- Vancouver, Canada
 
 
 ## Continents Visited
