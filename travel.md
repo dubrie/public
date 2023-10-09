@@ -8,10 +8,14 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
-- Colorado Springs, Colorado
 - New York City, New York
 - Reykjavik, Iceland
+- Sacramento, California
 - Vancouver, Canada
+
+### 2024
+- Orcas Island, Washington
+- Boston, Massachusettes
 
 
 ## Continents Visited
