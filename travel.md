@@ -10,12 +10,14 @@ Trips in various stages of being booked and/or planned
 ### 2023
 - New York City, New York
 - Reykjavik, Iceland
+- Arlington, Virginia
 - Sacramento, California
 - Vancouver, Canada
 
 ### 2024
 - Orcas Island, Washington
 - Boston, Massachusettes
+- Santa Fe, New Mexico
 
 
 ## Continents Visited
