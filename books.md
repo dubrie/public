@@ -10,6 +10,8 @@
 
 ### Active Books
 - Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
+- Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
+- The Science of Storytelling by Will Storr
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -21,7 +23,6 @@
 - Thinking in Systems by Donella Meadows
 - Emergence: The connected Lives of Ants, Brains, Cities, and Software by Steven Johnson
 - Debt: The First 5,000 Years by David Graeber
-- Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
 - Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis by Scott Patterson
 
 
