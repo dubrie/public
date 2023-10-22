@@ -11,7 +11,6 @@
 ### Active Books
 - The Diary of a Nobody by George Grossmith
 - Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
-- Reimagining Capitalism in a World on Fire by Rebecca Henderson
 
 ### Up Next
 - The Human Element by Loran Nordgren  
@@ -56,6 +55,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2023
+- [Reimagining Capitalism in a World on Fire](/archive/books/reimagining-capitalism-in-a-world-on-fire.md) by Rebecca Henderson
 - [The Infinite Game](/archive/books/the-infinite-game.md) by Simon Sinek :thumbsup:
 - [The Civilized Engineer](/archive/books/the-civilized-engineer.md) by Samuel C. Florman 
 - [Do Hard Things](/archive/books/do-hard-things.md) by Steve Magness :thumbsup: :star: 
