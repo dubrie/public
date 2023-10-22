@@ -6,6 +6,7 @@
 - [Marathons](#marathons)
 - [22 Miles](#22-miles)
 - [20 Miles](#20-miles)
+- [30ks](#30ks)
 - [15 Miles](#15-miles)
 - [Half Marathons](#half-marathons)
 - [15ks](#15ks)
@@ -47,6 +48,10 @@
 ### 20 miles
 
 - **[2022 Lord Hill Trail Run](https://runsignup.com/Race/Results/68860/IndividualResult/ZsCM?resultSetId=303482#U35992128) - 2:47:25^**  
+
+### 30ks
+
+- **[2023 North Bend Skyline 30k](https://live.atlaslivetiming.com/Race/Detail/3c520cac-9d66-4a61-8191-106cee0d77aa) - 4:00:31**
 
 ### 15 miles
 
@@ -118,6 +123,7 @@
 
 ### 5ks
 
+- 2023 Boo Dash 5k - 16:53^@
 - [2022 Woodinville Turkey Trot](https://results.raceroster.com/en-US/results/detail/scmfb2z3jh3mhkjz) - 16:39
 - 2022 Brave Like Gabe 5k - 19:15
 - **[2019 Bolt For The Heart 5K](https://my.raceresult.com/142425/results?lang=en) - 16:21**
