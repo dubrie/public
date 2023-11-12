@@ -8,13 +8,11 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
-- New York City, New York
-- Reykjavik, Iceland
-- Arlington, Virginia
 - Sacramento, California
 - Vancouver, Canada
 
 ### 2024
+- Arlington, Virginia
 - Orcas Island, Washington
 - Boston, Massachusettes
 - Santa Fe, New Mexico
@@ -35,6 +33,7 @@ To be in this list I must have set foot on land in the country, i.e. airport lay
 ### Europe
 - France
 - Germany
+- Iceland
 - Ireland
 - Italy
 - Netherlands
