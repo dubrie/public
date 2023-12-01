@@ -8,7 +8,6 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2023
-- Sacramento, California
 - Vancouver, Canada
 
 ### 2024
@@ -16,7 +15,7 @@ Trips in various stages of being booked and/or planned
 - Orcas Island, Washington
 - Boston, Massachusettes
 - Santa Fe, New Mexico
-
+- Indianapolis, Indiana
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
