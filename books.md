@@ -12,6 +12,7 @@
 - Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
 - Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
 - The Science of Storytelling by Will Storr
+- The Longest Race by Kara Goucher
 
 ### Up Next
 - The Human Element by Loran Nordgren  
