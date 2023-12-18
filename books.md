@@ -9,7 +9,6 @@
 - [Top 5](#top-5)
 
 ### Active Books
-- Building Green Software by Anne Curie, Sara Hsu, and Sara Bergman
 - Master of Change: How to Excel When Everything Is Changing – Including You by Brad Stulberg
 - The Science of Storytelling by Will Storr
 
@@ -55,6 +54,7 @@ Submit a pull request with any suggested books you think I should read as additi
 ### Finished Books
 
 #### 2023
+- [Building Green Software](/archive/books/building-green-software.md) by Anne Curie, Sara Hsu, and Sara Bergman :thumbsup:
 - [The Longest Race](/archive/books/the-longest-race.md) by Kara Goucher :thumbsup:
 - [The Diary of a Nobody](/archive/books/the-diary-of-a-nobody.md) by George Grossmith
 - [Reimagining Capitalism in a World on Fire](/archive/books/reimagining-capitalism-in-a-world-on-fire.md) by Rebecca Henderson
