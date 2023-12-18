@@ -11,7 +11,6 @@ Trips in various stages of being booked and/or planned
 - Vancouver, Canada
 
 ### 2024
-- Arlington, Virginia
 - Orcas Island, Washington
 - Boston, Massachusettes
 - Santa Fe, New Mexico
