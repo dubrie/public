@@ -13,6 +13,7 @@ Trips in various stages of being booked and/or planned
 - Santa Fe, New Mexico
 - Indianapolis, Indiana
 - Sydney, Australia
+- Coles Bay, Australia
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
