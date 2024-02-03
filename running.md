@@ -18,7 +18,9 @@
 - [Adventure Races](#adventure-races)
 
 ### 50ks
-- [2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25
+- [2024 Orcas Island 50k](https://chronokeep.com/results/orcas-island-50k/2024/102) - 5:33:50
+- **[2019 Chuckanut 50k](https://runsignup.com/Race/Results/71999/IndividualResult/CXMH?#U34620089) - 5:01:25**
+
 
 ### Marathons
 - **[2023 Boston Marathon](https://results.baa.org/2023/?content=detail&fpid=search&pid=search&idp=9TGHS6FF182A26&lang=EN_CAP&event=R&event_main_group=runner&pidp=favorites&search%5Bstart_no%5D=1403&search_event=R)\* - 2:43:53**
