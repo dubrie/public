@@ -8,12 +8,12 @@ Trips in various stages of being booked and/or planned
 
 
 ### 2024
-- Orcas Island, Washington
 - Boston, Massachusettes
 - Santa Fe, New Mexico
 - Indianapolis, Indiana
 - Sydney, Australia
 - Coles Bay, Australia
+- Kona, Hawaii
 
 ## Continents Visited
 To be in this list I must have set foot on land in the country, i.e. airport layovers or train stations do not count
